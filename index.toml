@@ -1,0 +1,241 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/appliedenergistics2/client.json"
+hash = "50413c7b296c5177a49f9b4e5d049072ac4784c89c4c582efed95a019069169b"
+
+[[files]]
+file = "config/appliedenergistics2/common.json"
+hash = "e2eaec8b04b02ff9f6f3f07169b245087c075fb40c1ae240607cd90e9dffe57f"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "f14e9ccce267b9025d8f0e9fbdf3b1738db86dbd7801ad19be6480125536bbdf"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "a6db5255afe68b0b9707dc9cac063967f7f1e995c404d2f66bda61f44bebcc15"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/challenges.snbt"
+hash = "9f7b0bfc301c70d4c03d5b6112890510f264a874198dbdd3738960e01816bbe4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tech.snbt"
+hash = "01e3a7f04d447193eef45af12616db6689194329e9bc911f1a59e6fdd6ba8b01"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "53618a9e76e315525d1232cb34d00a7f9c9bed206da9277d03ea82949cc7070e"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modern_industrialization.toml"
+hash = "e2d247277c17bc31ebdfce8947cc9c7fbf1579e4db6b5aa842e8c9fc6f538cf1"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e8254b5522711a78e7e76bb6067892df6198bd8d9212a816ba09b95829e531e3"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+hash = "abff0cca7b98562e4b9b3e9346fdc680b409e4cb6d7fc0d1cb32e8313b52ade0"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "29747ebbaf0767f688a1fdf652abc9f0c806f37a7a745cc68740afd21115f046"
+
+[[files]]
+file = "config/reborncore/misc.json"
+hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "94d8dfea9295619958aaabf07bcb75e5f4eb58c65ded1a8755d175590ad2d0b2"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "73b0e4a15dab732342367702cf18e81959f84b43fb80b55be86f2d055de65ef9"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "0b16d1ae9003f3a8dd6054dc3eaff300ba824855dbddb9a8bd6ed84294b1da17"
+
+[[files]]
+file = "config/techreborn/generators.json"
+hash = "bfd941893b7d1ffe2aa831763486d797cab405f76c756e73c9ba3c33473b0f7e"
+
+[[files]]
+file = "config/techreborn/items.json"
+hash = "f7e9b4be4a4545b2aee633101b99acec41c9e7633bb9f37794f54cb762de6e4e"
+
+[[files]]
+file = "config/techreborn/machines.json"
+hash = "d790a51fc026f5d990d4ee5b02438e3ff8926b0d6ad78e34e7ea7362673970eb"
+
+[[files]]
+file = "config/techreborn/misc.json"
+hash = "4e43f4014fcd2c9442969de4b7734b569dae825422168def7bc8bb858ceff55a"
+
+[[files]]
+file = "config/techreborn/world.json"
+hash = "9cb633e2c8b765254e28d0b5d4e346913a435d56f39ea2fad4bb5dcb7c424d09"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "255f5620c6153980513b1f82007279bce2f3388bc5e0858a7fb07c956801e49f"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "ff8077f6f6ae0957f98318daea1393c5d2988c647b484ff644fd88f0be8477e3"
+
+[[files]]
+file = "kubejs/exported/tags/blocks.txt"
+hash = "6a1840c3901644342d5510f16da354381d3c7cc051447349210204e1218b117f"
+
+[[files]]
+file = "kubejs/exported/tags/entity_types.txt"
+hash = "8bdbae7f8599539eaf1463e5112d152ca5f352b6c9f9eb02cef6b86f5f1e0b82"
+
+[[files]]
+file = "kubejs/exported/tags/fluids.txt"
+hash = "d23b5514b2127a136334b808a4d47d35ef823cbfca7faf9dd33b165e5e3251b3"
+
+[[files]]
+file = "kubejs/exported/tags/functions.txt"
+hash = "50083c29c10d975fc0c40e3168a40bc436ddb70c9d44d5481c46bc3d4d3f7769"
+
+[[files]]
+file = "kubejs/exported/tags/items.txt"
+hash = "109d472e8a5f032d5c4a59555312ea12909c63c7bcd6023c2fdd3b9b61a2f1e7"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_tweaks.js"
+hash = "1d6494381d25403a9dda4219ee62d9a6d1489b8346820a03173a312e96b512e0"
+
+[[files]]
+file = "kubejs/server_scripts/unify_machines.js"
+hash = "fbce1ad1216bad8eba0f069349adafd6a986c2a5e366e75a83bb6f374c00294f"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "d2ea3e02a1254600c7f78d0b2befd9a8a434a525e57c68cdff26ac26756dda7e"
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "2f120e8b9429bf056479342ad343d4e95ef03a141ebf54b2e01293a6f59f0b59"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "c7d982413d0428c8be354e6238241ff9c51c4f1fa82c5b8203654249dea4c2d2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "9891f576ae2fd7796c99deec82c73e2b1a5a19b2d20f34b49d5c6db0a2e45e77"
+metafile = true
+
+[[files]]
+file = "mods/ftb-gui-library-fabric.toml"
+hash = "c1a2460cb09dbbd774c6c0780c2dcedda893d6a594d02e6ed120af1a2acdc336"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.toml"
+hash = "e460f87021db8aafcc9d12b3cfc587172c29200ad7fadabe5f1b1a9a21bb3492"
+metafile = true
+
+[[files]]
+file = "mods/item-filters-fabric.toml"
+hash = "e9c38980b3ba1ba50843232d0f0aab101e06a4dd63de202c563e79b27e40195c"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "da1d2f38be540c3626408dc809a3e9b8846b5f97c2d799393c8fb987070d3a72"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-fabric.toml"
+hash = "d898a678f2ed99a37547f0820053d33661f97855fa5b1b567cec03a90eb01b09"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "422c1de9efb874e42c49d6cfbf87bcb01e603f9adba2f51a9dfaa3611b7313b8"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.toml"
+hash = "25cca43d2b065cd05829387991dbb4ac0eb62bd07814541af6a3ab7b44cac50a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "89f3e405702e97fbea8f83e9a11ef245bff1b90fa612f70362e85792fa4606ed"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "48801db07e7f0352c9a155aa236c01a48b85e638424d41c89a02a7cdcd1266ad"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "20e4cf1c9eaaa6a4a56bab823adf68f85e2c71b3f8c584deffc0cc7425e58809"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.toml"
+hash = "a016966f4400b05de22b07ba9643089852402c302feb45a97c5a058acfc35b15"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "0e2a4a0470d8d9fc7d8493614cfc2ab9e58307694bf70c0a3e9ca97655bde971"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "ae450426f23a94475320836f0ddbc6ae71782cd7b0a196a12ba165ef7f9168be"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "07f661d05cae535ef8933f815ee4a946abdea2555ad688c7753a9ad30ee7bd18"
+metafile = true
