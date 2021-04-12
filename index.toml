@@ -9,8 +9,12 @@ file = "config/appliedenergistics2/common.json"
 hash = "e2eaec8b04b02ff9f6f3f07169b245087c075fb40c1ae240607cd90e9dffe57f"
 
 [[files]]
+file = "config/croptopia/options.json"
+hash = "936c80a830bdc683a8993f5f737b38fcf83c545fd18af046d83eeda29c9f14d2"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f14e9ccce267b9025d8f0e9fbdf3b1738db86dbd7801ad19be6480125536bbdf"
+hash = "f7857872ad912e7921ba4fbf97d313d84134ef4699cd5ef3ecb761a76a4559b2"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -29,8 +33,12 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "53618a9e76e315525d1232cb34d00a7f9c9bed206da9277d03ea82949cc7070e"
 
 [[files]]
-file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+file = "config/go-fish.json"
+hash = "139b52a82562da365fd99eebcf641da2a3db56cd5f353d665122c5f6aab04a7d"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
 
 [[files]]
 file = "config/modern_industrialization.toml"
@@ -59,6 +67,10 @@ hash = "94d8dfea9295619958aaabf07bcb75e5f4eb58c65ded1a8755d175590ad2d0b2"
 [[files]]
 file = "config/rrp.properties"
 hash = "73b0e4a15dab732342367702cf18e81959f84b43fb80b55be86f2d055de65ef9"
+
+[[files]]
+file = "config/sandwichable.json"
+hash = "54b457b6526271079f708fb9b70c25d0ee0dea0d0d9490b7dfc111dae8a1c028"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -129,11 +141,11 @@ file = "kubejs/exported/tags/items.txt"
 hash = "109d472e8a5f032d5c4a59555312ea12909c63c7bcd6023c2fdd3b9b61a2f1e7"
 
 [[files]]
-file = "kubejs/server_scripts/recipe_tweaks.js"
+file = "kubejs/server_scripts/high_tech/recipe_tweaks.js"
 hash = "1d6494381d25403a9dda4219ee62d9a6d1489b8346820a03173a312e96b512e0"
 
 [[files]]
-file = "kubejs/server_scripts/unify_machines.js"
+file = "kubejs/server_scripts/high_tech/unify_machines.js"
 hash = "fbce1ad1216bad8eba0f069349adafd6a986c2a5e366e75a83bb6f374c00294f"
 
 [[files]]
@@ -156,6 +168,16 @@ hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "a6d54d76d84fb04aaa156476d8df70c1cfa11f3f24f34abf060a8dea88f7bf4a"
+metafile = true
+
+[[files]]
+file = "mods/croptosis.toml"
+hash = "956f67de4e33c5ca1cb67158ce160d372d661342c65941eceef17730be02537d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "9891f576ae2fd7796c99deec82c73e2b1a5a19b2d20f34b49d5c6db0a2e45e77"
 metafile = true
@@ -171,28 +193,33 @@ hash = "e460f87021db8aafcc9d12b3cfc587172c29200ad7fadabe5f1b1a9a21bb3492"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric.toml"
+hash = "bdf14cf24dd6db4a6c3c89208acdb253e4185e67058e4ce3139cfb27597bc88e"
+metafile = true
+
+[[files]]
+file = "mods/go-fish.toml"
+hash = "d8386830187d47129066b829961bb827476e2aae457cdcbe49b8566042e9615d"
+metafile = true
+
+[[files]]
 file = "mods/item-filters-fabric.toml"
 hash = "e9c38980b3ba1ba50843232d0f0aab101e06a4dd63de202c563e79b27e40195c"
 metafile = true
 
 [[files]]
-file = "mods/krypton.toml"
-hash = "da1d2f38be540c3626408dc809a3e9b8846b5f97c2d799393c8fb987070d3a72"
+file = "mods/kubejs-fabric.toml"
+hash = "78d21852076caf5099f7714c73407321211a24c2124703c5b74433ba667333d7"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-fabric.toml"
-hash = "d898a678f2ed99a37547f0820053d33661f97855fa5b1b567cec03a90eb01b09"
+file = "mods/lalega-sushi.toml"
+hash = "eaf4a15f04ae9c16f2514597a2b843ec73d3ca4f9970ccc7b486cab53512daee"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
-metafile = true
-
-[[files]]
-file = "mods/lithium.toml"
-hash = "422c1de9efb874e42c49d6cfbf87bcb01e603f9adba2f51a9dfaa3611b7313b8"
 metafile = true
 
 [[files]]
@@ -216,8 +243,8 @@ hash = "20e4cf1c9eaaa6a4a56bab823adf68f85e2c71b3f8c584deffc0cc7425e58809"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
+file = "mods/rats-mischief.toml"
+hash = "c3faaa0526e0c4e2340fbb7a8b174e607833f516aa89fe317a0c20a14b52e48d"
 metafile = true
 
 [[files]]
@@ -232,7 +259,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "ae450426f23a94475320836f0ddbc6ae71782cd7b0a196a12ba165ef7f9168be"
+hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.toml"
+hash = "2fca7f552d1c94abd9e43c35d8b713930cb17f0fa711b83d14ac8b21d66d4579"
 metafile = true
 
 [[files]]
