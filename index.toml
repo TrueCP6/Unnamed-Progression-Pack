@@ -14,7 +14,7 @@ hash = "936c80a830bdc683a8993f5f737b38fcf83c545fd18af046d83eeda29c9f14d2"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f7857872ad912e7921ba4fbf97d313d84134ef4699cd5ef3ecb761a76a4559b2"
+hash = "efc6ec6d98cd370b221a0a48da9b836f0c2b62575d7bee4ef6ad31c0eef07b44"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -22,11 +22,15 @@ hash = "a6db5255afe68b0b9707dc9cac063967f7f1e995c404d2f66bda61f44bebcc15"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/challenges.snbt"
-hash = "9f7b0bfc301c70d4c03d5b6112890510f264a874198dbdd3738960e01816bbe4"
+hash = "9926482285c254f1756bef5380b5770932c71491211f30a9d007a168b418a948"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/husbandry.snbt"
+hash = "1a8406df962d4f5de3687de94afd6c049d6ba7b87badc8ce5e585653201a18ad"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tech.snbt"
-hash = "01e3a7f04d447193eef45af12616db6689194329e9bc911f1a59e6fdd6ba8b01"
+hash = "97f619f6b7745128c0c0b0f91eb0e418d06eff91a619e59eb04dfaa01a79df4d"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -53,6 +57,10 @@ file = "config/notenoughcrashes.json"
 hash = "abff0cca7b98562e4b9b3e9346fdc680b409e4cb6d7fc0d1cb32e8313b52ade0"
 
 [[files]]
+file = "config/nourish.json"
+hash = "5869590017ce6639fe722ccb76abed4b53cc0a37adb59e297fac421f1584298a"
+
+[[files]]
 file = "config/patchouli.json5"
 hash = "29747ebbaf0767f688a1fdf652abc9f0c806f37a7a745cc68740afd21115f046"
 
@@ -62,7 +70,7 @@ hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "94d8dfea9295619958aaabf07bcb75e5f4eb58c65ded1a8755d175590ad2d0b2"
+hash = "353f0501d4b89ffd29ae59cfd23a477617347d152923c2226a347b78f49c7d0f"
 
 [[files]]
 file = "config/rrp.properties"
@@ -159,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c7d982413d0428c8be354e6238241ff9c51c4f1fa82c5b8203654249dea4c2d2"
+hash = "9d321c99521f8812ab01f28b92e94f1f5c1825ccc3df35dfd740d0de811bca33"
 metafile = true
 
 [[files]]
@@ -194,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib-fabric.toml"
-hash = "bdf14cf24dd6db4a6c3c89208acdb253e4185e67058e4ce3139cfb27597bc88e"
+hash = "3b28c8a8aae60dc1e5e5e0c85d64c641d295359ec4215cd7a759d5b9a593d20d"
 metafile = true
 
 [[files]]
@@ -213,18 +221,13 @@ hash = "78d21852076caf5099f7714c73407321211a24c2124703c5b74433ba667333d7"
 metafile = true
 
 [[files]]
-file = "mods/lalega-sushi.toml"
-hash = "eaf4a15f04ae9c16f2514597a2b843ec73d3ca4f9970ccc7b486cab53512daee"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.toml"
 hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
 metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "25cca43d2b065cd05829387991dbb4ac0eb62bd07814541af6a3ab7b44cac50a"
+hash = "7e5c766f3180cecd5eda96b3c8ca2d8999efca3567f1fed01db015590b548a37"
 metafile = true
 
 [[files]]
@@ -235,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "48801db07e7f0352c9a155aa236c01a48b85e638424d41c89a02a7cdcd1266ad"
+metafile = true
+
+[[files]]
+file = "mods/nourish.toml"
+hash = "1e76325a0810dd0c18928acfbcb94e1b5e45707a9d3e998cc27682fbbb209b69"
 metafile = true
 
 [[files]]
@@ -260,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "fb37c83160b7b42abc998680881dcfa616338baba033832ad422bff20453f8de"
 metafile = true
 
 [[files]]
