@@ -1,0 +1,16 @@
+{
+	id: "180B4DB4A0778F61",
+	group: "5D2FAAECCCBC3D45",
+	order_index: 1,
+	filename: "processing_ingredients",
+	title: "Processing Ingredients",
+	icon: {
+		id: "croptopia:food_press",
+		Count: 1b,
+		tag: {
+			Damage: 0
+		}
+	},
+	default_quest_shape: "",
+	quests: []
+}

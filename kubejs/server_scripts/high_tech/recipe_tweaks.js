@@ -12,6 +12,7 @@ events.listen('recipes', function (event) {
     function mergeRemove(from, to) {
         event.replaceInput({}, from, to)
         event.remove({output: from})
+        event.shapeless(to, [from])
     }
 
     mergeRemove(tr+'electronic_circuit', mi+'lv_circuit')
@@ -29,6 +30,7 @@ events.listen('recipes', function (event) {
     //liquid storage
     //quarry ores
     //compressor and macerator
+    //build full production line
     //simple drawers
 
     //go through everything - rewards, descriptions, names

@@ -1,0 +1,20 @@
+{
+	id: "20DE94BD1693F288",
+	group: "5D2FAAECCCBC3D45",
+	order_index: 2,
+	filename: "completed_meals",
+	title: "Completed Meals",
+	icon: "croptopia:taco",
+	default_quest_shape: "",
+	quests: [{
+		x: 0.0d,
+		y: 0.0d,
+		id: "419F7CF92B61CAE8",
+		tasks: [{
+			id: "367B0BB7205A8E89",
+			type: "checkmark",
+			title: "Staying Nourished",
+			icon: "minecraft:bread"
+		}]
+	}]
+}

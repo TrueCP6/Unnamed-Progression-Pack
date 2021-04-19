@@ -1,34 +1,17 @@
 {
 	id: "5A200A849609AAA8",
-	group: "",
+	group: "5D2FAAECCCBC3D45",
 	order_index: 0,
 	filename: "husbandry",
-	title: "Husbandry",
-	icon: {
-		id: "patchouli:guide_book",
-		Count: 1b,
-		tag: {
-			"patchouli:book": "sandwichable:sandwichable_compendium"
-		}
-	},
+	title: "Raw Ingredients",
+	icon: "croptopia:kiwi",
 	default_quest_shape: "",
 	quests: [
 		{
-			icon: "minecraft:bread",
-			x: -1.0d,
-			y: -1.0d,
-			id: "40D526B8D47AF221",
-			tasks: [{
-				id: "686BF71D13E569D2",
-				type: "checkmark",
-				title: "Staying Nourished"
-			}]
-		},
-		{
 			icon: "minecraft:wheat_seeds",
 			x: 0.0d,
-			y: -1.0d,
-			description: ["Break tall grass with a hoe in various biomes to obtain your first seeds."],
+			y: -0.5d,
+			description: ["Break tall grass with a hoe in various biomes to obtain seeds. Don't feel obligated to acquire and farm them all, but doing so may present a fun challenge."],
 			id: "667A79994021A147",
 			tasks: [{
 				id: "136C06E35E119057",
@@ -138,6 +121,7 @@
 		{
 			x: 3.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "1C6B0E28B8225E2E",
 			tasks: [{
 				id: "5250FEB22ECC878B",
@@ -148,6 +132,7 @@
 		{
 			x: 4.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "1CADC09C549A0F3B",
 			tasks: [{
 				id: "6431D03936BDA2E3",
@@ -158,6 +143,7 @@
 		{
 			x: 5.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "0D0DCA4BF11410E3",
 			tasks: [{
 				id: "7EC65990BE937ADB",
@@ -168,6 +154,7 @@
 		{
 			x: 6.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "461B7923CF35784E",
 			tasks: [{
 				id: "4B12C55C673D0EDE",
@@ -178,6 +165,7 @@
 		{
 			x: 7.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "7D369B339FBEAA03",
 			tasks: [{
 				id: "584051AD2DE67E8D",
@@ -199,6 +187,7 @@
 		{
 			x: 2.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "097FD971FC166D79",
 			tasks: [{
 				id: "29F6275F3C7DAFA0",
@@ -209,6 +198,7 @@
 		{
 			x: 5.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "2ADAE52550668A3B",
 			tasks: [{
 				id: "60158B43E0B68349",
@@ -219,6 +209,7 @@
 		{
 			x: 4.0d,
 			y: -2.0d,
+			dependencies: ["657FC8A91D7CBFB3"],
 			id: "7B117E87DC6BF9F7",
 			tasks: [{
 				id: "7AD170800217F678",
@@ -229,6 +220,7 @@
 		{
 			x: 6.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "03AA4179FF5AC925",
 			tasks: [{
 				id: "692F8D4E0A6F30EC",
@@ -239,6 +231,7 @@
 		{
 			x: 5.0d,
 			y: -2.0d,
+			dependencies: ["657FC8A91D7CBFB3"],
 			id: "0FA4800EAD1C6E1C",
 			tasks: [{
 				id: "5BE8B60936A09746",
@@ -249,6 +242,7 @@
 		{
 			x: 3.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "5C9279DB443EBC0C",
 			tasks: [{
 				id: "4720154EC3F4AC38",
@@ -259,6 +253,7 @@
 		{
 			x: 7.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "13BC48BEF94F060D",
 			tasks: [{
 				id: "70D8B14D9E8E7608",
@@ -269,6 +264,7 @@
 		{
 			x: 8.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "4AEC6CD4BC9DD8C9",
 			tasks: [{
 				id: "2736BDBF76A2D3E5",
@@ -279,6 +275,7 @@
 		{
 			x: 4.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "528DC78ED530DF90",
 			tasks: [{
 				id: "2FE13AD68202C40F",
@@ -289,6 +286,7 @@
 		{
 			x: 9.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "0C7DEBE6A6F840A6",
 			tasks: [{
 				id: "47C01CAC2439DDCA",
@@ -299,6 +297,7 @@
 		{
 			x: 5.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "0E0AE56FB0A05709",
 			tasks: [{
 				id: "648B2A75B04549E9",
@@ -309,6 +308,7 @@
 		{
 			x: 6.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "174779B62F77AEE6",
 			tasks: [{
 				id: "2D6C307EDA87127A",
@@ -330,6 +330,7 @@
 		{
 			x: 2.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "3A11E7965600BF41",
 			tasks: [{
 				id: "174E18EB82CCB68D",
@@ -340,6 +341,7 @@
 		{
 			x: 8.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "7FC6D89D92DC3337",
 			tasks: [{
 				id: "2EAB8A0FB01148E1",
@@ -350,6 +352,7 @@
 		{
 			x: 3.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "3BCA790225C83593",
 			tasks: [{
 				id: "25BB45033ACC7C56",
@@ -360,6 +363,7 @@
 		{
 			x: 4.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "18EEB081CD0D6A74",
 			tasks: [{
 				id: "6FA193946AB6AAD1",
@@ -370,6 +374,7 @@
 		{
 			x: 9.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "34988FF1529EF9EA",
 			tasks: [{
 				id: "311FED6AF5BD2349",
@@ -380,6 +385,7 @@
 		{
 			x: 5.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "24B309992A7DDE16",
 			tasks: [{
 				id: "098E9DF64D9C4DEF",
@@ -390,6 +396,7 @@
 		{
 			x: 7.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "1D02294918274D13",
 			tasks: [{
 				id: "126DD97B9D1D1E1B",
@@ -400,6 +407,7 @@
 		{
 			x: 8.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "43021D8E12E1472A",
 			tasks: [{
 				id: "12E8C2FF2E5DC1B6",
@@ -410,6 +418,7 @@
 		{
 			x: 9.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "098A97049B6318EA",
 			tasks: [{
 				id: "65B31BEA74EABB35",
@@ -420,6 +429,7 @@
 		{
 			x: 10.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "5FCED5F10BFC7462",
 			tasks: [{
 				id: "540152FF1FD7C621",
@@ -430,6 +440,7 @@
 		{
 			x: 11.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "4F135AF90E372B4B",
 			tasks: [{
 				id: "30D3C40895B4FBAF",
@@ -440,6 +451,7 @@
 		{
 			x: 10.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "727BD71C0F08BF9D",
 			tasks: [{
 				id: "1154E11033E59280",
@@ -450,6 +462,7 @@
 		{
 			x: 11.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "55DCA3B64C88E792",
 			tasks: [{
 				id: "7656533FA01F19DC",
@@ -460,6 +473,7 @@
 		{
 			x: 6.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "18602178BD73BC18",
 			tasks: [{
 				id: "4E6AC235BE6D6E4D",
@@ -470,6 +484,7 @@
 		{
 			x: 2.0d,
 			y: 2.0d,
+			dependencies: ["4D5A4FC58899D4D2"],
 			id: "3FB193D51C65A3B9",
 			tasks: [{
 				id: "62589814F1B44585",
@@ -491,6 +506,7 @@
 		{
 			x: 12.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "152B2B20DD4BFC9F",
 			tasks: [{
 				id: "113259FCC8422C77",
@@ -501,6 +517,7 @@
 		{
 			x: 7.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "2DA166421A20F476",
 			tasks: [{
 				id: "538CF4B6A2AD588F",
@@ -511,6 +528,7 @@
 		{
 			x: 13.0d,
 			y: 0.0d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "0898F2BF154C09FA",
 			tasks: [{
 				id: "144396AD5D19A7D3",
@@ -521,6 +539,7 @@
 		{
 			x: 10.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "484FA24808037FFE",
 			tasks: [{
 				id: "1847627CF0552B0C",
@@ -531,6 +550,7 @@
 		{
 			x: 11.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "61A0FFFA99C6529B",
 			tasks: [{
 				id: "1F8D0574D1CBDABA",
@@ -541,6 +561,7 @@
 		{
 			x: 12.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "7213C49ACEB3A5F8",
 			tasks: [{
 				id: "113180B8F59C585D",
@@ -551,6 +572,7 @@
 		{
 			x: 12.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "0D75BA537781C118",
 			tasks: [{
 				id: "2E6E9615C189104D",
@@ -561,6 +583,7 @@
 		{
 			x: 8.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "312F6622EB5482FB",
 			tasks: [{
 				id: "4F41BE8C9B39C7EE",
@@ -571,6 +594,7 @@
 		{
 			x: 9.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "0D38DD1EF884B608",
 			tasks: [{
 				id: "66527AEDB4B4A4DF",
@@ -581,6 +605,7 @@
 		{
 			x: 13.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "5F751315CB72725B",
 			tasks: [{
 				id: "5C90B6701B66A303",
@@ -591,6 +616,7 @@
 		{
 			x: 14.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "01424BB8C7F65EEC",
 			tasks: [{
 				id: "7CE04FCF424B7042",
@@ -601,6 +627,7 @@
 		{
 			x: 10.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "737111CBB68DF7BC",
 			tasks: [{
 				id: "47ABBF24FDCB9803",
@@ -611,6 +638,7 @@
 		{
 			x: 11.0d,
 			y: -3.0d,
+			dependencies: ["18C1515819EDBF29"],
 			id: "21004E0B5935B2D7",
 			tasks: [{
 				id: "29430502AE3EF0DF",
@@ -621,6 +649,7 @@
 		{
 			x: 13.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "0BA6117B36CC1B63",
 			tasks: [{
 				id: "5EA0E18A5E969915",
@@ -631,6 +660,7 @@
 		{
 			x: 15.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "4C8B18470B6B73E1",
 			tasks: [{
 				id: "41C8C3450C19613A",
@@ -641,6 +671,7 @@
 		{
 			x: 16.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "194DA53DF3E32F58",
 			tasks: [{
 				id: "20E83CC114E13D61",
@@ -651,6 +682,7 @@
 		{
 			x: 17.0d,
 			y: -1.0d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "1C8B26C22D2F7374",
 			tasks: [{
 				id: "2505659D4C0C9F6F",
@@ -661,11 +693,294 @@
 		{
 			x: 14.0d,
 			y: 1.0d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "6C6BC9F73E2B40FA",
 			tasks: [{
 				id: "7425249F5A256BAA",
 				type: "item",
 				item: "croptopia:vanilla_seeds"
+			}]
+		},
+		{
+			icon: "minecraft:oak_sapling",
+			x: 0.0d,
+			y: 3.0d,
+			description: ["Across the world you can find crops growing on trees. Once ripe they can be harvested with right click and combined with a sapling to create a sapling of that crop type."],
+			id: "11EA657C267B9AE6",
+			tasks: [{
+				id: "6846B0B5CC289DAA",
+				type: "checkmark",
+				title: "Obtaining Saplings"
+			}]
+		},
+		{
+			x: 12.0d,
+			y: 4.0d,
+			id: "33F32EB39B9B64E1",
+			tasks: [{
+				id: "5472393216E205B2",
+				type: "item",
+				item: "croptopia:apple_sapling"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 3.0d,
+			id: "45368CDBF3760849",
+			tasks: [{
+				id: "6A57FCD59F92E7D2",
+				type: "item",
+				item: "croptopia:banana_sapling"
+			}]
+		},
+		{
+			x: 3.0d,
+			y: 3.0d,
+			id: "5F6247AFF1C3AF0A",
+			tasks: [{
+				id: "03179F1686BEA01B",
+				type: "item",
+				item: "croptopia:orange_sapling"
+			}]
+		},
+		{
+			x: 4.0d,
+			y: 3.0d,
+			id: "794439F8DAB2E4B1",
+			tasks: [{
+				id: "3B79EBCA008711D8",
+				type: "item",
+				item: "croptopia:persimmon_sapling"
+			}]
+		},
+		{
+			x: 5.0d,
+			y: 3.0d,
+			id: "730DDA365BF6DE89",
+			tasks: [{
+				id: "30D0F9BB3D2C7E20",
+				type: "item",
+				item: "croptopia:plum_sapling"
+			}]
+		},
+		{
+			x: 6.0d,
+			y: 3.0d,
+			id: "306837E245AD70F6",
+			tasks: [{
+				id: "404C27CBC5FCC12E",
+				type: "item",
+				item: "croptopia:cherry_sapling"
+			}]
+		},
+		{
+			x: 7.0d,
+			y: 3.0d,
+			id: "2005F5EE6952E968",
+			tasks: [{
+				id: "261F19ACDCEC09A2",
+				type: "item",
+				item: "croptopia:lemon_sapling"
+			}]
+		},
+		{
+			x: 8.0d,
+			y: 3.0d,
+			id: "23216FC7599F2495",
+			tasks: [{
+				id: "18D1B97E83C7FDAC",
+				type: "item",
+				item: "croptopia:grapefruit_sapling"
+			}]
+		},
+		{
+			x: 9.0d,
+			y: 3.0d,
+			id: "045BE98D598476F2",
+			tasks: [{
+				id: "5263EB2BCFD0E2F8",
+				type: "item",
+				item: "croptopia:kumquat_sapling"
+			}]
+		},
+		{
+			x: 10.0d,
+			y: 3.0d,
+			id: "593CF03B7E8525DA",
+			tasks: [{
+				id: "32B0BF1121CB9CCB",
+				type: "item",
+				item: "croptopia:peach_sapling"
+			}]
+		},
+		{
+			x: 11.0d,
+			y: 3.0d,
+			id: "384B8B6C34D68801",
+			tasks: [{
+				id: "4B89C25464FF8539",
+				type: "item",
+				item: "croptopia:coconut_sapling"
+			}]
+		},
+		{
+			x: 12.0d,
+			y: 3.0d,
+			id: "163ECEE1FC73513A",
+			tasks: [{
+				id: "5A2DBE12481F8010",
+				type: "item",
+				item: "croptopia:nutmeg_sapling"
+			}]
+		},
+		{
+			x: 13.0d,
+			y: 3.0d,
+			id: "7B136E0BC87A495F",
+			tasks: [{
+				id: "305135A4D724A49D",
+				type: "item",
+				item: "croptopia:fig_sapling"
+			}]
+		},
+		{
+			x: 14.0d,
+			y: 3.0d,
+			id: "0CC496CA20F4B938",
+			tasks: [{
+				id: "0F9B5752B85243C5",
+				type: "item",
+				item: "croptopia:nectarine_sapling"
+			}]
+		},
+		{
+			x: 15.0d,
+			y: 3.0d,
+			id: "0E56396D606A3F9B",
+			tasks: [{
+				id: "0A135129D50C8538",
+				type: "item",
+				item: "croptopia:mango_sapling"
+			}]
+		},
+		{
+			x: 16.0d,
+			y: 3.0d,
+			id: "71AAAFF308E71A63",
+			tasks: [{
+				id: "603E4F6BB94329F5",
+				type: "item",
+				item: "croptopia:dragonfruit_sapling"
+			}]
+		},
+		{
+			x: 17.0d,
+			y: 3.0d,
+			id: "2465E1CD3F0FD7E9",
+			tasks: [{
+				id: "25DB1A68F8C3BE94",
+				type: "item",
+				item: "croptopia:starfruit_sapling"
+			}]
+		},
+		{
+			x: 11.0d,
+			y: 4.0d,
+			id: "376C95891F526230",
+			tasks: [{
+				id: "7B8A17131589EC77",
+				type: "item",
+				item: "croptopia:avocado_sapling"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 4.0d,
+			id: "493FD69039DC49E2",
+			tasks: [{
+				id: "6BF9BF8ABF3BC438",
+				type: "item",
+				item: "croptopia:apricot_sapling"
+			}]
+		},
+		{
+			x: 3.0d,
+			y: 4.0d,
+			id: "40E6D569810CEA2D",
+			tasks: [{
+				id: "41FCF3452D1DD4D5",
+				type: "item",
+				item: "croptopia:pear_sapling"
+			}]
+		},
+		{
+			x: 4.0d,
+			y: 4.0d,
+			id: "7D233B403A43E6DD",
+			tasks: [{
+				id: "6A4D4E84ED93E3DA",
+				type: "item",
+				item: "croptopia:lime_sapling"
+			}]
+		},
+		{
+			x: 5.0d,
+			y: 4.0d,
+			id: "577C93913BEF41CC",
+			tasks: [{
+				id: "60AF408ACF7FD9CB",
+				type: "item",
+				item: "croptopia:date_sapling"
+			}]
+		},
+		{
+			x: 6.0d,
+			y: 4.0d,
+			id: "41D30B4CEE1E4D87",
+			tasks: [{
+				id: "651018167EADD513",
+				type: "item",
+				item: "croptopia:almond_sapling"
+			}]
+		},
+		{
+			x: 7.0d,
+			y: 4.0d,
+			id: "09B0E21948892CDC",
+			tasks: [{
+				id: "3C9412952B0F34E5",
+				type: "item",
+				item: "croptopia:cashew_sapling"
+			}]
+		},
+		{
+			x: 8.0d,
+			y: 4.0d,
+			id: "10AB434DA744EDD8",
+			tasks: [{
+				id: "0DA4E662D6A6F7A7",
+				type: "item",
+				item: "croptopia:pecan_sapling"
+			}]
+		},
+		{
+			x: 9.0d,
+			y: 4.0d,
+			id: "029B29E4522666B1",
+			tasks: [{
+				id: "72A3F639E7740214",
+				type: "item",
+				item: "croptopia:walnut_sapling"
+			}]
+		},
+		{
+			x: 10.0d,
+			y: 4.0d,
+			id: "7098857666F85624",
+			tasks: [{
+				id: "332546A66221B2E0",
+				type: "item",
+				item: "croptopia:cinnamon_sapling"
 			}]
 		}
 	]

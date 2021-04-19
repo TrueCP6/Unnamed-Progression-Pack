@@ -4,15 +4,18 @@
 			{
 				"type": "roughlyenoughitems:entry_stack",
 				"data": {
-					"id": "minecraft:acacia_wood",
+					"id": "techreborn:cell",
 					"Count": 127,
+					"tag": {
+						"fluid": "techreborn:heliumplasma"
+					},
 					"type": "item"
 				}
 			},
 			{
 				"type": "roughlyenoughitems:entry_stack",
 				"data": {
-					"id": "minecraft:oak_slab",
+					"id": "minecraft:stripped_birch_wood",
 					"Count": 127,
 					"type": "item"
 				}
