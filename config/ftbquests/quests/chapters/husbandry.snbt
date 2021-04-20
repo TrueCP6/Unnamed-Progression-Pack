@@ -8,20 +8,33 @@
 	default_quest_shape: "",
 	quests: [
 		{
+			title: "Gathering Seeds",
 			icon: "minecraft:wheat_seeds",
-			x: 0.0d,
-			y: -0.5d,
-			description: ["Break tall grass with a hoe in various biomes to obtain seeds. Don't feel obligated to acquire and farm them all, but doing so may present a fun challenge."],
+			x: 0.5d,
+			y: 1.0d,
+			description: [
+				"Break tall grass with a hoe in various biomes to obtain seeds.",
+				"",
+				"In various biomes across the world you can find crops growing on trees. Once ripe they can be harvested with right click and combined with a sapling to create a sapling of that crop type.",
+				"",
+				"Don't feel obligated to acquire and farm all the crop types, but doing so may present a fun challenge and unlock some interesting foods."
+			],
 			id: "667A79994021A147",
 			tasks: [{
 				id: "136C06E35E119057",
 				type: "checkmark",
-				title: "Obtaining Seeds"
+				title: "I have read and agree to all the terms in this document"
+			}],
+			rewards: [{
+				id: "5785752E5D6D0E9C",
+				type: "item",
+				item: "croptopia:guide"
 			}]
 		},
 		{
-			x: 1.0d,
-			y: -2.0d,
+			icon: "minecraft:lily_pad",
+			x: -1.5d,
+			y: 3.5d,
 			dependencies: ["667A79994021A147"],
 			id: "657FC8A91D7CBFB3",
 			tasks: [{
@@ -31,8 +44,8 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: -2.0d,
+			x: -1.5d,
+			y: 4.5d,
 			dependencies: ["657FC8A91D7CBFB3"],
 			id: "1C121FFAA14B6691",
 			tasks: [{
@@ -42,8 +55,8 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: -2.0d,
+			x: -1.5d,
+			y: 5.5d,
 			dependencies: ["657FC8A91D7CBFB3"],
 			id: "4EEE93246973208E",
 			tasks: [{
@@ -53,8 +66,9 @@
 			}]
 		},
 		{
-			x: 1.0d,
-			y: -1.0d,
+			icon: "minecraft:grass",
+			x: 2.0d,
+			y: 3.5d,
 			dependencies: ["667A79994021A147"],
 			id: "3D27E1E62C185711",
 			tasks: [{
@@ -64,8 +78,8 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: -1.0d,
+			x: 0.5d,
+			y: 4.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "63B6DC5E7A60B964",
 			tasks: [{
@@ -75,8 +89,9 @@
 			}]
 		},
 		{
-			x: 1.0d,
-			y: 0.0d,
+			icon: "minecraft:oak_sapling",
+			x: 6.5d,
+			y: 3.5d,
 			dependencies: ["667A79994021A147"],
 			id: "626DCF3DF1A3201E",
 			tasks: [{
@@ -86,8 +101,8 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: 0.0d,
+			x: 4.5d,
+			y: 4.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "3E0E0A19DC25E4CE",
 			tasks: [{
@@ -97,8 +112,8 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: 0.0d,
+			x: 5.5d,
+			y: 4.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "619CE5F2B1B6368A",
 			tasks: [{
@@ -108,8 +123,8 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: 0.0d,
+			x: 6.5d,
+			y: 4.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "54A0EB5E0F4337C0",
 			tasks: [{
@@ -119,8 +134,8 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: -1.0d,
+			x: 1.5d,
+			y: 4.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "1C6B0E28B8225E2E",
 			tasks: [{
@@ -130,8 +145,8 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: -1.0d,
+			x: 2.5d,
+			y: 4.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "1CADC09C549A0F3B",
 			tasks: [{
@@ -141,8 +156,8 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: 0.0d,
+			x: 7.5d,
+			y: 4.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "0D0DCA4BF11410E3",
 			tasks: [{
@@ -152,8 +167,8 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: 0.0d,
+			x: 8.5d,
+			y: 4.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "461B7923CF35784E",
 			tasks: [{
@@ -163,8 +178,8 @@
 			}]
 		},
 		{
-			x: 7.0d,
-			y: 0.0d,
+			x: 4.5d,
+			y: 5.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "7D369B339FBEAA03",
 			tasks: [{
@@ -174,8 +189,9 @@
 			}]
 		},
 		{
-			x: 1.0d,
-			y: 1.0d,
+			icon: "minecraft:jungle_sapling",
+			x: 11.5d,
+			y: 3.5d,
 			dependencies: ["667A79994021A147"],
 			id: "3754A17A6D698C39",
 			tasks: [{
@@ -185,8 +201,8 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: 1.0d,
+			x: 9.5d,
+			y: 4.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "097FD971FC166D79",
 			tasks: [{
@@ -196,8 +212,8 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: -1.0d,
+			x: 2.5d,
+			y: 7.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "2ADAE52550668A3B",
 			tasks: [{
@@ -207,8 +223,8 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: -2.0d,
+			x: -1.5d,
+			y: 6.5d,
 			dependencies: ["657FC8A91D7CBFB3"],
 			id: "7B117E87DC6BF9F7",
 			tasks: [{
@@ -218,8 +234,8 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: -1.0d,
+			x: 0.5d,
+			y: 5.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "03AA4179FF5AC925",
 			tasks: [{
@@ -229,8 +245,8 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: -2.0d,
+			x: -1.5d,
+			y: 7.5d,
 			dependencies: ["657FC8A91D7CBFB3"],
 			id: "0FA4800EAD1C6E1C",
 			tasks: [{
@@ -240,8 +256,8 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: 1.0d,
+			x: 10.5d,
+			y: 4.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "5C9279DB443EBC0C",
 			tasks: [{
@@ -251,8 +267,8 @@
 			}]
 		},
 		{
-			x: 7.0d,
-			y: -1.0d,
+			x: 1.5d,
+			y: 5.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "13BC48BEF94F060D",
 			tasks: [{
@@ -262,8 +278,8 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: 0.0d,
+			x: 5.5d,
+			y: 5.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "4AEC6CD4BC9DD8C9",
 			tasks: [{
@@ -273,8 +289,8 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: 1.0d,
+			x: 11.5d,
+			y: 4.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "528DC78ED530DF90",
 			tasks: [{
@@ -284,8 +300,8 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: 0.0d,
+			x: 6.5d,
+			y: 5.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "0C7DEBE6A6F840A6",
 			tasks: [{
@@ -295,8 +311,8 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: 1.0d,
+			x: 12.5d,
+			y: 4.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "0E0AE56FB0A05709",
 			tasks: [{
@@ -306,8 +322,8 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: 1.0d,
+			x: 13.5d,
+			y: 4.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "174779B62F77AEE6",
 			tasks: [{
@@ -317,8 +333,9 @@
 			}]
 		},
 		{
-			x: 1.0d,
-			y: -3.0d,
+			icon: "minecraft:acacia_sapling",
+			x: -3.0d,
+			y: 3.5d,
 			dependencies: ["667A79994021A147"],
 			id: "18C1515819EDBF29",
 			tasks: [{
@@ -328,8 +345,8 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: -3.0d,
+			x: -2.5d,
+			y: 7.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "3A11E7965600BF41",
 			tasks: [{
@@ -339,8 +356,8 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: -1.0d,
+			x: 2.5d,
+			y: 5.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "7FC6D89D92DC3337",
 			tasks: [{
@@ -350,8 +367,8 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: -3.0d,
+			x: -2.5d,
+			y: 8.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "3BCA790225C83593",
 			tasks: [{
@@ -361,8 +378,8 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: -3.0d,
+			x: -3.5d,
+			y: 4.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "18EEB081CD0D6A74",
 			tasks: [{
@@ -372,8 +389,8 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: -1.0d,
+			x: 3.5d,
+			y: 4.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "34988FF1529EF9EA",
 			tasks: [{
@@ -383,8 +400,8 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: -3.0d,
+			x: -2.5d,
+			y: 4.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "24B309992A7DDE16",
 			tasks: [{
@@ -394,8 +411,8 @@
 			}]
 		},
 		{
-			x: 7.0d,
-			y: 1.0d,
+			x: 9.5d,
+			y: 5.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "1D02294918274D13",
 			tasks: [{
@@ -405,8 +422,8 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: 1.0d,
+			x: 10.5d,
+			y: 5.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "43021D8E12E1472A",
 			tasks: [{
@@ -416,8 +433,8 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: 1.0d,
+			x: 11.5d,
+			y: 5.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "098A97049B6318EA",
 			tasks: [{
@@ -427,8 +444,8 @@
 			}]
 		},
 		{
-			x: 10.0d,
-			y: 0.0d,
+			x: 7.5d,
+			y: 5.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "5FCED5F10BFC7462",
 			tasks: [{
@@ -438,8 +455,8 @@
 			}]
 		},
 		{
-			x: 11.0d,
-			y: 0.0d,
+			x: 8.5d,
+			y: 5.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "4F135AF90E372B4B",
 			tasks: [{
@@ -449,8 +466,8 @@
 			}]
 		},
 		{
-			x: 10.0d,
-			y: 1.0d,
+			x: 12.5d,
+			y: 5.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "727BD71C0F08BF9D",
 			tasks: [{
@@ -460,8 +477,8 @@
 			}]
 		},
 		{
-			x: 11.0d,
-			y: 1.0d,
+			x: 13.5d,
+			y: 5.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "55DCA3B64C88E792",
 			tasks: [{
@@ -471,8 +488,8 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: -3.0d,
+			x: -2.5d,
+			y: 6.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "18602178BD73BC18",
 			tasks: [{
@@ -482,8 +499,8 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: 2.0d,
+			x: -4.5d,
+			y: 4.5d,
 			dependencies: ["4D5A4FC58899D4D2"],
 			id: "3FB193D51C65A3B9",
 			tasks: [{
@@ -493,8 +510,9 @@
 			}]
 		},
 		{
-			x: 1.0d,
-			y: 2.0d,
+			icon: "minecraft:dead_bush",
+			x: -4.5d,
+			y: 3.5d,
 			dependencies: ["667A79994021A147"],
 			id: "4D5A4FC58899D4D2",
 			tasks: [{
@@ -504,8 +522,8 @@
 			}]
 		},
 		{
-			x: 12.0d,
-			y: 0.0d,
+			x: 4.5d,
+			y: 6.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "152B2B20DD4BFC9F",
 			tasks: [{
@@ -515,8 +533,8 @@
 			}]
 		},
 		{
-			x: 7.0d,
-			y: -3.0d,
+			x: -3.5d,
+			y: 8.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "2DA166421A20F476",
 			tasks: [{
@@ -526,8 +544,8 @@
 			}]
 		},
 		{
-			x: 13.0d,
-			y: 0.0d,
+			x: 5.5d,
+			y: 6.5d,
 			dependencies: ["626DCF3DF1A3201E"],
 			id: "0898F2BF154C09FA",
 			tasks: [{
@@ -537,8 +555,8 @@
 			}]
 		},
 		{
-			x: 10.0d,
-			y: -1.0d,
+			x: 0.5d,
+			y: 6.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "484FA24808037FFE",
 			tasks: [{
@@ -548,8 +566,8 @@
 			}]
 		},
 		{
-			x: 11.0d,
-			y: -1.0d,
+			x: 1.5d,
+			y: 6.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "61A0FFFA99C6529B",
 			tasks: [{
@@ -559,8 +577,8 @@
 			}]
 		},
 		{
-			x: 12.0d,
-			y: -1.0d,
+			x: 2.5d,
+			y: 6.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "7213C49ACEB3A5F8",
 			tasks: [{
@@ -570,8 +588,8 @@
 			}]
 		},
 		{
-			x: 12.0d,
-			y: 1.0d,
+			x: 9.5d,
+			y: 6.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "0D75BA537781C118",
 			tasks: [{
@@ -581,8 +599,8 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: -3.0d,
+			x: -3.5d,
+			y: 5.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "312F6622EB5482FB",
 			tasks: [{
@@ -592,8 +610,8 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: -3.0d,
+			x: -2.5d,
+			y: 5.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "0D38DD1EF884B608",
 			tasks: [{
@@ -603,8 +621,8 @@
 			}]
 		},
 		{
-			x: 13.0d,
-			y: -1.0d,
+			x: 1.5d,
+			y: 7.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "5F751315CB72725B",
 			tasks: [{
@@ -614,8 +632,8 @@
 			}]
 		},
 		{
-			x: 14.0d,
-			y: -1.0d,
+			x: 3.5d,
+			y: 5.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "01424BB8C7F65EEC",
 			tasks: [{
@@ -625,8 +643,8 @@
 			}]
 		},
 		{
-			x: 10.0d,
-			y: -3.0d,
+			x: -3.5d,
+			y: 6.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "737111CBB68DF7BC",
 			tasks: [{
@@ -636,8 +654,8 @@
 			}]
 		},
 		{
-			x: 11.0d,
-			y: -3.0d,
+			x: -3.5d,
+			y: 7.5d,
 			dependencies: ["18C1515819EDBF29"],
 			id: "21004E0B5935B2D7",
 			tasks: [{
@@ -647,8 +665,8 @@
 			}]
 		},
 		{
-			x: 13.0d,
-			y: 1.0d,
+			x: 10.5d,
+			y: 6.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "0BA6117B36CC1B63",
 			tasks: [{
@@ -658,8 +676,8 @@
 			}]
 		},
 		{
-			x: 15.0d,
-			y: -1.0d,
+			x: 3.5d,
+			y: 6.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "4C8B18470B6B73E1",
 			tasks: [{
@@ -669,8 +687,8 @@
 			}]
 		},
 		{
-			x: 16.0d,
-			y: -1.0d,
+			x: 3.5d,
+			y: 7.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "194DA53DF3E32F58",
 			tasks: [{
@@ -680,8 +698,8 @@
 			}]
 		},
 		{
-			x: 17.0d,
-			y: -1.0d,
+			x: 0.5d,
+			y: 7.5d,
 			dependencies: ["3D27E1E62C185711"],
 			id: "1C8B26C22D2F7374",
 			tasks: [{
@@ -691,8 +709,8 @@
 			}]
 		},
 		{
-			x: 14.0d,
-			y: 1.0d,
+			x: 11.5d,
+			y: 6.5d,
 			dependencies: ["3754A17A6D698C39"],
 			id: "6C6BC9F73E2B40FA",
 			tasks: [{
@@ -702,20 +720,9 @@
 			}]
 		},
 		{
-			icon: "minecraft:oak_sapling",
-			x: 0.0d,
-			y: 3.0d,
-			description: ["Across the world you can find crops growing on trees. Once ripe they can be harvested with right click and combined with a sapling to create a sapling of that crop type."],
-			id: "11EA657C267B9AE6",
-			tasks: [{
-				id: "6846B0B5CC289DAA",
-				type: "checkmark",
-				title: "Obtaining Saplings"
-			}]
-		},
-		{
-			x: 12.0d,
-			y: 4.0d,
+			x: 1.5d,
+			y: 8.5d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "33F32EB39B9B64E1",
 			tasks: [{
 				id: "5472393216E205B2",
@@ -724,8 +731,9 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: 3.0d,
+			x: 13.5d,
+			y: 6.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "45368CDBF3760849",
 			tasks: [{
 				id: "6A57FCD59F92E7D2",
@@ -734,8 +742,9 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: 3.0d,
+			x: 4.5d,
+			y: 7.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "5F6247AFF1C3AF0A",
 			tasks: [{
 				id: "03179F1686BEA01B",
@@ -744,8 +753,9 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: 3.0d,
+			x: 5.5d,
+			y: 7.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "794439F8DAB2E4B1",
 			tasks: [{
 				id: "3B79EBCA008711D8",
@@ -754,8 +764,9 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: 3.0d,
+			x: 6.5d,
+			y: 7.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "730DDA365BF6DE89",
 			tasks: [{
 				id: "30D0F9BB3D2C7E20",
@@ -764,8 +775,9 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: 3.0d,
+			x: 7.5d,
+			y: 7.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "306837E245AD70F6",
 			tasks: [{
 				id: "404C27CBC5FCC12E",
@@ -774,8 +786,9 @@
 			}]
 		},
 		{
-			x: 7.0d,
-			y: 3.0d,
+			x: 8.5d,
+			y: 7.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "2005F5EE6952E968",
 			tasks: [{
 				id: "261F19ACDCEC09A2",
@@ -784,8 +797,9 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: 3.0d,
+			x: 9.5d,
+			y: 7.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "23216FC7599F2495",
 			tasks: [{
 				id: "18D1B97E83C7FDAC",
@@ -794,8 +808,9 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: 3.0d,
+			x: 10.5d,
+			y: 7.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "045BE98D598476F2",
 			tasks: [{
 				id: "5263EB2BCFD0E2F8",
@@ -804,8 +819,9 @@
 			}]
 		},
 		{
-			x: 10.0d,
-			y: 3.0d,
+			x: 0.5d,
+			y: 8.5d,
+			dependencies: ["3D27E1E62C185711"],
 			id: "593CF03B7E8525DA",
 			tasks: [{
 				id: "32B0BF1121CB9CCB",
@@ -814,8 +830,9 @@
 			}]
 		},
 		{
-			x: 11.0d,
-			y: 3.0d,
+			x: 11.5d,
+			y: 7.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "384B8B6C34D68801",
 			tasks: [{
 				id: "4B89C25464FF8539",
@@ -824,8 +841,9 @@
 			}]
 		},
 		{
-			x: 12.0d,
-			y: 3.0d,
+			x: 13.5d,
+			y: 7.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "163ECEE1FC73513A",
 			tasks: [{
 				id: "5A2DBE12481F8010",
@@ -834,8 +852,9 @@
 			}]
 		},
 		{
-			x: 13.0d,
-			y: 3.0d,
+			x: 9.5d,
+			y: 8.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "7B136E0BC87A495F",
 			tasks: [{
 				id: "305135A4D724A49D",
@@ -844,8 +863,9 @@
 			}]
 		},
 		{
-			x: 14.0d,
-			y: 3.0d,
+			x: 4.5d,
+			y: 8.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "0CC496CA20F4B938",
 			tasks: [{
 				id: "0F9B5752B85243C5",
@@ -854,8 +874,9 @@
 			}]
 		},
 		{
-			x: 15.0d,
-			y: 3.0d,
+			x: 10.5d,
+			y: 8.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "0E56396D606A3F9B",
 			tasks: [{
 				id: "0A135129D50C8538",
@@ -864,8 +885,9 @@
 			}]
 		},
 		{
-			x: 16.0d,
-			y: 3.0d,
+			x: 12.5d,
+			y: 7.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "71AAAFF308E71A63",
 			tasks: [{
 				id: "603E4F6BB94329F5",
@@ -874,8 +896,9 @@
 			}]
 		},
 		{
-			x: 17.0d,
-			y: 3.0d,
+			x: 6.5d,
+			y: 8.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "2465E1CD3F0FD7E9",
 			tasks: [{
 				id: "25DB1A68F8C3BE94",
@@ -884,8 +907,9 @@
 			}]
 		},
 		{
-			x: 11.0d,
-			y: 4.0d,
+			x: 5.5d,
+			y: 8.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "376C95891F526230",
 			tasks: [{
 				id: "7B8A17131589EC77",
@@ -894,8 +918,9 @@
 			}]
 		},
 		{
-			x: 2.0d,
-			y: 4.0d,
+			x: 8.5d,
+			y: 6.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "493FD69039DC49E2",
 			tasks: [{
 				id: "6BF9BF8ABF3BC438",
@@ -904,8 +929,9 @@
 			}]
 		},
 		{
-			x: 3.0d,
-			y: 4.0d,
+			x: 7.5d,
+			y: 6.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "40E6D569810CEA2D",
 			tasks: [{
 				id: "41FCF3452D1DD4D5",
@@ -914,8 +940,9 @@
 			}]
 		},
 		{
-			x: 4.0d,
-			y: 4.0d,
+			x: 6.5d,
+			y: 6.5d,
+			dependencies: ["626DCF3DF1A3201E"],
 			id: "7D233B403A43E6DD",
 			tasks: [{
 				id: "6A4D4E84ED93E3DA",
@@ -924,8 +951,9 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: 4.0d,
+			x: 12.5d,
+			y: 6.5d,
+			dependencies: ["3754A17A6D698C39"],
 			id: "577C93913BEF41CC",
 			tasks: [{
 				id: "60AF408ACF7FD9CB",
@@ -934,8 +962,9 @@
 			}]
 		},
 		{
-			x: 6.0d,
-			y: 4.0d,
+			x: -0.5d,
+			y: 4.5d,
+			dependencies: ["5BBB0E0AF77A4BCD"],
 			id: "41D30B4CEE1E4D87",
 			tasks: [{
 				id: "651018167EADD513",
@@ -944,8 +973,9 @@
 			}]
 		},
 		{
-			x: 7.0d,
-			y: 4.0d,
+			x: -0.5d,
+			y: 5.5d,
+			dependencies: ["5BBB0E0AF77A4BCD"],
 			id: "09B0E21948892CDC",
 			tasks: [{
 				id: "3C9412952B0F34E5",
@@ -954,8 +984,9 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: 4.0d,
+			x: -0.5d,
+			y: 6.5d,
+			dependencies: ["5BBB0E0AF77A4BCD"],
 			id: "10AB434DA744EDD8",
 			tasks: [{
 				id: "0DA4E662D6A6F7A7",
@@ -964,8 +995,9 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: 4.0d,
+			x: -0.5d,
+			y: 7.5d,
+			dependencies: ["5BBB0E0AF77A4BCD"],
 			id: "029B29E4522666B1",
 			tasks: [{
 				id: "72A3F639E7740214",
@@ -974,13 +1006,48 @@
 			}]
 		},
 		{
-			x: 10.0d,
-			y: 4.0d,
+			x: 11.5d,
+			y: 8.5d,
+			description: ["Right click the logs to harvest the bark."],
+			dependencies: ["3754A17A6D698C39"],
 			id: "7098857666F85624",
 			tasks: [{
 				id: "332546A66221B2E0",
 				type: "item",
 				item: "croptopia:cinnamon_sapling"
+			}]
+		},
+		{
+			icon: "minecraft:dark_oak_sapling",
+			x: -0.5d,
+			y: 3.5d,
+			dependencies: ["667A79994021A147"],
+			id: "5BBB0E0AF77A4BCD",
+			tasks: [{
+				id: "6669382707377B58",
+				type: "biome",
+				biome: "minecraft:dark_forest"
+			}]
+		},
+		{
+			x: -6.5d,
+			y: 2.0d,
+			id: "18F411A8D15A745E",
+			tasks: [{
+				id: "655BC360060A6929",
+				type: "item",
+				item: "croptopia:salt"
+			}]
+		},
+		{
+			x: 12.5d,
+			y: 8.5d,
+			dependencies: ["3754A17A6D698C39"],
+			id: "2024B36F180B44CB",
+			tasks: [{
+				id: "1C06819A758D7083",
+				type: "item",
+				item: "minecraft:cocoa_beans"
 			}]
 		}
 	]
