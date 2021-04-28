@@ -19,6 +19,54 @@
 					"Count": 127,
 					"type": "item"
 				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:chain",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "modern_industrialization:creative_tank",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:dark_oak_planks",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:stripped_dark_oak_log",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:red_sand",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:stripped_jungle_wood",
+					"Count": 127,
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.

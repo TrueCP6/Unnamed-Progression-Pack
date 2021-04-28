@@ -131,7 +131,7 @@
 		},
 		{
 			x: 1.0d,
-			y: -1.5d,
+			y: -1.0d,
 			dependencies: [
 				"0A1D1B8A777D6C7A",
 				"08BEF22C62B56819",
@@ -195,7 +195,7 @@
 		},
 		{
 			x: 1.0d,
-			y: -3.0d,
+			y: -2.0d,
 			dependencies: [
 				"24CE052E3BCC8194",
 				"2024B36F180B44CB"
@@ -261,8 +261,8 @@
 			}]
 		},
 		{
-			x: 9.0d,
-			y: -1.0d,
+			x: 3.0d,
+			y: -3.0d,
 			dependencies: [
 				"01424BB8C7F65EEC",
 				"18F411A8D15A745E",
@@ -304,7 +304,7 @@
 		},
 		{
 			x: 1.0d,
-			y: 1.0d,
+			y: 0.0d,
 			dependencies: ["08BEF22C62B56819"],
 			id: "443C80329EC53DF7",
 			tasks: [{
@@ -362,6 +362,28 @@
 					Count: 1b,
 					tag: {
 						value: "croptopia:nuts"
+					}
+				}
+			}]
+		},
+		{
+			x: 2.5d,
+			y: -4.0d,
+			dependencies: [
+				"7852CE0CC3BFDDA8",
+				"55417ED930B797DD"
+			],
+			dependency_requirement: "one_completed",
+			id: "7B5F36526B84085F",
+			tasks: [{
+				id: "0116A3D19BB01FD0",
+				type: "item",
+				title: "Any #croptopia:sauces",
+				item: {
+					id: "itemfilters:tag",
+					Count: 1b,
+					tag: {
+						value: "croptopia:sauces"
 					}
 				}
 			}]

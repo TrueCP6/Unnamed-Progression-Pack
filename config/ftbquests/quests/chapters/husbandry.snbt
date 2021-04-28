@@ -1036,7 +1036,7 @@
 			tasks: [{
 				id: "655BC360060A6929",
 				type: "item",
-				item: "croptopia:salt"
+				item: "sandwichable:salt"
 			}]
 		},
 		{

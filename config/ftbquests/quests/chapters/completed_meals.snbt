@@ -393,7 +393,7 @@
 		},
 		{
 			title: "Proteins",
-			x: -4.0d,
+			x: -4.5d,
 			y: -1.0d,
 			dependencies: ["419F7CF92B61CAE8"],
 			id: "390F90E460179ADF",
@@ -664,7 +664,10 @@
 			x: 7.0d,
 			y: 3.0d,
 			hide_dependency_lines: true,
-			dependencies: ["36D8CD8FB71DF6E9"],
+			dependencies: [
+				"36D8CD8FB71DF6E9",
+				"7B5F36526B84085F"
+			],
 			id: "1704A4D9F0A2EDE2",
 			tasks: [{
 				id: "7CE88DD091559A83",
@@ -860,6 +863,125 @@
 				id: "6326F64F4E675194",
 				type: "item",
 				item: "croptopia:tofuburger"
+			}]
+		},
+		{
+			x: 1.0d,
+			y: 7.0d,
+			dependencies: [
+				"75C8B589117667E8",
+				"57467F320896F68B",
+				"7213C49ACEB3A5F8",
+				"3610D253AC38FF66"
+			],
+			id: "583DA4C07E55C967",
+			tasks: [{
+				id: "21F942A1E8E9E783",
+				type: "item",
+				item: "croptopia:pizza"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 7.0d,
+			dependencies: [
+				"75C8B589117667E8",
+				"57467F320896F68B",
+				"7213C49ACEB3A5F8",
+				"63B6DC5E7A60B964",
+				"24B309992A7DDE16",
+				"3610D253AC38FF66"
+			],
+			id: "7AF59B9C016EE8B8",
+			tasks: [{
+				id: "279491EA941B437C",
+				type: "item",
+				item: "croptopia:supreme_pizza"
+			}]
+		},
+		{
+			x: 3.0d,
+			y: 7.0d,
+			dependencies: [
+				"57467F320896F68B",
+				"7213C49ACEB3A5F8",
+				"75C8B589117667E8",
+				"3610D253AC38FF66"
+			],
+			id: "283884925EA5846C",
+			tasks: [{
+				id: "4C9A9F0F6D38653A",
+				type: "item",
+				item: "croptopia:cheese_pizza"
+			}]
+		},
+		{
+			x: 4.0d,
+			y: 7.0d,
+			dependencies: [
+				"75C8B589117667E8",
+				"57467F320896F68B",
+				"7213C49ACEB3A5F8",
+				"098A97049B6318EA",
+				"655BA6686B441CDB",
+				"3610D253AC38FF66"
+			],
+			id: "7D8B6D28968DAF84",
+			tasks: [{
+				id: "070653D50ABA8F0D",
+				type: "item",
+				item: "croptopia:pineapple_pepperoni_pizza"
+			}]
+		},
+		{
+			x: 5.0d,
+			y: 7.0d,
+			dependencies: [
+				"01424BB8C7F65EEC",
+				"08BEF22C62B56819",
+				"2005F5EE6952E968",
+				"7213C49ACEB3A5F8"
+			],
+			id: "5063C867346EAC84",
+			tasks: [{
+				id: "095C086F570053F0",
+				type: "item",
+				item: "croptopia:lemon_chicken"
+			}]
+		},
+		{
+			x: 6.0d,
+			y: 7.0d,
+			dependencies: [
+				"01424BB8C7F65EEC",
+				"0F9A82B48E4A8936",
+				"2CD0B3F88B0AD324",
+				"3610D253AC38FF66"
+			],
+			id: "68008052D62B8869",
+			tasks: [{
+				id: "125EB16474917FC2",
+				type: "item",
+				item: "croptopia:fried_chicken"
+			}]
+		},
+		{
+			x: -3.5d,
+			y: -1.0d,
+			dependencies: ["419F7CF92B61CAE8"],
+			id: "6FB824F56CB93039",
+			tasks: [{
+				id: "6E1B58EF57AE6DC8",
+				type: "item",
+				title: "Any #nourish:sweets",
+				item: {
+					id: "itemfilters:tag",
+					Count: 1b,
+					tag: {
+						value: "nourish:sweets"
+					}
+				},
+				count: 64L
 			}]
 		}
 	]

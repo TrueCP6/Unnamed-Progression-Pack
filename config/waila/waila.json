@@ -42,10 +42,10 @@
     }
   },
   "formatting": {
-    "modName": "§9§o%s",
-    "blockName": "§f%s",
-    "fluidName": "§f%s",
-    "entityName": "§f%s",
-    "registryName": "§7[%s]"
+    "modName": "ï¿½9ï¿½o%s",
+    "blockName": "ï¿½f%s",
+    "fluidName": "ï¿½f%s",
+    "entityName": "ï¿½f%s",
+    "registryName": "ï¿½7[%s]"
   }
 }
