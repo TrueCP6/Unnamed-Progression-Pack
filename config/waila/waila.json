@@ -14,14 +14,14 @@
     "position": {
       "x": 0,
       "y": 0,
-      "alignX": "CENTER",
+      "alignX": "LEFT",
       "alignY": "TOP",
-      "anchorX": "CENTER",
+      "anchorX": "LEFT",
       "anchorY": "TOP"
     },
     "scale": 1.0,
     "color": {
-      "alpha": 80,
+      "alpha": 0,
       "themes": [
         {
           "id": "waila:dark",
@@ -42,10 +42,10 @@
     }
   },
   "formatting": {
-    "modName": "ï¿½9ï¿½o%s",
-    "blockName": "ï¿½f%s",
-    "fluidName": "ï¿½f%s",
-    "entityName": "ï¿½f%s",
-    "registryName": "ï¿½7[%s]"
+    "modName": "§9§o%s",
+    "blockName": "\\u00A7f%s",
+    "fluidName": "\\u00A7f%s",
+    "entityName": "\\u00A7f%s",
+    "registryName": "\\u00A77[%s]"
   }
 }

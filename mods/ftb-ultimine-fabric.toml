@@ -1,0 +1,14 @@
+name = "FTB Ultimine (Fabric)"
+filename = "ftb-ultimine-1605.2.0-build.26-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3269/867/ftb-ultimine-1605.2.0-build.26-fabric.jar"
+hash-format = "murmur2"
+hash = "3846978200"
+
+[update]
+[update.curseforge]
+file-id = 3269867
+project-id = 448231
+release-channel = "beta"

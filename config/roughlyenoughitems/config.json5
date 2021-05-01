@@ -1,74 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "techreborn:cell",
-					"Count": 127,
-					"tag": {
-						"fluid": "techreborn:heliumplasma"
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_birch_wood",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:chain",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "modern_industrialization:creative_tank",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:dark_oak_planks",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_dark_oak_log",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:red_sand",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_jungle_wood",
-					"Count": 127,
-					"type": "item"
-				}
-			}
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
@@ -177,7 +109,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "LIGHT",
+		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",
@@ -194,11 +126,11 @@
 		"scrollingEntryListWidget": false,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
-		"syntaxHighlightingMode": "COLORFUL"
+		"syntaxHighlightingMode": "COLORFUL_UNDERSCORED"
 	},
 	"functionality": {
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true

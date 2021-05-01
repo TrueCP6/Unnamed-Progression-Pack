@@ -1,7 +1,29 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 30, 2021 3:18:46 PM
+To refresh this file, delete it and run /reload command again! Last updated: May 1, 2021 10:04:43 AM
 
-#c:sheldonite_ores
-- techreborn:sheldonite_ore
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:mycelium
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
 
 #minecraft:soul_fire_base_blocks
 - minecraft:soul_sand
@@ -11,20 +33,108 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:campfire
 - minecraft:soul_campfire
 
-#c:iridium_ores
-- techreborn:iridium_ore
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
 
 #minecraft:infiniburn_nether
 - #minecraft:infiniburn_overworld
 
-#c:tin_blocks
-- techreborn:tin_storage_block
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
 
-#c:nickel_blocks
-- techreborn:nickel_storage_block
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
 
-#c:tungstensteel_blocks
-- techreborn:tungstensteel_storage_block
+#waila:blacklist
+- minecraft:barrier
+- minecraft:structure_void
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
 
 #minecraft:wooden_slabs
 - minecraft:oak_slab
@@ -35,7 +145,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:dark_oak_slab
 - minecraft:crimson_slab
 - minecraft:warped_slab
-- techreborn:rubber_plank_slab
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
 
 #minecraft:small_flowers
 - minecraft:dandelion
@@ -52,8 +166,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:lily_of_the_valley
 - minecraft:wither_rose
 
-#c:yellow_garnet_blocks
-- techreborn:yellow_garnet_storage_block
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
 
 #minecraft:wooden_trapdoors
 - minecraft:acacia_trapdoor
@@ -64,13 +186,62 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:spruce_trapdoor
 - minecraft:crimson_trapdoor
 - minecraft:warped_trapdoor
-- techreborn:rubber_trapdoor
 
-#c:peridot_ores
-- techreborn:peridot_ore
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
 
-#c:sphalerite_ores
-- techreborn:sphalerite_ore
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
 
 #minecraft:wool
 - minecraft:white_wool
@@ -89,6 +260,20 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:green_wool
 - minecraft:red_wool
 - minecraft:black_wool
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
 
 #minecraft:stairs
 - #minecraft:wooden_stairs
@@ -120,38 +305,27 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:blackstone_stairs
 - minecraft:polished_blackstone_brick_stairs
 - minecraft:polished_blackstone_stairs
-- techreborn:rubber_plank_stair
-- techreborn:aluminum_storage_block_stairs
-- techreborn:brass_storage_block_stairs
-- techreborn:bronze_storage_block_stairs
-- techreborn:chrome_storage_block_stairs
-- techreborn:copper_storage_block_stairs
-- techreborn:electrum_storage_block_stairs
-- techreborn:invar_storage_block_stairs
-- techreborn:iridium_storage_block_stairs
-- techreborn:iridium_reinforced_stone_storage_block_stairs
-- techreborn:iridium_reinforced_tungstensteel_storage_block_stairs
-- techreborn:lead_storage_block_stairs
-- techreborn:nickel_storage_block_stairs
-- techreborn:peridot_storage_block_stairs
-- techreborn:platinum_storage_block_stairs
-- techreborn:red_garnet_storage_block_stairs
-- techreborn:refined_iron_storage_block_stairs
-- techreborn:ruby_storage_block_stairs
-- techreborn:sapphire_storage_block_stairs
-- techreborn:silver_storage_block_stairs
-- techreborn:steel_storage_block_stairs
-- techreborn:tin_storage_block_stairs
-- techreborn:titanium_storage_block_stairs
-- techreborn:tungsten_storage_block_stairs
-- techreborn:tungstensteel_storage_block_stairs
-- techreborn:yellow_garnet_storage_block_stairs
-- techreborn:zinc_storage_block_stairs
 
 #minecraft:logs
 - #minecraft:logs_that_burn
 - #minecraft:crimson_stems
 - #minecraft:warped_stems
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
 
 #minecraft:beehives
 - minecraft:bee_nest
@@ -163,8 +337,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:blue_ice
 - minecraft:frosted_ice
 
-#c:tin_ores
-- techreborn:tin_ore
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
 
 #minecraft:dragon_immune
 - minecraft:barrier
@@ -192,11 +368,50 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:melon_stem
 - minecraft:pumpkin_stem
 
-#c:aluminum_blocks
-- techreborn:aluminum_storage_block
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
 
-#c:brass_blocks
-- techreborn:brass_storage_block
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
 
 #minecraft:valid_spawn
 - minecraft:grass_block
@@ -208,6 +423,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:crimson_nylium
 - minecraft:warped_nylium
 
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+
 #minecraft:wooden_doors
 - minecraft:oak_door
 - minecraft:spruce_door
@@ -217,7 +442,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:dark_oak_door
 - minecraft:crimson_door
 - minecraft:warped_door
-- techreborn:rubber_door
 
 #minecraft:warped_stems
 - minecraft:warped_stem
@@ -239,8 +463,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #minecraft:infiniburn_overworld
 - minecraft:bedrock
 
-#c:steel_blocks
-- techreborn:steel_storage_block
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
 
 #minecraft:crimson_stems
 - minecraft:crimson_stem
@@ -248,11 +473,22 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:crimson_hyphae
 - minecraft:stripped_crimson_hyphae
 
-#c:cinnabar_ores
-- techreborn:cinnabar_ore
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
 
-#c:tungsten_ores
-- techreborn:tungsten_ore
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
 
 #minecraft:prevent_mob_spawning_inside
 - #minecraft:rails
@@ -270,17 +506,31 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:twisting_vines
 - minecraft:twisting_vines_plant
 
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
 #minecraft:dark_oak_logs
 - minecraft:dark_oak_log
 - minecraft:dark_oak_wood
 - minecraft:stripped_dark_oak_log
 - minecraft:stripped_dark_oak_wood
 
-#c:ruby_blocks
-- techreborn:ruby_storage_block
-
-#c:iridium_reinforced_stone_blocks
-- techreborn:iridium_reinforced_stone_storage_block
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
 
 #minecraft:coral_plants
 - minecraft:tube_coral
@@ -321,12 +571,59 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:crimson_wall_sign
 - minecraft:warped_wall_sign
 
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
 #minecraft:beacon_base_blocks
 - minecraft:netherite_block
 - minecraft:emerald_block
 - minecraft:diamond_block
 - minecraft:gold_block
 - minecraft:iron_block
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
 
 #minecraft:shulker_boxes
 - minecraft:shulker_box
@@ -347,572 +644,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:white_shulker_box
 - minecraft:yellow_shulker_box
 
-#c:iridium_blocks
-- techreborn:iridium_storage_block
-
-#minecraft:anvil
-- minecraft:anvil
-- minecraft:chipped_anvil
-- minecraft:damaged_anvil
-
-#minecraft:birch_logs
-- minecraft:birch_log
-- minecraft:birch_wood
-- minecraft:stripped_birch_log
-- minecraft:stripped_birch_wood
-
-#c:sodalite_ores
-- techreborn:sodalite_ore
-
-#c:pyrite_ores
-- techreborn:pyrite_ore
-
-#minecraft:wall_corals
-- minecraft:tube_coral_wall_fan
-- minecraft:brain_coral_wall_fan
-- minecraft:bubble_coral_wall_fan
-- minecraft:fire_coral_wall_fan
-- minecraft:horn_coral_wall_fan
-
-#c:sapphire_blocks
-- techreborn:sapphire_storage_block
-
-#c:red_garnet_blocks
-- techreborn:red_garnet_storage_block
-
-#c:electrum_blocks
-- techreborn:electrum_storage_block
-
-#minecraft:fences
-- #minecraft:wooden_fences
-- minecraft:nether_brick_fence
-- techreborn:rubber_fence
-- techreborn:refined_iron_fence
-
-#minecraft:saplings
-- minecraft:oak_sapling
-- minecraft:spruce_sapling
-- minecraft:birch_sapling
-- minecraft:jungle_sapling
-- minecraft:acacia_sapling
-- minecraft:dark_oak_sapling
-- techreborn:rubber_sapling
-
-#minecraft:beds
-- minecraft:red_bed
-- minecraft:black_bed
-- minecraft:blue_bed
-- minecraft:brown_bed
-- minecraft:cyan_bed
-- minecraft:gray_bed
-- minecraft:green_bed
-- minecraft:light_blue_bed
-- minecraft:light_gray_bed
-- minecraft:lime_bed
-- minecraft:magenta_bed
-- minecraft:orange_bed
-- minecraft:pink_bed
-- minecraft:purple_bed
-- minecraft:white_bed
-- minecraft:yellow_bed
-
-#c:tungsten_blocks
-- techreborn:tungsten_storage_block
-
-#minecraft:unstable_bottom_center
-- #minecraft:fence_gates
-
-#minecraft:oak_logs
-- minecraft:oak_log
-- minecraft:oak_wood
-- minecraft:stripped_oak_log
-- minecraft:stripped_oak_wood
-
-#c:ruby_ores
-- techreborn:ruby_ore
-
-#minecraft:doors
-- #minecraft:wooden_doors
-- minecraft:iron_door
-
-#c:invar_blocks
-- techreborn:invar_storage_block
-
-#minecraft:enderman_holdable
-- #minecraft:small_flowers
-- minecraft:grass_block
-- minecraft:dirt
-- minecraft:coarse_dirt
-- minecraft:podzol
-- minecraft:sand
-- minecraft:red_sand
-- minecraft:gravel
-- minecraft:brown_mushroom
-- minecraft:red_mushroom
-- minecraft:tnt
-- minecraft:cactus
-- minecraft:clay
-- minecraft:pumpkin
-- minecraft:carved_pumpkin
-- minecraft:melon
-- minecraft:mycelium
-- minecraft:crimson_fungus
-- minecraft:crimson_nylium
-- minecraft:crimson_roots
-- minecraft:warped_fungus
-- minecraft:warped_nylium
-- minecraft:warped_roots
-
-#minecraft:banners
-- minecraft:white_banner
-- minecraft:orange_banner
-- minecraft:magenta_banner
-- minecraft:light_blue_banner
-- minecraft:yellow_banner
-- minecraft:lime_banner
-- minecraft:pink_banner
-- minecraft:gray_banner
-- minecraft:light_gray_banner
-- minecraft:cyan_banner
-- minecraft:purple_banner
-- minecraft:blue_banner
-- minecraft:brown_banner
-- minecraft:green_banner
-- minecraft:red_banner
-- minecraft:black_banner
-- minecraft:white_wall_banner
-- minecraft:orange_wall_banner
-- minecraft:magenta_wall_banner
-- minecraft:light_blue_wall_banner
-- minecraft:yellow_wall_banner
-- minecraft:lime_wall_banner
-- minecraft:pink_wall_banner
-- minecraft:gray_wall_banner
-- minecraft:light_gray_wall_banner
-- minecraft:cyan_wall_banner
-- minecraft:purple_wall_banner
-- minecraft:blue_wall_banner
-- minecraft:brown_wall_banner
-- minecraft:green_wall_banner
-- minecraft:red_wall_banner
-- minecraft:black_wall_banner
-
-#minecraft:infiniburn_overworld
-- minecraft:netherrack
-- minecraft:magma_block
-
-#minecraft:flower_pots
-- minecraft:flower_pot
-- minecraft:potted_poppy
-- minecraft:potted_blue_orchid
-- minecraft:potted_allium
-- minecraft:potted_azure_bluet
-- minecraft:potted_red_tulip
-- minecraft:potted_orange_tulip
-- minecraft:potted_white_tulip
-- minecraft:potted_pink_tulip
-- minecraft:potted_oxeye_daisy
-- minecraft:potted_dandelion
-- minecraft:potted_oak_sapling
-- minecraft:potted_spruce_sapling
-- minecraft:potted_birch_sapling
-- minecraft:potted_jungle_sapling
-- minecraft:potted_acacia_sapling
-- minecraft:potted_dark_oak_sapling
-- minecraft:potted_red_mushroom
-- minecraft:potted_brown_mushroom
-- minecraft:potted_dead_bush
-- minecraft:potted_fern
-- minecraft:potted_cactus
-- minecraft:potted_cornflower
-- minecraft:potted_lily_of_the_valley
-- minecraft:potted_wither_rose
-- minecraft:potted_bamboo
-- minecraft:potted_crimson_fungus
-- minecraft:potted_warped_fungus
-- minecraft:potted_crimson_roots
-- minecraft:potted_warped_roots
-
-#minecraft:wooden_fences
-- minecraft:oak_fence
-- minecraft:acacia_fence
-- minecraft:dark_oak_fence
-- minecraft:spruce_fence
-- minecraft:birch_fence
-- minecraft:jungle_fence
-- minecraft:crimson_fence
-- minecraft:warped_fence
-- techreborn:rubber_fence
-
-#minecraft:piglin_repellents
-- minecraft:soul_fire
-- minecraft:soul_torch
-- minecraft:soul_lantern
-- minecraft:soul_wall_torch
-- minecraft:soul_campfire
-
-#c:bronze_blocks
-- techreborn:bronze_storage_block
-
-#minecraft:wall_post_override
-- minecraft:torch
-- minecraft:soul_torch
-- minecraft:redstone_torch
-- minecraft:tripwire
-- #minecraft:signs
-- #minecraft:banners
-- #minecraft:pressure_plates
-
-#minecraft:portals
-- minecraft:nether_portal
-- minecraft:end_portal
-- minecraft:end_gateway
-
-#minecraft:bamboo_plantable_on
-- #minecraft:sand
-- minecraft:bamboo
-- minecraft:bamboo_sapling
-- minecraft:gravel
-- minecraft:dirt
-- minecraft:grass_block
-- minecraft:podzol
-- minecraft:coarse_dirt
-- minecraft:mycelium
-
-#c:silver_ores
-- techreborn:silver_ore
-
-#c:copper_blocks
-- techreborn:copper_storage_block
-
-#techreborn:rubber_logs
-- techreborn:rubber_log
-- techreborn:rubber_log_stripped
-- techreborn:rubber_wood
-- techreborn:stripped_rubber_wood
-
-#minecraft:pressure_plates
-- minecraft:light_weighted_pressure_plate
-- minecraft:heavy_weighted_pressure_plate
-- #minecraft:wooden_pressure_plates
-- #minecraft:stone_pressure_plates
-
-#c:zinc_blocks
-- techreborn:zinc_storage_block
-
-#minecraft:jungle_logs
-- minecraft:jungle_log
-- minecraft:jungle_wood
-- minecraft:stripped_jungle_log
-- minecraft:stripped_jungle_wood
-
-#minecraft:wooden_stairs
-- minecraft:oak_stairs
-- minecraft:spruce_stairs
-- minecraft:birch_stairs
-- minecraft:jungle_stairs
-- minecraft:acacia_stairs
-- minecraft:dark_oak_stairs
-- minecraft:crimson_stairs
-- minecraft:warped_stairs
-- techreborn:rubber_plank_stair
-
-#minecraft:spruce_logs
-- minecraft:spruce_log
-- minecraft:spruce_wood
-- minecraft:stripped_spruce_log
-- minecraft:stripped_spruce_wood
-
-#minecraft:signs
-- #minecraft:standing_signs
-- #minecraft:wall_signs
-
-#minecraft:carpets
-- minecraft:white_carpet
-- minecraft:orange_carpet
-- minecraft:magenta_carpet
-- minecraft:light_blue_carpet
-- minecraft:yellow_carpet
-- minecraft:lime_carpet
-- minecraft:pink_carpet
-- minecraft:gray_carpet
-- minecraft:light_gray_carpet
-- minecraft:cyan_carpet
-- minecraft:purple_carpet
-- minecraft:blue_carpet
-- minecraft:brown_carpet
-- minecraft:green_carpet
-- minecraft:red_carpet
-- minecraft:black_carpet
-
-#minecraft:base_stone_overworld
-- minecraft:stone
-- minecraft:granite
-- minecraft:diorite
-- minecraft:andesite
-
-#minecraft:wooden_buttons
-- minecraft:oak_button
-- minecraft:spruce_button
-- minecraft:birch_button
-- minecraft:jungle_button
-- minecraft:acacia_button
-- minecraft:dark_oak_button
-- minecraft:crimson_button
-- minecraft:warped_button
-- techreborn:rubber_button
-
-#c:refined_iron_blocks
-- techreborn:refined_iron_storage_block
-
-#minecraft:wither_summon_base_blocks
-- minecraft:soul_sand
-- minecraft:soul_soil
-
-#c:titanium_blocks
-- techreborn:titanium_storage_block
-
-#minecraft:stone_bricks
-- minecraft:stone_bricks
-- minecraft:mossy_stone_bricks
-- minecraft:cracked_stone_bricks
-- minecraft:chiseled_stone_bricks
-
-#minecraft:hoglin_repellents
-- minecraft:warped_fungus
-- minecraft:potted_warped_fungus
-- minecraft:nether_portal
-- minecraft:respawn_anchor
-
-#minecraft:fire
-- minecraft:fire
-- minecraft:soul_fire
-
-#minecraft:base_stone_nether
-- minecraft:netherrack
-- minecraft:basalt
-- minecraft:blackstone
-
-#minecraft:wall_signs
-- minecraft:oak_wall_sign
-- minecraft:spruce_wall_sign
-- minecraft:birch_wall_sign
-- minecraft:acacia_wall_sign
-- minecraft:jungle_wall_sign
-- minecraft:dark_oak_wall_sign
-- minecraft:crimson_wall_sign
-- minecraft:warped_wall_sign
-
-#c:bauxite_ores
-- techreborn:bauxite_ore
-
-#minecraft:slabs
-- #minecraft:wooden_slabs
-- minecraft:stone_slab
-- minecraft:smooth_stone_slab
-- minecraft:stone_brick_slab
-- minecraft:sandstone_slab
-- minecraft:purpur_slab
-- minecraft:quartz_slab
-- minecraft:red_sandstone_slab
-- minecraft:brick_slab
-- minecraft:cobblestone_slab
-- minecraft:nether_brick_slab
-- minecraft:petrified_oak_slab
-- minecraft:prismarine_slab
-- minecraft:prismarine_brick_slab
-- minecraft:dark_prismarine_slab
-- minecraft:polished_granite_slab
-- minecraft:smooth_red_sandstone_slab
-- minecraft:mossy_stone_brick_slab
-- minecraft:polished_diorite_slab
-- minecraft:mossy_cobblestone_slab
-- minecraft:end_stone_brick_slab
-- minecraft:smooth_sandstone_slab
-- minecraft:smooth_quartz_slab
-- minecraft:granite_slab
-- minecraft:andesite_slab
-- minecraft:red_nether_brick_slab
-- minecraft:polished_andesite_slab
-- minecraft:diorite_slab
-- minecraft:cut_sandstone_slab
-- minecraft:cut_red_sandstone_slab
-- minecraft:blackstone_slab
-- minecraft:polished_blackstone_brick_slab
-- minecraft:polished_blackstone_slab
-- techreborn:rubber_plank_slab
-- techreborn:aluminum_storage_block_slab
-- techreborn:brass_storage_block_slab
-- techreborn:bronze_storage_block_slab
-- techreborn:chrome_storage_block_slab
-- techreborn:copper_storage_block_slab
-- techreborn:electrum_storage_block_slab
-- techreborn:invar_storage_block_slab
-- techreborn:iridium_storage_block_slab
-- techreborn:iridium_reinforced_stone_storage_block_slab
-- techreborn:iridium_reinforced_tungstensteel_storage_block_slab
-- techreborn:lead_storage_block_slab
-- techreborn:nickel_storage_block_slab
-- techreborn:peridot_storage_block_slab
-- techreborn:platinum_storage_block_slab
-- techreborn:red_garnet_storage_block_slab
-- techreborn:refined_iron_storage_block_slab
-- techreborn:ruby_storage_block_slab
-- techreborn:sapphire_storage_block_slab
-- techreborn:silver_storage_block_slab
-- techreborn:steel_storage_block_slab
-- techreborn:tin_storage_block_slab
-- techreborn:titanium_storage_block_slab
-- techreborn:tungsten_storage_block_slab
-- techreborn:tungstensteel_storage_block_slab
-- techreborn:yellow_garnet_storage_block_slab
-- techreborn:zinc_storage_block_slab
-
-#minecraft:guarded_by_piglins
-- minecraft:gold_block
-- minecraft:barrel
-- minecraft:chest
-- minecraft:ender_chest
-- minecraft:gilded_blackstone
-- minecraft:trapped_chest
-- #minecraft:shulker_boxes
-- #minecraft:gold_ores
-
-#c:chrome_blocks
-- techreborn:chrome_storage_block
-
-#c:copper_ores
-- techreborn:copper_ore
-
-#minecraft:trapdoors
-- #minecraft:wooden_trapdoors
-- minecraft:iron_trapdoor
-
-#minecraft:flowers
-- #minecraft:small_flowers
-- #minecraft:tall_flowers
-
-#minecraft:corals
-- #minecraft:coral_plants
-- minecraft:tube_coral_fan
-- minecraft:brain_coral_fan
-- minecraft:bubble_coral_fan
-- minecraft:fire_coral_fan
-- minecraft:horn_coral_fan
-
-#minecraft:buttons
-- #minecraft:wooden_buttons
-- minecraft:stone_button
-- minecraft:polished_blackstone_button
-
-#c:galena_ores
-- techreborn:galena_ore
-
-#minecraft:planks
-- minecraft:oak_planks
-- minecraft:spruce_planks
-- minecraft:birch_planks
-- minecraft:jungle_planks
-- minecraft:acacia_planks
-- minecraft:dark_oak_planks
-- minecraft:crimson_planks
-- minecraft:warped_planks
-- techreborn:rubber_planks
-
-#minecraft:soul_speed_blocks
-- minecraft:soul_sand
-- minecraft:soul_soil
-
-#c:silver_blocks
-- techreborn:silver_storage_block
-
-#minecraft:rails
-- minecraft:rail
-- minecraft:powered_rail
-- minecraft:detector_rail
-- minecraft:activator_rail
-
-#c:lead_ores
-- techreborn:lead_ore
-
-#c:basalt
-- minecraft:basalt
-- minecraft:polished_basalt
-
-#minecraft:leaves
-- minecraft:jungle_leaves
-- minecraft:oak_leaves
-- minecraft:spruce_leaves
-- minecraft:dark_oak_leaves
-- minecraft:acacia_leaves
-- minecraft:birch_leaves
-- techreborn:rubber_leaves
-
-#minecraft:walls
-- minecraft:cobblestone_wall
-- minecraft:mossy_cobblestone_wall
-- minecraft:brick_wall
-- minecraft:prismarine_wall
-- minecraft:red_sandstone_wall
-- minecraft:mossy_stone_brick_wall
-- minecraft:granite_wall
-- minecraft:stone_brick_wall
-- minecraft:nether_brick_wall
-- minecraft:andesite_wall
-- minecraft:red_nether_brick_wall
-- minecraft:sandstone_wall
-- minecraft:end_stone_brick_wall
-- minecraft:diorite_wall
-- minecraft:blackstone_wall
-- minecraft:polished_blackstone_brick_wall
-- minecraft:polished_blackstone_wall
-- techreborn:aluminum_storage_block_wall
-- techreborn:brass_storage_block_wall
-- techreborn:bronze_storage_block_wall
-- techreborn:chrome_storage_block_wall
-- techreborn:copper_storage_block_wall
-- techreborn:electrum_storage_block_wall
-- techreborn:invar_storage_block_wall
-- techreborn:iridium_storage_block_wall
-- techreborn:iridium_reinforced_stone_storage_block_wall
-- techreborn:iridium_reinforced_tungstensteel_storage_block_wall
-- techreborn:lead_storage_block_wall
-- techreborn:nickel_storage_block_wall
-- techreborn:peridot_storage_block_wall
-- techreborn:platinum_storage_block_wall
-- techreborn:red_garnet_storage_block_wall
-- techreborn:refined_iron_storage_block_wall
-- techreborn:ruby_storage_block_wall
-- techreborn:sapphire_storage_block_wall
-- techreborn:silver_storage_block_wall
-- techreborn:steel_storage_block_wall
-- techreborn:tin_storage_block_wall
-- techreborn:titanium_storage_block_wall
-- techreborn:tungsten_storage_block_wall
-- techreborn:tungstensteel_storage_block_wall
-- techreborn:yellow_garnet_storage_block_wall
-- techreborn:zinc_storage_block_wall
-
-#minecraft:coral_blocks
-- minecraft:tube_coral_block
-- minecraft:brain_coral_block
-- minecraft:bubble_coral_block
-- minecraft:fire_coral_block
-- minecraft:horn_coral_block
-
-#minecraft:strider_warm_blocks
-- minecraft:lava
-
-#minecraft:fence_gates
-- minecraft:acacia_fence_gate
-- minecraft:birch_fence_gate
-- minecraft:dark_oak_fence_gate
-- minecraft:jungle_fence_gate
-- minecraft:oak_fence_gate
-- minecraft:spruce_fence_gate
-- minecraft:crimson_fence_gate
-- minecraft:warped_fence_gate
-
 #minecraft:bee_growables
 - #minecraft:crops
 - minecraft:sweet_berry_bush
@@ -926,7 +657,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:dark_oak_pressure_plate
 - minecraft:crimson_pressure_plate
 - minecraft:warped_pressure_plate
-- techreborn:rubber_pressure_plate
 
 #minecraft:wither_immune
 - minecraft:barrier
@@ -947,26 +677,38 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:stripped_acacia_log
 - minecraft:stripped_acacia_wood
 
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
 #minecraft:tall_flowers
 - minecraft:sunflower
 - minecraft:lilac
 - minecraft:peony
 - minecraft:rose_bush
 
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+
 #minecraft:underwater_bonemeals
 - minecraft:seagrass
 - #minecraft:corals
 - #minecraft:wall_corals
 
-#c:iridium_reinforced_tungstensteel_blocks
-- techreborn:iridium_reinforced_tungstensteel_storage_block
-
 #minecraft:stone_pressure_plates
 - minecraft:stone_pressure_plate
 - minecraft:polished_blackstone_pressure_plate
-
-#c:lead_blocks
-- techreborn:lead_storage_block
 
 #minecraft:impermeable
 - minecraft:glass
@@ -991,9 +733,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:sand
 - minecraft:red_sand
 
-#c:platinum_blocks
-- techreborn:platinum_storage_block
-
 #minecraft:nylium
 - minecraft:crimson_nylium
 - minecraft:warped_nylium
@@ -1009,10 +748,46 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - #minecraft:birch_logs
 - #minecraft:jungle_logs
 - #minecraft:spruce_logs
-- #techreborn:rubber_logs
 
-#c:sapphire_ores
-- techreborn:sapphire_ore
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
 
-#c:peridot_blocks
-- techreborn:peridot_storage_block
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door

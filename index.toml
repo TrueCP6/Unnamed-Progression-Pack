@@ -1,116 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/appliedenergistics2/client.json"
-hash = "50413c7b296c5177a49f9b4e5d049072ac4784c89c4c582efed95a019069169b"
-
-[[files]]
-file = "config/appliedenergistics2/common.json"
-hash = "e2eaec8b04b02ff9f6f3f07169b245087c075fb40c1ae240607cd90e9dffe57f"
-
-[[files]]
-file = "config/croptopia/options.json"
-hash = "936c80a830bdc683a8993f5f737b38fcf83c545fd18af046d83eeda29c9f14d2"
-
-[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "4ff62208c81e1857d910d09c79484af0ecc6971cc8457e88809c12c78b75a8ca"
+hash = "41966f482f1ddc3f3efd127f82d08e6ad6528c018fb29bf747635ba1b819b541"
 
 [[files]]
-file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "688389cd13da268855757d88a4d9896c4fb36c480f63a8fb1cbd9be8c5e6541d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/challenges.snbt"
-hash = "1a962d91c0b4d001ae7dc0f9a2fe2c3ea3e188e763f4445f5ea7de7068b57483"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/completed_meals.snbt"
-hash = "fa2ac2a120d1157d85c96bea4a749c3b20a76d73c5265170103dcc1873637450"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/husbandry.snbt"
-hash = "50815e124c47de31085ce6dd76b7379fa388f61fb9bbb3830273c849a0f60c0e"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/processing_ingredients.snbt"
-hash = "7f180c02d822a5f83dc81bc45bff3357b2b5c841a4d3939c18b978d0f75c4916"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/tech.snbt"
-hash = "e4b0cf28739bc6ccf47dba0ed8bb68ab285ae4f9ca8baebc77307b7afafb9f3c"
-
-[[files]]
-file = "config/ftbquests/quests/data.snbt"
-hash = "53618a9e76e315525d1232cb34d00a7f9c9bed206da9277d03ea82949cc7070e"
-
-[[files]]
-file = "config/go-fish.json"
-hash = "139b52a82562da365fd99eebcf641da2a3db56cd5f353d665122c5f6aab04a7d"
-
-[[files]]
-file = "config/libgui.json5"
-hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
-
-[[files]]
-file = "config/modern_industrialization.toml"
-hash = "e2d247277c17bc31ebdfce8947cc9c7fbf1579e4db6b5aa842e8c9fc6f538cf1"
+file = "config/ftbultimine.json5"
+hash = "00ea9f453308082e63dad91214be0eb37c1126ed09e46355d563b7b477a1a179"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "e8254b5522711a78e7e76bb6067892df6198bd8d9212a816ba09b95829e531e3"
+hash = "1c00d21b7c00444c64d244581244b2121fb025412c539245c47eee3ed61efd14"
 
 [[files]]
 file = "config/notenoughcrashes.json"
 hash = "abff0cca7b98562e4b9b3e9346fdc680b409e4cb6d7fc0d1cb32e8313b52ade0"
 
 [[files]]
-file = "config/nourish.json"
-hash = "5869590017ce6639fe722ccb76abed4b53cc0a37adb59e297fac421f1584298a"
-
-[[files]]
 file = "config/patchouli.json5"
 hash = "29747ebbaf0767f688a1fdf652abc9f0c806f37a7a745cc68740afd21115f046"
 
 [[files]]
-file = "config/reborncore/misc.json"
-hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
+file = "config/randompatches.toml"
+hash = "eb5af2e1a09a7655918e173a3b932c8bfd0c1ff975f8335f7f0e900e009603a8"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "68d8d6c972c63c0a3d37cef7d4bdec2de8ea9e65c8551e5901fba4ba9cb1fda3"
-
-[[files]]
-file = "config/rrp.properties"
-hash = "73b0e4a15dab732342367702cf18e81959f84b43fb80b55be86f2d055de65ef9"
-
-[[files]]
-file = "config/sandwichable.json"
-hash = "54b457b6526271079f708fb9b70c25d0ee0dea0d0d9490b7dfc111dae8a1c028"
+hash = "362dfb2ff2f88e874f362809d8c61a88ae910d2d1fdbebf62251e8e9eb672c1e"
 
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "0b16d1ae9003f3a8dd6054dc3eaff300ba824855dbddb9a8bd6ed84294b1da17"
-
-[[files]]
-file = "config/techreborn/generators.json"
-hash = "bfd941893b7d1ffe2aa831763486d797cab405f76c756e73c9ba3c33473b0f7e"
-
-[[files]]
-file = "config/techreborn/items.json"
-hash = "f7e9b4be4a4545b2aee633101b99acec41c9e7633bb9f37794f54cb762de6e4e"
-
-[[files]]
-file = "config/techreborn/machines.json"
-hash = "d790a51fc026f5d990d4ee5b02438e3ff8926b0d6ad78e34e7ea7362673970eb"
-
-[[files]]
-file = "config/techreborn/misc.json"
-hash = "4e43f4014fcd2c9442969de4b7734b569dae825422168def7bc8bb858ceff55a"
-
-[[files]]
-file = "config/techreborn/world.json"
-hash = "9cb633e2c8b765254e28d0b5d4e346913a435d56f39ea2fad4bb5dcb7c424d09"
 
 [[files]]
 file = "config/waila/megane-impl-mixin.json"
@@ -118,19 +38,27 @@ hash = "e6d1105d6ce51db371cce1b87d350712aae5eb559c9b7091f47137b8539d9698"
 
 [[files]]
 file = "config/waila/megane.json"
-hash = "c15b780b9324e785f7b9fe6262b74104167e7d415434196e7f51f906a3b1722c"
-
-[[files]]
-file = "config/waila/megane.json.old"
-hash = "38accc0c52263fa35f7da3b9c972a7c9cbddd7b58154b504027fec5e95e84d13"
+hash = "b5864ad53d27f7cabe077f8f5a57f140143f9550771ae279c0890d7cd86d8400"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "ce8b45000a6bc9cb1ccc9278d1743addcac47fbf613055b6ab2277b10ef8fb2f"
+hash = "cd93160ce4ed4b4a0d11aa711d24cd21c7677d72e2583b7ca55a4c974694d418"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
 hash = "c3b8ab69ffb3f69609d8213f21b576bdfddd975aaad41d9c62f6183a796494ab"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "417ebe7f9e891fbe7c2ef7d058799b84b9573e1f7e77ad364442c3b0eb2da9aa"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "8a6f52cd367d3f4c16237125f22e446e21bdbe6c270261265fde9d6747bfa0df"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -150,43 +78,44 @@ hash = "8d6f3db48cc507f2dc6e23919e21837851738fc849cb83772b4186b03bef391d"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "255f5620c6153980513b1f82007279bce2f3388bc5e0858a7fb07c956801e49f"
+hash = "eadcc58c07bdb6ec80113196a9ea646bb2f3d245898198607234e7c019196749"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "ff8077f6f6ae0957f98318daea1393c5d2988c647b484ff644fd88f0be8477e3"
+hash = "2223fefac3d506d70406c1df956133f599aa3f92e7feeb1855133aa5ec52165b"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
-hash = "6a1840c3901644342d5510f16da354381d3c7cc051447349210204e1218b117f"
+hash = "509d5c479a13ae5630cebe86fbadbc7a721cb3eeff8352ea25d5be44c60aa61b"
 
 [[files]]
 file = "kubejs/exported/tags/entity_types.txt"
-hash = "8bdbae7f8599539eaf1463e5112d152ca5f352b6c9f9eb02cef6b86f5f1e0b82"
+hash = "a6fc590e7f613fb2be56060c946e1b8b50be3b69985f6a1eab0a4a8e92a4434b"
 
 [[files]]
 file = "kubejs/exported/tags/fluids.txt"
-hash = "d23b5514b2127a136334b808a4d47d35ef823cbfca7faf9dd33b165e5e3251b3"
+hash = "54614733f0c7d63fcaa1c97c1bce30726a995bd05292ab4bdfeeba7aae89f69a"
 
 [[files]]
 file = "kubejs/exported/tags/functions.txt"
-hash = "50083c29c10d975fc0c40e3168a40bc436ddb70c9d44d5481c46bc3d4d3f7769"
+hash = "dd9229298f03679f8c8ff32382ee811fc4dc62ca5cd99cce583dbf05c7870880"
 
 [[files]]
 file = "kubejs/exported/tags/items.txt"
-hash = "109d472e8a5f032d5c4a59555312ea12909c63c7bcd6023c2fdd3b9b61a2f1e7"
+hash = "fb9f4938636ddbbf96e6c51ce436ce036a42acedccbad27d23697749d9f50daf"
 
 [[files]]
-file = "kubejs/server_scripts/high_tech/recipe_tweaks.js"
-hash = "e96d28880db6411959d349589ace38c206617ba98a0e45a1a08ac8d39259720e"
-
-[[files]]
-file = "kubejs/server_scripts/high_tech/unify_machines.js"
-hash = "fbce1ad1216bad8eba0f069349adafd6a986c2a5e366e75a83bb6f374c00294f"
+file = "kubejs/server_scripts/script.js"
+hash = "cd5375c75b6453eea519b595dd510982bb3fca6b6c3c3145a4b7d1a856df4683"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "d2ea3e02a1254600c7f78d0b2befd9a8a434a525e57c68cdff26ac26756dda7e"
+hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+
+[[files]]
+file = "mods/advancements-debug.toml"
+hash = "1ef764c2b5051c4a39ba0aa08334ddae4f927d0868b14615cf16338fb2498e4f"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -194,13 +123,18 @@ hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.toml"
-hash = "2f120e8b9429bf056479342ad343d4e95ef03a141ebf54b2e01293a6f59f0b59"
+file = "mods/architectury-fabric.toml"
+hash = "d2aa937360b49d5fdb6d5b5c9d0c0bd54965b0fbfdcc24fe9f8b28d8960c3f7e"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "d2aa937360b49d5fdb6d5b5c9d0c0bd54965b0fbfdcc24fe9f8b28d8960c3f7e"
+file = "mods/attribute.toml"
+hash = "622bb750c8326cd27e3f9f9ca07ed753190f5f73e4ab354f993b546e51269ebb"
+metafile = true
+
+[[files]]
+file = "mods/blame-fabric.toml"
+hash = "25c0672cddde91d01ffa55efcbed72e8444b411486937e14bf30ace21729ee83"
 metafile = true
 
 [[files]]
@@ -214,23 +148,23 @@ hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
 metafile = true
 
 [[files]]
-file = "mods/croptopia-fabric.toml"
-hash = "a6d54d76d84fb04aaa156476d8df70c1cfa11f3f24f34abf060a8dea88f7bf4a"
-metafile = true
-
-[[files]]
-file = "mods/croptosis.toml"
-hash = "956f67de4e33c5ca1cb67158ce160d372d661342c65941eceef17730be02537d"
+file = "mods/dimension-fix-some-forge-patches-ported.toml"
+hash = "ae227ffeef3aad7076d25a5dfba712ca68a8030cb5a1b2e60d48a2ac0da38746"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "71bfd5dfd3c288a0b5d1c4bb0a433d343baae092e76573dc8f764a100b6343b1"
+hash = "03130dc7c99fc134617fe9c9d9bf5610da2333fe53d3228d2a8a1648b324db20"
 metafile = true
 
 [[files]]
-file = "mods/ftb-gui-library-fabric.toml"
-hash = "c1a2460cb09dbbd774c6c0780c2dcedda893d6a594d02e6ed120af1a2acdc336"
+file = "mods/fabric-disable-custom-worlds-advice.toml"
+hash = "833c49834e1bb973fa63773268d6882305319d60f6fe1a45ebca7ac735a1a187"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.toml"
+hash = "0ebbc9f76431c5b5d98be8381df074520dff87e6a57d7c61eb3df7added13970"
 metafile = true
 
 [[files]]
@@ -239,13 +173,13 @@ hash = "e460f87021db8aafcc9d12b3cfc587172c29200ad7fadabe5f1b1a9a21bb3492"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric.toml"
-hash = "b75833fd3b3718eacbc28f2242071c830809e28e596d62106ed047aeb6d79a65"
+file = "mods/ftb-teams-fabric.toml"
+hash = "ecd080b70fbe11bb41f225a61f902a85d6dfc0965263b1dde02de7d0f153bdd2"
 metafile = true
 
 [[files]]
-file = "mods/go-fish.toml"
-hash = "d8386830187d47129066b829961bb827476e2aae457cdcbe49b8566042e9615d"
+file = "mods/ftb-ultimine-fabric.toml"
+hash = "567769e3560aec8095f86ab57e637a0d1a18e5927178541099d3656fecdf44fb"
 metafile = true
 
 [[files]]
@@ -255,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-fabric.toml"
-hash = "bfa8f34c2262936cbb1fe577db5bfadb440d9c28d557634103d09463bc047c8f"
+hash = "e41d9e1331fcc388978bdc973542d4d752af9efebfb0942762634d8d5be1be7f"
 metafile = true
 
 [[files]]
@@ -269,8 +203,8 @@ hash = "92bd32eb0c9b5d21063efd7c3e6d4f480983770d15d514ff05873dbef90d45ea"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.toml"
-hash = "7e5c766f3180cecd5eda96b3c8ca2d8999efca3567f1fed01db015590b548a37"
+file = "mods/mixintrace.toml"
+hash = "377e2110a999afe3f175a368bf029cb7b05c9639d3e1edf2aca08e1f95587d7f"
 metafile = true
 
 [[files]]
@@ -284,23 +218,13 @@ hash = "48801db07e7f0352c9a155aa236c01a48b85e638424d41c89a02a7cdcd1266ad"
 metafile = true
 
 [[files]]
-file = "mods/nourish.toml"
-hash = "1e76325a0810dd0c18928acfbcb94e1b5e45707a9d3e998cc27682fbbb209b69"
-metafile = true
-
-[[files]]
 file = "mods/patchouli-fabric.toml"
 hash = "20e4cf1c9eaaa6a4a56bab823adf68f85e2c71b3f8c584deffc0cc7425e58809"
 metafile = true
 
 [[files]]
-file = "mods/rats-mischief.toml"
-hash = "c3faaa0526e0c4e2340fbb7a8b174e607833f516aa89fe317a0c20a14b52e48d"
-metafile = true
-
-[[files]]
-file = "mods/reborncore.toml"
-hash = "a016966f4400b05de22b07ba9643089852402c302feb45a97c5a058acfc35b15"
+file = "mods/randompatches-fabric.toml"
+hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
 metafile = true
 
 [[files]]
@@ -310,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
+hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
 metafile = true
 
 [[files]]
@@ -319,16 +243,26 @@ hash = "fb37c83160b7b42abc998680881dcfa616338baba033832ad422bff20453f8de"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable.toml"
-hash = "2fca7f552d1c94abd9e43c35d8b713930cb17f0fa711b83d14ac8b21d66d4579"
+file = "mods/save-my-stronghold-fabric.toml"
+hash = "30ac6c12c05123234395ca0b478cc66b18a2bd8c1c7a45de597ac6f02660f30e"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.toml"
-hash = "07f661d05cae535ef8933f815ee4a946abdea2555ad688c7753a9ad30ee7bd18"
+file = "mods/tooltipfix.toml"
+hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
 metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "d6709cfd7715cd5cac37ba660bcc1bd3c6e24f7ffa08c1ed7638d94b0f2a330c"
+hash = "4edd4db3805c12d32ecce6a050d64d9525f1ed6f834827b3bc7d769faa3e9459"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "029d9ebbce7751306ba4ae09ffdbb40f4225ee8f640b999b1a7437d0fc00b726"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "16b89188be0c590ef27497d8d7bd076eecfbec07576eb6746f3610de424c89f5"
 metafile = true

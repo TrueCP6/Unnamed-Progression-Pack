@@ -1,40 +1,79 @@
-To refresh this file, delete it and run /reload command again! Last updated: Mar 30, 2021 3:18:46 PM
+To refresh this file, delete it and run /reload command again! Last updated: May 1, 2021 10:04:43 AM
 
-#c:iridium_ores
-- techreborn:iridium_ore
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
 
-#c:nickel_blocks
-- techreborn:nickel_storage_block
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
 
-#c:bronze_dusts
-- modern_industrialization:bronze_dust
-- techreborn:bronze_dust
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
 
-#c:tungstensteel_blocks
-- techreborn:tungstensteel_storage_block
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
 
-#c:coal_dusts
-- modern_industrialization:coal_dust
-- techreborn:coal_dust
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
 
-#c:invar_ingots
-- modern_industrialization:invar_ingot
-- techreborn:invar_ingot
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
 
 #fabric:pickaxes
-- modern_industrialization:diesel_mining_drill
-- techreborn:bronze_pickaxe
-- techreborn:ruby_pickaxe
-- techreborn:sapphire_pickaxe
-- techreborn:peridot_pickaxe
-- techreborn:basic_drill
-- techreborn:advanced_drill
-- techreborn:industrial_drill
-- techreborn:basic_jackhammer
-- techreborn:advanced_jackhammer
-- techreborn:industrial_jackhammer
-- techreborn:rock_cutter
-- techreborn:omni_tool
 - minecraft:wooden_pickaxe
 - minecraft:stone_pickaxe
 - minecraft:iron_pickaxe
@@ -42,153 +81,41 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:diamond_pickaxe
 - minecraft:netherite_pickaxe
 
-#c:diamond_ores
-- minecraft:diamond_ore
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
 
-#c:cinnabar_small_dusts
-- techreborn:cinnabar_small_dust
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
 
-#c:coal_plates
-- techreborn:coal_plate
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
 
-#fabric:axes
-- modern_industrialization:diesel_chainsaw
-- techreborn:bronze_axe
-- techreborn:ruby_axe
-- techreborn:sapphire_axe
-- techreborn:peridot_axe
-- techreborn:basic_chainsaw
-- techreborn:advanced_chainsaw
-- techreborn:industrial_chainsaw
-- techreborn:omni_tool
-- minecraft:wooden_axe
-- minecraft:stone_axe
-- minecraft:iron_axe
-- minecraft:golden_axe
-- minecraft:diamond_axe
-- minecraft:netherite_axe
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
 
-#c:silver_tiny_dusts
-- modern_industrialization:silver_tiny_dust
-
-#c:tin_ores
-- modern_industrialization:tin_ore
-- techreborn:tin_ore
-
-#c:iron_dusts
-- modern_industrialization:iron_dust
-- techreborn:iron_dust
-
-#c:steel_blocks
-- techreborn:steel_storage_block
-
-#c:nickel_small_dusts
-- techreborn:nickel_small_dust
-
-#c:tungstensteel_nuggets
-- techreborn:tungstensteel_nugget
-
-#c:titanium_nuggets
-- modern_industrialization:titanium_nugget
-- techreborn:titanium_nugget
-
-#c:zinc_nuggets
-- techreborn:zinc_nugget
-
-#c:cinnabar_ores
-- techreborn:cinnabar_ore
-
-#c:tin_plates
-- modern_industrialization:tin_plate
-- techreborn:tin_plate
-
-#c:uvarovite_dusts
-- techreborn:uvarovite_dust
-
-#c:aluminum_plates
-- modern_industrialization:aluminum_plate
-- techreborn:aluminum_plate
-
-#c:battery_alloy_dusts
-- modern_industrialization:battery_alloy_dust
-
-#minecraft:coals
-- minecraft:coal
-- minecraft:charcoal
-
-#c:lead_plates
-- modern_industrialization:lead_plate
-- techreborn:lead_plate
-
-#c:quartz_plates
-- techreborn:quartz_plate
-
-#c:diorite_dusts
-- techreborn:diorite_dust
-
-#c:pyrope_dusts
-- techreborn:pyrope_dust
-
-#c:emerald_ores
-- minecraft:emerald_ore
-
-#c:lead_ingots
-- modern_industrialization:lead_ingot
-- techreborn:lead_ingot
-
-#c:copper_dusts
-- modern_industrialization:copper_dust
-- techreborn:copper_dust
-
-#minecraft:beds
-- minecraft:red_bed
-- minecraft:black_bed
-- minecraft:blue_bed
-- minecraft:brown_bed
-- minecraft:cyan_bed
-- minecraft:gray_bed
-- minecraft:green_bed
-- minecraft:light_blue_bed
-- minecraft:light_gray_bed
-- minecraft:lime_bed
-- minecraft:magenta_bed
-- minecraft:orange_bed
-- minecraft:pink_bed
-- minecraft:purple_bed
-- minecraft:white_bed
-- minecraft:yellow_bed
-
-#c:yellow_garnet_small_dusts
-- techreborn:yellow_garnet_small_dust
-
-#minecraft:doors
-- #minecraft:wooden_doors
-- minecraft:iron_door
-
-#c:yellow_garnet_dusts
-- techreborn:yellow_garnet_dust
-
-#c:magnesium_small_dusts
-- techreborn:magnesium_small_dust
-
-#c:calcite_small_dusts
-- techreborn:calcite_small_dust
-
-#c:diamond_plates
-- techreborn:diamond_plate
-
-#techreborn:rubber_logs
-- techreborn:rubber_log
-- techreborn:rubber_log_stripped
-- techreborn:rubber_wood
-- techreborn:stripped_rubber_wood
-
-#c:grossular_small_dusts
-- techreborn:grossular_small_dust
-
-#c:tin_ingots
-- modern_industrialization:tin_ingot
-- techreborn:tin_ingot
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
 
 #minecraft:signs
 - minecraft:oak_sign
@@ -200,258 +127,51 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:crimson_sign
 - minecraft:warped_sign
 
-#c:phosphorous_small_dusts
-- techreborn:phosphorous_small_dust
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
 
-#c:refined_iron_blocks
-- techreborn:refined_iron_storage_block
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
 
-#c:redstone_ores
-- minecraft:redstone_ore
-- minecraft:redstone_ore
-
-#c:gold_dusts
-- modern_industrialization:gold_dust
-- techreborn:gold_dust
-
-#minecraft:fishes
-- minecraft:cod
-- minecraft:cooked_cod
-- minecraft:salmon
-- minecraft:cooked_salmon
-- minecraft:pufferfish
-- minecraft:tropical_fish
-
-#c:sapphire_dusts
-- techreborn:sapphire_dust
-
-#c:electrum_tiny_dusts
-- modern_industrialization:electrum_tiny_dust
-
-#c:brass_plates
-- techreborn:brass_plate
-
-#c:lazurite_small_dusts
-- techreborn:lazurite_small_dust
-
-#reborncore:water_explosion
-- techreborn:sodium_bucket
-
-#c:olivine_dusts
-- techreborn:olivine_dust
-
-#c:bauxite_ores
-- modern_industrialization:bauxite_ore
-- techreborn:bauxite_ore
-
-#c:coal_small_dusts
-- techreborn:coal_small_dust
-
-#c:chrome_tiny_dusts
-- modern_industrialization:chrome_tiny_dust
-
-#c:netherrack_small_dusts
-- techreborn:netherrack_small_dust
-
-#c:chrome_blocks
-- techreborn:chrome_storage_block
-
-#c:brass_ingots
-- techreborn:brass_ingot
-
-#c:flint_dusts
-- techreborn:flint_dust
-
-#c:aluminum_ingots
-- modern_industrialization:aluminum_ingot
-- techreborn:aluminum_ingot
-
-#c:salt_dusts
-- modern_industrialization:salt_dust
-
-#c:granite_small_dusts
-- techreborn:granite_small_dust
-
-#c:manganese_ingots
-- modern_industrialization:manganese_ingot
-
-#c:grossular_dusts
-- techreborn:grossular_dust
-
-#c:zinc_plates
-- techreborn:zinc_plate
-
-#c:lead_ores
-- modern_industrialization:lead_ore
-- techreborn:lead_ore
-
-#c:copper_plates
-- modern_industrialization:copper_plate
-- techreborn:copper_plate
-
-#minecraft:walls
-- minecraft:cobblestone_wall
-- minecraft:mossy_cobblestone_wall
-- minecraft:brick_wall
-- minecraft:prismarine_wall
-- minecraft:red_sandstone_wall
-- minecraft:mossy_stone_brick_wall
-- minecraft:granite_wall
-- minecraft:stone_brick_wall
-- minecraft:nether_brick_wall
-- minecraft:andesite_wall
-- minecraft:red_nether_brick_wall
-- minecraft:sandstone_wall
-- minecraft:end_stone_brick_wall
-- minecraft:diorite_wall
-- minecraft:blackstone_wall
-- minecraft:polished_blackstone_brick_wall
-- minecraft:polished_blackstone_wall
-
-#c:tin_gears
-- modern_industrialization:tin_gear
-
-#c:aluminum_tiny_dusts
-- modern_industrialization:aluminum_tiny_dust
-
-#itemfilters:filters
-- itemfilters:always_true
-- itemfilters:always_false
-- itemfilters:or
-- itemfilters:and
-- itemfilters:not
-- itemfilters:xor
-- itemfilters:tag
-- itemfilters:mod
-- itemfilters:item_group
-- itemfilters:id_regex
-- itemfilters:damage
-- itemfilters:block
-- itemfilters:max_count
-- itemfilters:strong_nbt
-- itemfilters:weak_nbt
-- itemfilters:custom
-
-#c:quartz_small_dusts
-- techreborn:quartz_small_dust
-
-#c:titanium_tiny_dusts
-- modern_industrialization:titanium_tiny_dust
-
-#c:redstone_small_dusts
-- techreborn:redstone_small_dust
-
-#minecraft:music_discs
-- #minecraft:creeper_drop_music_discs
-- minecraft:music_disc_pigstep
-
-#c:bronze_gears
-- modern_industrialization:bronze_gear
-
-#c:pyrite_small_dusts
-- techreborn:pyrite_small_dust
-
-#c:antimony_ores
-- modern_industrialization:antimony_ore
-
-#c:tungsten_nuggets
-- techreborn:tungsten_nugget
-
-#c:ender_eye_small_dusts
-- techreborn:ender_eye_small_dust
-
-#c:titanium_small_dusts
-- techreborn:titanium_small_dust
-
-#c:sulfur_dusts
-- techreborn:sulfur_dust
-
-#c:mixed_metal_ingots
-- techreborn:mixed_metal_ingot
-
-#c:zinc_ingots
-- techreborn:zinc_ingot
-
-#minecraft:sand
-- minecraft:sand
-- minecraft:red_sand
-
-#c:sodalite_dusts
-- techreborn:sodalite_dust
-
-#c:peridot_gems
-- techreborn:peridot_gem
-
-#fabric:hoes
-- techreborn:bronze_hoe
-- techreborn:ruby_hoe
-- techreborn:sapphire_hoe
-- techreborn:peridot_hoe
-- minecraft:wooden_hoe
-- minecraft:stone_hoe
-- minecraft:iron_hoe
-- minecraft:golden_hoe
-- minecraft:diamond_hoe
-- minecraft:netherite_hoe
-
-#c:planks_that_burn
-- techreborn:rubber_planks
-
-#c:sheldonite_ores
-- techreborn:sheldonite_ore
-
-#c:refined_iron_nuggets
-- techreborn:refined_iron_nugget
-
-#c:tin_blocks
-- techreborn:tin_storage_block
-
-#c:cupronickel_nuggets
-- modern_industrialization:cupronickel_nugget
-
-#c:diamond_nuggets
-- techreborn:diamond_nugget
-
-#minecraft:beacon_payment_items
-- minecraft:netherite_ingot
-- minecraft:emerald
-- minecraft:diamond
-- minecraft:gold_ingot
-- minecraft:iron_ingot
-
-#c:stainless_steel_nuggets
-- modern_industrialization:stainless_steel_nugget
-
-#c:yellow_garnet_blocks
-- techreborn:yellow_garnet_storage_block
-
-#c:quartz_tiny_dusts
-- modern_industrialization:quartz_tiny_dust
-
-#minecraft:wooden_trapdoors
-- minecraft:acacia_trapdoor
-- minecraft:birch_trapdoor
-- minecraft:dark_oak_trapdoor
-- minecraft:jungle_trapdoor
-- minecraft:oak_trapdoor
-- minecraft:spruce_trapdoor
-- minecraft:crimson_trapdoor
-- minecraft:warped_trapdoor
-- techreborn:rubber_trapdoor
-
-#c:gold_ores
-- #minecraft:gold_ores
-- minecraft:gold_ore
-- minecraft:gold_ore
-
-#c:red_garnet_gems
-- techreborn:red_garnet_gem
-
-#c:silver_small_dusts
-- techreborn:silver_small_dust
-
-#c:silicon_dusts
-- modern_industrialization:silicon_dust
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
 
 #minecraft:stairs
 - #minecraft:wooden_stairs
@@ -483,232 +203,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:blackstone_stairs
 - minecraft:polished_blackstone_brick_stairs
 - minecraft:polished_blackstone_stairs
-- techreborn:rubber_plank_stair
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
 
 #minecraft:logs
 - #minecraft:logs_that_burn
 - #minecraft:crimson_stems
 - #minecraft:warped_stems
-
-#c:titanium_plates
-- modern_industrialization:titanium_plate
-- techreborn:titanium_plate
-
-#c:emerald_small_dusts
-- techreborn:emerald_small_dust
-
-#c:titanium_ingots
-- modern_industrialization:titanium_ingot
-- techreborn:titanium_ingot
-
-#c:cupronickel_plates
-- modern_industrialization:cupronickel_plate
-
-#c:stainless_steel_plates
-- modern_industrialization:stainless_steel_plate
-
-#minecraft:arrows
-- minecraft:arrow
-- minecraft:tipped_arrow
-- minecraft:spectral_arrow
-
-#c:aluminum_blocks
-- techreborn:aluminum_storage_block
-
-#c:silicon_ingots
-- modern_industrialization:silicon_ingot
-
-#c:invar_nuggets
-- modern_industrialization:invar_nugget
-- techreborn:invar_nugget
-
-#minecraft:wooden_doors
-- minecraft:oak_door
-- minecraft:spruce_door
-- minecraft:birch_door
-- minecraft:jungle_door
-- minecraft:acacia_door
-- minecraft:dark_oak_door
-- minecraft:crimson_door
-- minecraft:warped_door
-- techreborn:rubber_door
-
-#c:magnalium_plates
-- techreborn:magnalium_plate
-
-#c:iridium_nuggets
-- techreborn:iridium_nugget
-
-#c:bronze_nuggets
-- modern_industrialization:bronze_nugget
-- techreborn:bronze_nugget
-
-#c:aluminum_small_dusts
-- techreborn:aluminum_small_dust
-
-#c:netherrack_dusts
-- techreborn:netherrack_dust
-
-#minecraft:crimson_stems
-- minecraft:crimson_stem
-- minecraft:stripped_crimson_stem
-- minecraft:crimson_hyphae
-- minecraft:stripped_crimson_hyphae
-
-#c:marble_small_dusts
-- techreborn:marble_small_dust
-
-#minecraft:stone_tool_materials
-- minecraft:cobblestone
-- minecraft:blackstone
-
-#c:lead_dusts
-- modern_industrialization:lead_dust
-- techreborn:lead_dust
-
-#c:advanced_alloy_plates
-- techreborn:advanced_alloy_plate
-
-#c:tin_tiny_dusts
-- modern_industrialization:tin_tiny_dust
-
-#c:nickel_plates
-- modern_industrialization:nickel_plate
-- techreborn:nickel_plate
-
-#c:bronze_tiny_dusts
-- modern_industrialization:bronze_tiny_dust
-
-#c:cupronickel_tiny_dusts
-- modern_industrialization:cupronickel_tiny_dust
-
-#minecraft:anvil
-- minecraft:anvil
-- minecraft:chipped_anvil
-- minecraft:damaged_anvil
-
-#c:coal_ores
-- minecraft:coal_ore
-- minecraft:coal_ore
-
-#c:sodalite_ores
-- techreborn:sodalite_ore
-
-#c:cupronickel_ingots
-- modern_industrialization:cupronickel_ingot
-
-#c:saltpeter_dusts
-- techreborn:saltpeter_dust
-
-#c:platinum_ingots
-- techreborn:platinum_ingot
-
-#c:lead_tiny_dusts
-- modern_industrialization:lead_tiny_dust
-
-#c:ruby_ores
-- techreborn:ruby_ore
-
-#minecraft:stone_crafting_materials
-- minecraft:cobblestone
-- minecraft:blackstone
-
-#minecraft:piglin_repellents
-- minecraft:soul_torch
-- minecraft:soul_lantern
-- minecraft:soul_campfire
-
-#c:copper_tiny_dusts
-- modern_industrialization:copper_tiny_dust
-
-#c:advanced_alloy_ingots
-- techreborn:advanced_alloy_ingot
-
-#c:ruby_dusts
-- modern_industrialization:ruby_dust
-- techreborn:ruby_dust
-
-#c:aluminum_gears
-- modern_industrialization:aluminum_gear
-
-#c:electrum_dusts
-- modern_industrialization:electrum_dust
-- techreborn:electrum_dust
-
-#c:silver_ores
-- modern_industrialization:silver_ore
-- techreborn:silver_ore
-
-#c:copper_blocks
-- techreborn:copper_storage_block
-
-#c:invar_gears
-- modern_industrialization:invar_gear
-
-#c:cupronickel_dusts
-- modern_industrialization:cupronickel_dust
-
-#c:bronze_small_dusts
-- techreborn:bronze_small_dust
-
-#c:sodium_tiny_dusts
-- modern_industrialization:sodium_tiny_dust
-
-#c:tin_nuggets
-- modern_industrialization:tin_nugget
-- techreborn:tin_nugget
-
-#c:electrum_small_dusts
-- techreborn:electrum_small_dust
-
-#minecraft:wooden_stairs
-- minecraft:oak_stairs
-- minecraft:spruce_stairs
-- minecraft:birch_stairs
-- minecraft:jungle_stairs
-- minecraft:acacia_stairs
-- minecraft:dark_oak_stairs
-- minecraft:crimson_stairs
-- minecraft:warped_stairs
-- techreborn:rubber_plank_stair
-
-#c:platinum_dusts
-- techreborn:platinum_dust
-
-#minecraft:carpets
-- minecraft:white_carpet
-- minecraft:orange_carpet
-- minecraft:magenta_carpet
-- minecraft:light_blue_carpet
-- minecraft:yellow_carpet
-- minecraft:lime_carpet
-- minecraft:pink_carpet
-- minecraft:gray_carpet
-- minecraft:light_gray_carpet
-- minecraft:cyan_carpet
-- minecraft:purple_carpet
-- minecraft:blue_carpet
-- minecraft:brown_carpet
-- minecraft:green_carpet
-- minecraft:red_carpet
-- minecraft:black_carpet
-
-#minecraft:wooden_buttons
-- minecraft:oak_button
-- minecraft:spruce_button
-- minecraft:birch_button
-- minecraft:jungle_button
-- minecraft:acacia_button
-- minecraft:dark_oak_button
-- minecraft:crimson_button
-- minecraft:warped_button
-- techreborn:rubber_button
-
-#c:yellow_garnet_gems
-- techreborn:yellow_garnet_gem
-
-#c:marble_dusts
-- techreborn:marble_dust
 
 #minecraft:stone_bricks
 - minecraft:stone_bricks
@@ -716,18 +223,35 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:cracked_stone_bricks
 - minecraft:chiseled_stone_bricks
 
-#c:iron_ores
-- minecraft:iron_ore
-- minecraft:iron_ore
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
 
-#c:galena_dusts
-- techreborn:galena_dust
+#fabric:axes
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:golden_axe
+- minecraft:diamond_axe
+- minecraft:netherite_axe
 
-#c:stainless_steel_tiny_dusts
-- modern_industrialization:stainless_steel_tiny_dust
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
 
-#c:stainless_steel_ingots
-- modern_industrialization:stainless_steel_ingot
+#fabric:shears
+- minecraft:shears
 
 #minecraft:slabs
 - #minecraft:wooden_slabs
@@ -763,212 +287,16 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:blackstone_slab
 - minecraft:polished_blackstone_brick_slab
 - minecraft:polished_blackstone_slab
-- techreborn:rubber_plank_slab
 
-#c:nickel_tiny_dusts
-- modern_industrialization:nickel_tiny_dust
-
-#c:pyrope_small_dusts
-- techreborn:pyrope_small_dust
-
-#c:titanium_dusts
-- modern_industrialization:titanium_dust
-- techreborn:titanium_dust
-
-#c:saw_dusts
-- techreborn:saw_dust
-
-#c:calcite_dusts
-- techreborn:calcite_dust
-
-#c:tin_dusts
-- modern_industrialization:tin_dust
-- techreborn:tin_dust
-
-#minecraft:buttons
-- #minecraft:wooden_buttons
-- minecraft:stone_button
-- minecraft:polished_blackstone_button
-
-#c:invar_plates
-- modern_industrialization:invar_plate
-- techreborn:invar_plate
-
-#c:aluminum_nuggets
-- modern_industrialization:aluminum_nugget
-- techreborn:aluminum_nugget
-
-#c:invar_tiny_dusts
-- modern_industrialization:invar_tiny_dust
-
-#c:tungsten_ingots
-- techreborn:tungsten_ingot
-
-#c:lead_nuggets
-- modern_industrialization:lead_nugget
-- techreborn:lead_nugget
-
-#c:silver_blocks
-- techreborn:silver_storage_block
-
-#minecraft:rails
-- minecraft:rail
-- minecraft:powered_rail
-- minecraft:detector_rail
-- minecraft:activator_rail
-
-#c:brass_small_dusts
-- techreborn:brass_small_dust
-
-#c:basalt
-- minecraft:basalt
-- minecraft:polished_basalt
-
-#c:battery_alloy_nuggets
-- modern_industrialization:battery_alloy_nugget
-
-#c:sphalerite_dusts
-- techreborn:sphalerite_dust
-
-#minecraft:wooden_pressure_plates
-- minecraft:oak_pressure_plate
-- minecraft:spruce_pressure_plate
-- minecraft:birch_pressure_plate
-- minecraft:jungle_pressure_plate
-- minecraft:acacia_pressure_plate
-- minecraft:dark_oak_pressure_plate
-- minecraft:crimson_pressure_plate
-- minecraft:warped_pressure_plate
-- techreborn:rubber_pressure_plate
-
-#minecraft:tall_flowers
-- minecraft:sunflower
-- minecraft:lilac
-- minecraft:peony
-- minecraft:rose_bush
-
-#c:brass_dusts
-- techreborn:brass_dust
-
-#c:red_garnet_small_dusts
-- techreborn:red_garnet_small_dust
-
-#c:lead_blocks
-- techreborn:lead_storage_block
-
-#minecraft:gold_ores
-- minecraft:gold_ore
-- minecraft:nether_gold_ore
-
-#c:tungsten_plates
-- techreborn:tungsten_plate
-
-#c:pyrite_dusts
-- techreborn:pyrite_dust
-
-#c:sapphire_ores
-- techreborn:sapphire_ore
-
-#c:ores
-- minecraft:gold_ore
-- minecraft:iron_ore
-- minecraft:coal_ore
-- modern_industrialization:copper_ore
-- modern_industrialization:tin_ore
-- modern_industrialization:bauxite_ore
-- modern_industrialization:lead_ore
-- modern_industrialization:antimony_ore
-- modern_industrialization:nickel_ore
-- modern_industrialization:silver_ore
-- modern_industrialization:salt_ore
-
-#c:olivine_small_dusts
-- techreborn:olivine_small_dust
-
-#c:peridot_blocks
-- techreborn:peridot_storage_block
-
-#c:red_garnet_plates
-- techreborn:red_garnet_plate
-
-#c:tungsten_small_dusts
-- techreborn:tungsten_small_dust
-
-#c:ruby_small_dusts
-- techreborn:ruby_small_dust
-
-#minecraft:soul_fire_base_blocks
-- minecraft:soul_sand
-- minecraft:soul_soil
-
-#c:basalt_small_dusts
-- techreborn:basalt_small_dust
-
-#c:gold_small_dusts
-- techreborn:gold_small_dust
-
-#c:sodium_dusts
-- modern_industrialization:sodium_dust
-
-#c:granite_dusts
-- techreborn:granite_dust
-
-#c:peridot_ores
-- techreborn:peridot_ore
-
-#c:emerald_plates
-- techreborn:emerald_plate
-
-#c:spessartine_small_dusts
-- techreborn:spessartine_small_dust
-
-#c:sphalerite_ores
-- techreborn:sphalerite_ore
-
-#minecraft:wool
-- minecraft:white_wool
-- minecraft:orange_wool
-- minecraft:magenta_wool
-- minecraft:light_blue_wool
-- minecraft:yellow_wool
-- minecraft:lime_wool
-- minecraft:pink_wool
-- minecraft:gray_wool
-- minecraft:light_gray_wool
-- minecraft:cyan_wool
-- minecraft:purple_wool
-- minecraft:blue_wool
-- minecraft:brown_wool
-- minecraft:green_wool
-- minecraft:red_wool
-- minecraft:black_wool
-
-#c:iridium_plates
-- techreborn:iridium_plate
-
-#c:sapphire_small_dusts
-- techreborn:sapphire_small_dust
-
-#c:refined_iron_ingots
-- techreborn:refined_iron_ingot
-
-#c:magnesium_dusts
-- techreborn:magnesium_dust
-
-#c:clay_small_dusts
-- techreborn:clay_small_dust
-
-#c:sphalerite_small_dusts
-- techreborn:sphalerite_small_dust
-
-#c:platinum_small_dusts
-- techreborn:platinum_small_dust
-
-#c:brass_blocks
-- techreborn:brass_storage_block
-
-#c:silicon_nuggets
-- modern_industrialization:silicon_nugget
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
 
 #minecraft:warped_stems
 - minecraft:warped_stem
@@ -977,15 +305,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:stripped_warped_hyphae
 
 #fabric:shovels
-- modern_industrialization:diesel_mining_drill
-- techreborn:bronze_spade
-- techreborn:ruby_spade
-- techreborn:sapphire_spade
-- techreborn:peridot_spade
-- techreborn:basic_drill
-- techreborn:advanced_drill
-- techreborn:industrial_drill
-- techreborn:omni_tool
 - minecraft:wooden_shovel
 - minecraft:stone_shovel
 - minecraft:iron_shovel
@@ -993,30 +312,54 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:diamond_shovel
 - minecraft:netherite_shovel
 
-#c:phosphorous_dusts
-- techreborn:phosphorous_dust
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
 
-#c:lead_small_dusts
-- techreborn:lead_small_dust
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
 
-#c:andesite_dusts
-- techreborn:andesite_dust
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
 
-#c:steel_tiny_dusts
-- modern_industrialization:steel_tiny_dust
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
 
-#c:invar_small_dusts
-- techreborn:invar_small_dust
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
 
-#c:dark_ashes_dusts
-- techreborn:dark_ashes_dust
+#fabric:swords
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:golden_sword
+- minecraft:diamond_sword
+- minecraft:netherite_sword
 
-#c:nickel_nuggets
-- modern_industrialization:nickel_nugget
-- techreborn:nickel_nugget
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
 
-#c:lapis_ores
-- minecraft:lapis_ore
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
 
 #minecraft:dark_oak_logs
 - minecraft:dark_oak_log
@@ -1024,12 +367,11 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:stripped_dark_oak_log
 - minecraft:stripped_dark_oak_wood
 
-#c:ruby_blocks
-- techreborn:ruby_storage_block
-
-#c:silver_ingots
-- modern_industrialization:silver_ingot
-- techreborn:silver_ingot
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
 
 #minecraft:non_flammable_wood
 - minecraft:warped_stem
@@ -1061,202 +403,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:crimson_sign
 - minecraft:warped_sign
 
-#c:andradite_small_dusts
-- techreborn:andradite_small_dust
-
-#c:lazurite_plates
-- techreborn:lazurite_plate
-
-#c:battery_alloy_plates
-- modern_industrialization:battery_alloy_plate
-
-#c:uvarovite_small_dusts
-- techreborn:uvarovite_small_dust
-
-#c:pyrite_ores
-- techreborn:pyrite_ore
-
-#c:platinum_plates
-- techreborn:platinum_plate
-
-#c:antimony_tiny_dusts
-- modern_industrialization:antimony_tiny_dust
-
-#c:sapphire_blocks
-- techreborn:sapphire_storage_block
-
-#c:electrum_blocks
-- techreborn:electrum_storage_block
-
-#c:salt_tiny_dusts
-- modern_industrialization:salt_tiny_dust
-
-#minecraft:fences
-- #minecraft:wooden_fences
-- minecraft:nether_brick_fence
-- techreborn:rubber_fence
-- techreborn:refined_iron_fence
-
-#minecraft:saplings
-- minecraft:oak_sapling
-- minecraft:spruce_sapling
-- minecraft:birch_sapling
-- minecraft:jungle_sapling
-- minecraft:acacia_sapling
-- minecraft:dark_oak_sapling
-- techreborn:rubber_sapling
-
-#c:diamond_dusts
-- techreborn:diamond_dust
-
-#c:almandine_small_dusts
-- techreborn:almandine_small_dust
-
-#minecraft:banners
-- minecraft:white_banner
-- minecraft:orange_banner
-- minecraft:magenta_banner
-- minecraft:light_blue_banner
-- minecraft:yellow_banner
-- minecraft:lime_banner
-- minecraft:pink_banner
-- minecraft:gray_banner
-- minecraft:light_gray_banner
-- minecraft:cyan_banner
-- minecraft:purple_banner
-- minecraft:blue_banner
-- minecraft:brown_banner
-- minecraft:green_banner
-- minecraft:red_banner
-- minecraft:black_banner
-
-#minecraft:wooden_fences
-- minecraft:oak_fence
-- minecraft:acacia_fence
-- minecraft:dark_oak_fence
-- minecraft:spruce_fence
-- minecraft:birch_fence
-- minecraft:jungle_fence
-- minecraft:crimson_fence
-- minecraft:warped_fence
-- techreborn:rubber_fence
-
-#c:diorite_small_dusts
-- techreborn:diorite_small_dust
-
-#c:quartz_dusts
-- modern_industrialization:quartz_dust
-- techreborn:quartz_dust
-
-#c:bronze_blocks
-- techreborn:bronze_storage_block
-
-#c:lazurite_dusts
-- techreborn:lazurite_dust
-
-#c:steel_nuggets
-- modern_industrialization:steel_nugget
-- techreborn:steel_nugget
-
-#c:silver_plates
-- modern_industrialization:silver_plate
-- techreborn:silver_plate
-
-#c:tungsten_dusts
-- techreborn:tungsten_dust
-
-#c:ender_pearl_dusts
-- techreborn:ender_pearl_dust
-
-#c:ashes_small_dusts
-- techreborn:ashes_small_dust
-
-#c:manganese_tiny_dusts
-- modern_industrialization:manganese_tiny_dust
-
-#c:manganese_small_dusts
-- techreborn:manganese_small_dust
-
-#c:coal_tiny_dusts
-- modern_industrialization:coal_tiny_dust
-
-#c:clay_dusts
-- techreborn:clay_dust
-
-#c:tin_small_dusts
-- techreborn:tin_small_dust
-
-#c:titanium_blocks
-- techreborn:titanium_storage_block
-
-#c:bauxite_tiny_dusts
-- modern_industrialization:bauxite_tiny_dust
-
-#c:endstone_dusts
-- techreborn:endstone_dust
-
-#c:silicon_tiny_dusts
-- modern_industrialization:silicon_tiny_dust
-
-#c:silicon_plates
-- modern_industrialization:silicon_plate
-- techreborn:silicon_plate
-
-#c:battery_alloy_tiny_dusts
-- modern_industrialization:battery_alloy_tiny_dust
-
-#c:charcoal_dusts
-- techreborn:charcoal_dust
-
-#fabric:shears
-- minecraft:shears
-
-#c:refined_iron_plates
-- techreborn:refined_iron_plate
-
-#c:nickel_ingots
-- modern_industrialization:nickel_ingot
-- techreborn:nickel_ingot
-
-#c:copper_ores
-- modern_industrialization:copper_ore
-- techreborn:copper_ore
-
-#c:steel_ingots
-- modern_industrialization:steel_ingot
-- techreborn:steel_ingot
-
-#c:steel_gears
-- modern_industrialization:steel_gear
-
-#minecraft:trapdoors
-- #minecraft:wooden_trapdoors
-- minecraft:iron_trapdoor
-
-#c:tungstensteel_plates
-- techreborn:tungstensteel_plate
-
-#minecraft:boats
-- minecraft:oak_boat
-- minecraft:spruce_boat
-- minecraft:birch_boat
-- minecraft:jungle_boat
-- minecraft:acacia_boat
-- minecraft:dark_oak_boat
-
-#c:hot_tungstensteel_ingots
-- techreborn:hot_tungstensteel_ingot
-
-#c:yellow_garnet_plates
-- techreborn:yellow_garnet_plate
-
-#c:rubies
-- techreborn:ruby_gem
-
-#c:aluminum_dusts
-- modern_industrialization:aluminum_dust
-- techreborn:aluminum_dust
-
 #minecraft:leaves
 - minecraft:jungle_leaves
 - minecraft:oak_leaves
@@ -1264,19 +410,57 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:dark_oak_leaves
 - minecraft:acacia_leaves
 - minecraft:birch_leaves
-- techreborn:rubber_leaves
 
-#c:platinum_nuggets
-- techreborn:platinum_nugget
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
 
-#c:obsidian_dusts
-- techreborn:obsidian_dust
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
 
-#c:titanium_gears
-- modern_industrialization:titanium_gear
+#itemfilters:filters
+- itemfilters:always_true
+- itemfilters:always_false
+- itemfilters:or
+- itemfilters:and
+- itemfilters:not
+- itemfilters:xor
+- itemfilters:tag
+- itemfilters:mod
+- itemfilters:item_group
+- itemfilters:id_regex
+- itemfilters:damage
+- itemfilters:block
+- itemfilters:max_count
+- itemfilters:strong_nbt
+- itemfilters:weak_nbt
+- itemfilters:custom
 
-#c:steel_small_dusts
-- techreborn:steel_small_dust
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
 
 #minecraft:acacia_logs
 - minecraft:acacia_log
@@ -1307,236 +491,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:golden_axe
 - minecraft:golden_hoe
 
-#c:obsidian_plates
-- techreborn:obsidian_plate
-
-#c:ender_eye_dusts
-- techreborn:ender_eye_dust
-
-#c:iron_plates
-- modern_industrialization:iron_plate
-- techreborn:iron_plate
-
-#c:copper_ingots
-- modern_industrialization:copper_ingot
-- techreborn:copper_ingot
-
-#c:iridium_ingots
-- techreborn:iridium_ingot
-
-#c:basalt_dusts
-- techreborn:basalt_dust
-
-#c:red_garnet_dusts
-- techreborn:red_garnet_dust
-
-#c:platinum_blocks
-- techreborn:platinum_storage_block
-
-#c:dark_ashes_small_dusts
-- techreborn:dark_ashes_small_dust
-
-#c:chrome_small_dusts
-- techreborn:chrome_small_dust
-
-#c:invar_dusts
-- modern_industrialization:invar_dust
-- techreborn:invar_dust
-
-#c:antimony_dusts
-- modern_industrialization:antimony_dust
-
-#minecraft:logs_that_burn
-- #minecraft:dark_oak_logs
-- #minecraft:oak_logs
-- #minecraft:acacia_logs
-- #minecraft:birch_logs
-- #minecraft:jungle_logs
-- #minecraft:spruce_logs
-- #techreborn:rubber_logs
-
-#c:tungstensteel_ingots
-- techreborn:tungstensteel_ingot
-
-#c:sodium_nuggets
-- modern_industrialization:sodium_nugget
-
-#c:bronze_ingots
-- modern_industrialization:bronze_ingot
-- techreborn:bronze_ingot
-
-#c:silver_nuggets
-- modern_industrialization:silver_nugget
-- techreborn:silver_nugget
-
-#c:stainless_steel_gears
-- modern_industrialization:stainless_steel_gear
-
-#c:peridot_plates
-- techreborn:peridot_plate
-
-#minecraft:wooden_slabs
-- minecraft:oak_slab
-- minecraft:spruce_slab
-- minecraft:birch_slab
-- minecraft:jungle_slab
-- minecraft:acacia_slab
-- minecraft:dark_oak_slab
-- minecraft:crimson_slab
-- minecraft:warped_slab
-- techreborn:rubber_plank_slab
-
-#minecraft:small_flowers
-- minecraft:dandelion
-- minecraft:poppy
-- minecraft:blue_orchid
-- minecraft:allium
-- minecraft:azure_bluet
-- minecraft:red_tulip
-- minecraft:orange_tulip
-- minecraft:white_tulip
-- minecraft:pink_tulip
-- minecraft:oxeye_daisy
-- minecraft:cornflower
-- minecraft:lily_of_the_valley
-- minecraft:wither_rose
-
-#c:diamond_small_dusts
-- techreborn:diamond_small_dust
-
-#c:charcoal_small_dusts
-- techreborn:charcoal_small_dust
-
-#c:emerald_nuggets
-- techreborn:emerald_nugget
-
-#c:endstone_small_dusts
-- techreborn:endstone_small_dust
-
-#c:antimony_nuggets
-- modern_industrialization:antimony_nugget
-
-#c:bauxite_dusts
-- modern_industrialization:bauxite_dust
-- techreborn:bauxite_dust
-
-#c:steel_plates
-- modern_industrialization:steel_plate
-- techreborn:steel_plate
-
-#c:chrome_nuggets
-- modern_industrialization:chrome_nugget
-- techreborn:chrome_nugget
-
-#c:silver_dusts
-- modern_industrialization:silver_dust
-- techreborn:silver_dust
-
-#c:iron_small_dusts
-- techreborn:iron_small_dust
-
-#c:carbon_plates
-- techreborn:carbon_plate
-
-#c:galena_small_dusts
-- techreborn:galena_small_dust
-
-#c:saw_small_dusts
-- techreborn:saw_small_dust
-
-#c:glowstone_small_dusts
-- techreborn:glowstone_small_dust
-
-#c:nickel_dusts
-- modern_industrialization:nickel_dust
-- techreborn:nickel_dust
-
-#c:sulfur_small_dusts
-- techreborn:sulfur_small_dust
-
-#minecraft:creeper_drop_music_discs
-- minecraft:music_disc_13
-- minecraft:music_disc_cat
-- minecraft:music_disc_blocks
-- minecraft:music_disc_chirp
-- minecraft:music_disc_far
-- minecraft:music_disc_mall
-- minecraft:music_disc_mellohi
-- minecraft:music_disc_stal
-- minecraft:music_disc_strad
-- minecraft:music_disc_ward
-- minecraft:music_disc_11
-- minecraft:music_disc_wait
-
-#c:ashes_dusts
-- techreborn:ashes_dust
-
-#c:nickel_ores
-- modern_industrialization:nickel_ore
-
-#c:copper_small_dusts
-- techreborn:copper_small_dust
-
-#c:andradite_dusts
-- techreborn:andradite_dust
-
-#c:andesite_small_dusts
-- techreborn:andesite_small_dust
-
-#c:chrome_ingots
-- modern_industrialization:chrome_ingot
-- techreborn:chrome_ingot
-
-#fabric:wrenches
-- modern_industrialization:wrench
-
-#c:lapis_plates
-- techreborn:lapis_plate
-
-#c:sapphires
-- techreborn:sapphire_gem
-
-#c:bronze_plates
-- modern_industrialization:bronze_plate
-- techreborn:bronze_plate
-
-#c:flint_small_dusts
-- techreborn:flint_small_dust
-
-#c:steel_dusts
-- modern_industrialization:steel_dust
-- techreborn:steel_dust
-
-#c:tungsten_ores
-- techreborn:tungsten_ore
-
-#c:redstone_tiny_dusts
-- modern_industrialization:redstone_tiny_dust
-
-#c:iron_tiny_dusts
-- modern_industrialization:iron_tiny_dust
-
-#c:chrome_plates
-- modern_industrialization:chrome_plate
-- techreborn:chrome_plate
-
-#c:iridium_reinforced_stone_blocks
-- techreborn:iridium_reinforced_stone_storage_block
-
-#c:manganese_nuggets
-- modern_industrialization:manganese_nugget
-
-#c:copper_gears
-- modern_industrialization:copper_gear
-
-#c:obsidian_small_dusts
-- techreborn:obsidian_small_dust
-
-#c:iridium_blocks
-- techreborn:iridium_storage_block
-
-#c:zinc_small_dusts
-- techreborn:zinc_small_dust
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
 
 #itemfilters:check_nbt
 - minecraft:potion
@@ -1545,35 +502,68 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:enchanted_book
 - minecraft:tipped_arrow
 
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
 #minecraft:birch_logs
 - minecraft:birch_log
 - minecraft:birch_wood
 - minecraft:stripped_birch_log
 - minecraft:stripped_birch_wood
 
-#c:battery_alloy_ingots
-- modern_industrialization:battery_alloy_ingot
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
 
-#c:iridium_alloy_ingots
-- techreborn:iridium_alloy_ingot
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
 
-#c:antimony_ingots
-- modern_industrialization:antimony_ingot
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
 
-#c:red_garnet_blocks
-- techreborn:red_garnet_storage_block
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
 
-#c:hot_tungstensteel_nuggets
-- techreborn:hot_tungstensteel_nugget
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
 
-#c:cinnabar_dusts
-- techreborn:cinnabar_dust
-
-#c:iridium_alloy_plates
-- techreborn:iridium_alloy_plate
-
-#c:tungsten_blocks
-- techreborn:tungsten_storage_block
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
 
 #minecraft:oak_logs
 - minecraft:oak_log
@@ -1581,148 +571,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Mar
 - minecraft:stripped_oak_log
 - minecraft:stripped_oak_wood
 
-#c:manganese_dusts
-- modern_industrialization:manganese_dust
-- techreborn:manganese_dust
+#fabric:hoes
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:golden_hoe
+- minecraft:diamond_hoe
+- minecraft:netherite_hoe
 
-#c:chrome_dusts
-- modern_industrialization:chrome_dust
-- techreborn:chrome_dust
-
-#c:invar_blocks
-- techreborn:invar_storage_block
-
-#c:gold_tiny_dusts
-- modern_industrialization:gold_tiny_dust
-
-#c:salt_ores
-- modern_industrialization:salt_ore
-
-#c:gold_plates
-- modern_industrialization:gold_plate
-- techreborn:gold_plate
-
-#c:saltpeter_small_dusts
-- techreborn:saltpeter_small_dust
-
-#c:electrum_plates
-- modern_industrialization:electrum_plate
-- techreborn:electrum_plate
-
-#c:zinc_dusts
-- techreborn:zinc_dust
-
-#c:sodium_ingots
-- modern_industrialization:sodium_ingot
-
-#c:zinc_blocks
-- techreborn:zinc_storage_block
-
-#minecraft:jungle_logs
-- minecraft:jungle_log
-- minecraft:jungle_wood
-- minecraft:stripped_jungle_log
-- minecraft:stripped_jungle_wood
-
-#minecraft:lectern_books
-- minecraft:written_book
-- minecraft:writable_book
-
-#c:wood_plates
-- techreborn:wood_plate
-
-#c:sapphire_plates
-- techreborn:sapphire_plate
-
-#minecraft:spruce_logs
-- minecraft:spruce_log
-- minecraft:spruce_wood
-- minecraft:stripped_spruce_log
-- minecraft:stripped_spruce_wood
-
-#c:ruby_plates
-- techreborn:ruby_plate
-
-#c:almandine_dusts
-- techreborn:almandine_dust
-
-#c:bauxite_small_dusts
-- techreborn:bauxite_small_dust
-
-#c:peridot_small_dusts
-- techreborn:peridot_small_dust
-
-#minecraft:flowers
-- #minecraft:small_flowers
-- #minecraft:tall_flowers
-
-#c:galena_ores
-- techreborn:galena_ore
-
-#fabric:swords
-- modern_industrialization:diesel_chainsaw
-- techreborn:bronze_sword
-- techreborn:ruby_sword
-- techreborn:sapphire_sword
-- techreborn:peridot_sword
-- techreborn:nanosaber
-- techreborn:basic_chainsaw
-- techreborn:advanced_chainsaw
-- techreborn:industrial_chainsaw
-- techreborn:omni_tool
-- minecraft:wooden_sword
-- minecraft:stone_sword
-- minecraft:iron_sword
-- minecraft:golden_sword
-- minecraft:diamond_sword
-- minecraft:netherite_sword
-
-#minecraft:planks
-- minecraft:oak_planks
-- minecraft:spruce_planks
-- minecraft:birch_planks
-- minecraft:jungle_planks
-- minecraft:acacia_planks
-- minecraft:dark_oak_planks
-- minecraft:crimson_planks
-- minecraft:warped_planks
-- techreborn:rubber_planks
-
-#c:redstone_plates
-- techreborn:redstone_plate
-
-#c:emerald_dusts
-- techreborn:emerald_dust
-
-#c:electrum_nuggets
-- modern_industrialization:electrum_nugget
-- techreborn:electrum_nugget
-
-#c:stainless_steel_dusts
-- modern_industrialization:stainless_steel_dust
-
-#c:ender_pearl_small_dusts
-- techreborn:ender_pearl_small_dust
-
-#c:iridium_reinforced_tungstensteel_blocks
-- techreborn:iridium_reinforced_tungstensteel_storage_block
-
-#c:brass_nuggets
-- techreborn:brass_nugget
-
-#c:electrum_ingots
-- modern_industrialization:electrum_ingot
-- techreborn:electrum_ingot
-
-#c:sodalite_small_dusts
-- techreborn:sodalite_small_dust
-
-#c:peridot_dusts
-- techreborn:peridot_dust
-
-#c:copper_nuggets
-- modern_industrialization:copper_nugget
-- techreborn:copper_nugget
-
-#c:spessartine_dusts
-- techreborn:spessartine_dust
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door

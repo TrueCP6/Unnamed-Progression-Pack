@@ -2,10 +2,7 @@
   "configVersion": 2,
   "modules": {
     "megane-impl": {
-      "badasintended.megane.impl.TechReborn": true,
-      "badasintended.megane.impl.Minecraft": true,
-      "badasintended.megane.impl.ModernIndustrialization": true,
-      "badasintended.megane.impl.AppliedEnergistics2": true
+      "badasintended.megane.impl.Minecraft": true
     }
   },
   "inventory": {
