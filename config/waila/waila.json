@@ -15,9 +15,9 @@
       "x": 0,
       "y": 0,
       "alignX": "LEFT",
-      "alignY": "TOP",
+      "alignY": "BOTTOM",
       "anchorX": "LEFT",
-      "anchorY": "TOP"
+      "anchorY": "BOTTOM"
     },
     "scale": 1.0,
     "color": {
@@ -43,9 +43,9 @@
   },
   "formatting": {
     "modName": "§9§o%s",
-    "blockName": "\\u00A7f%s",
-    "fluidName": "\\u00A7f%s",
-    "entityName": "\\u00A7f%s",
-    "registryName": "\\u00A77[%s]"
+    "blockName": "§f%s",
+    "fluidName": "§f%s",
+    "entityName": "§f%s",
+    "registryName": "§8%s"
   }
 }

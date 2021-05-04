@@ -2,6 +2,7 @@
   "configVersion": 2,
   "modules": {
     "megane-impl": {
+      "badasintended.megane.impl.ArtOfAlchemy": true,
       "badasintended.megane.impl.Minecraft": true
     }
   },

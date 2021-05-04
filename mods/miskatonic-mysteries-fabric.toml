@@ -1,0 +1,14 @@
+name = "Miskatonic Mysteries"
+filename = "miskatonicmysteries-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3287/353/miskatonicmysteries-0.0.3.jar"
+hash-format = "murmur2"
+hash = "2875708175"
+
+[update]
+[update.curseforge]
+file-id = 3287353
+project-id = 473458
+release-channel = "beta"

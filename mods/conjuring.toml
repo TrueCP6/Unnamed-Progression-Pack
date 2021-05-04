@@ -1,0 +1,14 @@
+name = "Conjuring [Fabric/Forge]"
+filename = "conjuring-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3278/74/conjuring-0.1.7.jar"
+hash-format = "murmur2"
+hash = "1943978788"
+
+[update]
+[update.curseforge]
+file-id = 3278074
+project-id = 422310
+release-channel = "beta"

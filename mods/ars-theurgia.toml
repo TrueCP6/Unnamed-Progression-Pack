@@ -1,0 +1,14 @@
+name = "Ars Theurgia"
+filename = "arstheurgia-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3163/805/arstheurgia-1.0.6.jar"
+hash-format = "murmur2"
+hash = "3700684701"
+
+[update]
+[update.curseforge]
+file-id = 3163805
+project-id = 413767
+release-channel = "beta"

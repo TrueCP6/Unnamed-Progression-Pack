@@ -1,0 +1,14 @@
+name = "Curios API (Fabric)"
+filename = "curios-fabric-0.0.13-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3233/941/curios-fabric-0.0.13-1.16.5.jar"
+hash-format = "murmur2"
+hash = "4135821732"
+
+[update]
+[update.curseforge]
+file-id = 3233941
+project-id = 394941
+release-channel = "beta"

@@ -1,12 +1,52 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/artofalchemy.json"
+hash = "41c85140f7513df22f55ddfd57bb669f658abe109276f253e9fd21df74c11bab"
+
+[[files]]
+file = "config/bewitchment.json"
+hash = "2aca3639c4364f05f257bd04571d89e23fb8ae92f95cf50a8670d8fd1ae2b30e"
+
+[[files]]
+file = "config/botania-client.json5"
+hash = "68f84f34121ef2ad7c19373fc90de3dd717c2a90002ec8165787d1af6e70ebd5"
+
+[[files]]
+file = "config/botania-common.json5"
+hash = "b61672ae966515b641d37272cb5a8dbcaafcf2e8107488beafbe0da6eb19da27"
+
+[[files]]
+file = "config/conjuring.json5"
+hash = "21637f8bed01836913f451f0f5d55f7bb2ae545f31a05fecb254b09068970be8"
+
+[[files]]
+file = "config/curios.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "41966f482f1ddc3f3efd127f82d08e6ad6528c018fb29bf747635ba1b819b541"
+hash = "5621f6cd60ce5abb9d4697ac183ce78e085f20dfe2bae87119ab9645ab2cd6ad"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "4f854eeb46d6a2de41295f6d3c43cdc5ac0964d5fd75594f8a52d83f2fd4137c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "53618a9e76e315525d1232cb34d00a7f9c9bed206da9277d03ea82949cc7070e"
 
 [[files]]
 file = "config/ftbultimine.json5"
 hash = "00ea9f453308082e63dad91214be0eb37c1126ed09e46355d563b7b477a1a179"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/miskatonicmysteries.json5"
+hash = "27b49b718f1d5cd8026a02d0fefb782423e4f8e1b4786625680d6691928f735e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -21,12 +61,16 @@ file = "config/patchouli.json5"
 hash = "29747ebbaf0767f688a1fdf652abc9f0c806f37a7a745cc68740afd21115f046"
 
 [[files]]
+file = "config/pehkui/config.json"
+hash = "f18df4b6c5cbba93a51eeca476bc4c18e83bf0e040774b551dc3c590a4a585b9"
+
+[[files]]
 file = "config/randompatches.toml"
 hash = "eb5af2e1a09a7655918e173a3b932c8bfd0c1ff975f8335f7f0e900e009603a8"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "362dfb2ff2f88e874f362809d8c61a88ae910d2d1fdbebf62251e8e9eb672c1e"
+hash = "c2b37ac50fa6ea8919ceb69b07c133fb6a9376e8ec5dcd04ed40bccd92fcdabc"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -38,19 +82,19 @@ hash = "e6d1105d6ce51db371cce1b87d350712aae5eb559c9b7091f47137b8539d9698"
 
 [[files]]
 file = "config/waila/megane.json"
-hash = "b5864ad53d27f7cabe077f8f5a57f140143f9550771ae279c0890d7cd86d8400"
+hash = "ca4ad597030033467cc67f955cc1f3aa3afe77d1900ebf0d6f84b3844ea1fde8"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "cd93160ce4ed4b4a0d11aa711d24cd21c7677d72e2583b7ca55a4c974694d418"
+hash = "0ea573970c41ad1789bbff532350bd70d15f20be425272362f57ad3ce0a79dab"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "c3b8ab69ffb3f69609d8213f21b576bdfddd975aaad41d9c62f6183a796494ab"
+hash = "621a91cb22ce7554c24aef11327cc6df8c87f97a1e88c5408ec80f854963cbcc"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "417ebe7f9e891fbe7c2ef7d058799b84b9573e1f7e77ad364442c3b0eb2da9aa"
+hash = "1e6633ce7a8f20ea5007e732cecddf5799e5d4bc6abc101c1007d15909f83950"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -82,7 +126,7 @@ hash = "eadcc58c07bdb6ec80113196a9ea646bb2f3d245898198607234e7c019196749"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "2223fefac3d506d70406c1df956133f599aa3f92e7feeb1855133aa5ec52165b"
+hash = "fdf67e55d5383400c763f98f71323638fdbc855f05dc5bd67a6e753e94dcd79d"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
@@ -113,6 +157,10 @@ file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
+file = "mods/Botania-1.16.4-413-FABRIC-20210215.042749-5.jar"
+hash = "f17ef9da4c17b88c227160bfcaeec70e2eaa56b19e43fae6526035c13c8e4425"
+
+[[files]]
 file = "mods/advancements-debug.toml"
 hash = "1ef764c2b5051c4a39ba0aa08334ddae4f927d0868b14615cf16338fb2498e4f"
 metafile = true
@@ -124,12 +172,27 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d2aa937360b49d5fdb6d5b5c9d0c0bd54965b0fbfdcc24fe9f8b28d8960c3f7e"
+hash = "550e35429c1751e364f0959ecc4de8381dbe209671fd43eb39a16cec694d5a4d"
+metafile = true
+
+[[files]]
+file = "mods/ars-theurgia.toml"
+hash = "02bbfdadb9aaf5f98e838f9a1beb748a84eb6208655aba7dc36d27d938edc52f"
+metafile = true
+
+[[files]]
+file = "mods/art-of-alchemy-memoriam.toml"
+hash = "84f16a856a9c32655ef60c455a3d0f20068d5efe04a0d5f750d367cd49394551"
 metafile = true
 
 [[files]]
 file = "mods/attribute.toml"
 hash = "622bb750c8326cd27e3f9f9ca07ed753190f5f73e4ab354f993b546e51269ebb"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.toml"
+hash = "ac331babd9093c97d7a0c899cdd5070ca2a3dc67b21002e605d006db9ffe30a9"
 metafile = true
 
 [[files]]
@@ -143,8 +206,23 @@ hash = "ef35d0a6331d1833b7298146f6b310eca77db90e29b3e047ee39244a8ec309ee"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components.toml"
+hash = "fb16d5ff7780ab4283ef1d16e47b7125caf5ddb36f7fed700af85731610c5ab3"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
+metafile = true
+
+[[files]]
+file = "mods/conjuring.toml"
+hash = "fd297a35b95ada1d71a5dc2cae10e4af114732ad6f4bfe3ba70934b9bf5a24f3"
+metafile = true
+
+[[files]]
+file = "mods/curios-fabric.toml"
+hash = "97b4c361d2d4be1c8f800a5e0ed23e6a50198637aa09ebec4fe512881bda3329"
 metafile = true
 
 [[files]]
@@ -154,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "03130dc7c99fc134617fe9c9d9bf5610da2333fe53d3228d2a8a1648b324db20"
+hash = "f92f89f483af6f54ae4e7486b43ec223717a179fb06488d482acae8e619fb111"
 metafile = true
 
 [[files]]
@@ -183,13 +261,23 @@ hash = "567769e3560aec8095f86ab57e637a0d1a18e5927178541099d3656fecdf44fb"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric.toml"
+hash = "0fec2cf281796340ce2ff82a98c064f508f42f1721a5d8662e3ea3b92162b550"
+metafile = true
+
+[[files]]
+file = "mods/impersonate.toml"
+hash = "36c583e5330b47c31dd08ede352280e7f9af4b864f2189f67e0e986a7b724c57"
+metafile = true
+
+[[files]]
 file = "mods/item-filters-fabric.toml"
 hash = "e9c38980b3ba1ba50843232d0f0aab101e06a4dd63de202c563e79b27e40195c"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-fabric.toml"
-hash = "e41d9e1331fcc388978bdc973542d4d752af9efebfb0942762634d8d5be1be7f"
+hash = "bcc1b85c7139eeca601e84d342833534598e2f48f3fbbb06c3d614c0c6fd7ca1"
 metafile = true
 
 [[files]]
@@ -198,8 +286,18 @@ hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
 metafile = true
 
 [[files]]
+file = "mods/libblockattributes.toml"
+hash = "eba2e812de3680223b4524b36f2fd90a8488b4117a94d8d901878537d5025b2a"
+metafile = true
+
+[[files]]
 file = "mods/megane.toml"
 hash = "92bd32eb0c9b5d21063efd7c3e6d4f480983770d15d514ff05873dbef90d45ea"
+metafile = true
+
+[[files]]
+file = "mods/miskatonic-mysteries-fabric.toml"
+hash = "5505a5a2d40e960030ff1368859513af726c22f58e4e8108dbfca39906a627d4"
 metafile = true
 
 [[files]]
@@ -220,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.toml"
 hash = "20e4cf1c9eaaa6a4a56bab823adf68f85e2c71b3f8c584deffc0cc7425e58809"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "11d25bc54172cbcbbe5f8eeea4eea62bac0e40e46c489957260916eae49571ce"
 metafile = true
 
 [[files]]
@@ -248,13 +351,23 @@ hash = "30ac6c12c05123234395ca0b478cc66b18a2bd8c1c7a45de597ac6f02660f30e"
 metafile = true
 
 [[files]]
+file = "mods/somnus.toml"
+hash = "692215c64ba4b8d75b493ac6c352c404664daf3d8092d9692aec0803442af911"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.toml"
 hash = "fde37d4760ea8b9bbf8796efac55e8f8086ab3d7663f799b72161482bd22f951"
 metafile = true
 
 [[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "8953fba700f6c02da2795545b484429e4c772f49048db0b89905e52807c44ae7"
+metafile = true
+
+[[files]]
 file = "mods/wthit.toml"
-hash = "4edd4db3805c12d32ecce6a050d64d9525f1ed6f834827b3bc7d769faa3e9459"
+hash = "88e2ab49aec7e161545f179d852efeadb38915acf9f9450ad09b4c36e15ffd5e"
 metafile = true
 
 [[files]]
