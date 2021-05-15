@@ -1,14 +1,14 @@
 name = "Blame (Fabric)"
-filename = "blame-1.16.4-2.4.1.jar"
+filename = "blame-1.16.5-3.0.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3181/315/blame-1.16.4-2.4.1.jar"
+url = "https://edge.forgecdn.net/files/3307/338/blame-1.16.5-3.0.1-fabric.jar"
 hash-format = "murmur2"
-hash = "3619063421"
+hash = "2558573579"
 
 [update]
 [update.curseforge]
-file-id = 3181315
+file-id = 3307338
 project-id = 413313
 release-channel = "beta"

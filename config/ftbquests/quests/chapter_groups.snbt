@@ -1,6 +1,12 @@
 {
-	chapter_groups: [{
-		id: "5224DD245C236637",
-		title: "Magic"
-	}]
+	chapter_groups: [
+		{
+			id: "5224DD245C236637",
+			title: "Magic"
+		},
+		{
+			id: "0165309127F37C2A",
+			title: "High Tech"
+		}
+	]
 }

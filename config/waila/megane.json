@@ -3,7 +3,9 @@
   "modules": {
     "megane-impl": {
       "badasintended.megane.impl.ArtOfAlchemy": true,
-      "badasintended.megane.impl.Minecraft": true
+      "badasintended.megane.impl.Minecraft": true,
+      "badasintended.megane.impl.ModernIndustrialization": true,
+      "badasintended.megane.impl.AppliedEnergistics2": true
     }
   },
   "inventory": {

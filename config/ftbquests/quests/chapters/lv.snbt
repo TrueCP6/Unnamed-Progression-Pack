@@ -1,0 +1,9 @@
+{
+	id: "6A057CC5600A2C6A",
+	group: "0165309127F37C2A",
+	order_index: 1,
+	filename: "lv",
+	title: "LV",
+	default_quest_shape: "hexagon",
+	quests: []
+}

@@ -1,13 +1,20 @@
 {
 	"modUpdateInterval": 20,
 	"client": {
-		"useShaders": true
+		"useShaders": true,
+		"currentSpellHUD": {
+			"marginX": 32,
+			"marginY": 32
+		}
 	},
 	"entities": {
 		"protagonistAggressionThreshold": 700,
 		"yellowSerfPercentage": 0.25,
 		"subtlety": true,
 		"statueEffectChance": 0.4000000059604645
+	},
+	"items": {
+		"masksConcealNameplates": true
 	},
 	"sanity": {
 		"deadlyInsanityThreshold": 50,

@@ -1,0 +1,9 @@
+{
+	id: "069AFF95D752FD5F",
+	group: "0165309127F37C2A",
+	order_index: 2,
+	filename: "mv",
+	title: "MV",
+	default_quest_shape: "hexagon",
+	quests: []
+}
