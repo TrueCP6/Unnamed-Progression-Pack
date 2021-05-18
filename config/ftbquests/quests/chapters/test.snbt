@@ -1,0 +1,9 @@
+{
+	id: "30829A9F8D3DF901",
+	group: "0165309127F37C2A",
+	order_index: 1,
+	filename: "test",
+	title: "Electric Age",
+	default_quest_shape: "",
+	quests: [ ]
+}

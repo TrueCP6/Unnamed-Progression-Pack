@@ -5,8 +5,15 @@ version = "0.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9a424132f555f7b04be89c084024772374c415fb56e96b6ef3984d803a522949"
+hash = "ca60eba9f4ded01851318a905343e2e770f8e690af029cc52b30e43b6a3460ea"
 
 [versions]
 fabric = "0.11.3"
 minecraft = "1.16.5"
+
+[export]
+[export.curseforge]
+disable-jumploader = false
+jumploader-forge-version = "36.1.18"
+jumploader-version-id = 3227191
+project-id = 0

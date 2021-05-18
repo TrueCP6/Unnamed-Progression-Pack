@@ -1,14 +1,14 @@
 name = "FTB Teams (Fabric)"
-filename = "ftb-teams-1604.1.0.16-fabric.jar"
+filename = "ftb-teams-1605.2.0-build.56-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3237/173/ftb-teams-1604.1.0.16-fabric.jar"
+url = "https://edge.forgecdn.net/files/3313/40/ftb-teams-1605.2.0-build.56-fabric.jar"
 hash-format = "murmur2"
-hash = "582706390"
+hash = "1723951736"
 
 [update]
 [update.curseforge]
-file-id = 3237173
+file-id = 3313040
 project-id = 438497
 release-channel = "beta"

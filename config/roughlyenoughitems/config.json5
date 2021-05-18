@@ -32,6 +32,14 @@
 					"Count": 127,
 					"type": "item"
 				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:iron_ore",
+					"Count": 127,
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.

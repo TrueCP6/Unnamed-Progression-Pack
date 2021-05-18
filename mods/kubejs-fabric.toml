@@ -1,14 +1,14 @@
 name = "KubeJS (Fabric)"
-filename = "kubejs-1605.3.7-build.196-fabric.jar"
+filename = "kubejs-1605.3.8-build.198-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3309/391/kubejs-1605.3.7-build.196-fabric.jar"
+url = "https://edge.forgecdn.net/files/3312/705/kubejs-1605.3.8-build.198-fabric.jar"
 hash-format = "murmur2"
-hash = "3772922652"
+hash = "3600201389"
 
 [update]
 [update.curseforge]
-file-id = 3309391
+file-id = 3312705
 project-id = 395864
 release-channel = "beta"

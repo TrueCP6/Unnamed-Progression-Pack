@@ -1,9 +1,0 @@
-{
-	id: "2CC2C5F4624BAECA",
-	group: "0165309127F37C2A",
-	order_index: 3,
-	filename: "hv",
-	title: "HV",
-	default_quest_shape: "hexagon",
-	quests: []
-}

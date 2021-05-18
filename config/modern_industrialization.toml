@@ -1,12 +1,4 @@
 generateOres = true
-
-[ores]
-generateAntimony = true
-generateBauxite = true
-generateCopper = true
-generateLead = true
-generateLigniteCoal = true
-generateNickel = true
-generateSalt = true
-generateSilver = true
-generateTin = true
+blacklistedOres = []
+spawnWithGuideBook = true
+respawnWithGuideBook = true
