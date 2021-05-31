@@ -1,0 +1,97 @@
+{
+  "configVersion": 2,
+  "modules": {
+    "megane-team-reborn-energy": {
+      "badasintended.megane.impl.TeamRebornEnergy": true
+    },
+    "megane-art-of-alchemy": {
+      "badasintended.megane.impl.ArtOfAlchemy": true
+    },
+    "megane-modern-industrialization-4": {
+      "badasintended.megane.impl.ModernIndustrialization": true
+    },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
+    },
+    "megane-applied-energistics-2": {
+      "badasintended.megane.impl.AppliedEnergistics2": true
+    },
+    "megane-fast-transfer-lib": {
+      "badasintended.megane.impl.FastTransferLib": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  },
+  "inventory": {
+    "enabled": true,
+    "itemCount": true,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "entityInventory": {
+    "enabled": true,
+    "itemCount": true,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "energy": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane": 7408640,
+      "modern_industrialization": 11993088
+    },
+    "units": {
+      "megane": "E",
+      "modern_industrialization": "EU"
+    },
+    "blacklist": [
+      "appliedenergistics2:energy_acceptor"
+    ]
+  },
+  "fluid": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane:default": 855385,
+      "modern_industrialization:steam_cracked_naphtha": 13815982,
+      "modern_industrialization:methane": 12009689,
+      "modern_industrialization:boosted_diesel": 16620298,
+      "modern_industrialization:diesel": 15318829,
+      "modern_industrialization:high_pressure_water": 1330360,
+      "modern_industrialization:high_pressure_steam": 10263708,
+      "modern_industrialization:steam": 15658734,
+      "minecraft:empty": 855385,
+      "modern_industrialization:polyethylene": 6528152,
+      "minecraft:water": 4159204
+    },
+    "blacklist": []
+  },
+  "progress": {
+    "enabled": true,
+    "showWhenZero": false,
+    "blacklist": [
+      "minecraft:furnace",
+      "minecraft:blast_furnace"
+    ]
+  },
+  "petOwner": {
+    "enabled": true,
+    "offline": true,
+    "blacklist": []
+  },
+  "effect": {
+    "enabled": true,
+    "level": true,
+    "roman": false,
+    "hidden": false,
+    "blacklist": []
+  },
+  "spawnEgg": true,
+  "playerHead": true
+}

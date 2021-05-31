@@ -1,0 +1,14 @@
+name = "megane"
+filename = "megane-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3326/294/megane-4.1.1.jar"
+hash-format = "murmur2"
+hash = "13447506"
+
+[update]
+[update.curseforge]
+file-id = 3326294
+project-id = 408118
+release-channel = "beta"

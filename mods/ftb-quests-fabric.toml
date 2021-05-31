@@ -1,14 +1,14 @@
 name = "FTB Quests (Fabric)"
-filename = "ftb-quests-1605.3.0-build.55-fabric.jar"
+filename = "ftb-quests-1605.3.0-build.57-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3313/113/ftb-quests-1605.3.0-build.55-fabric.jar"
+url = "https://edge.forgecdn.net/files/3318/143/ftb-quests-1605.3.0-build.57-fabric.jar"
 hash-format = "murmur2"
-hash = "2581069243"
+hash = "2727043223"
 
 [update]
 [update.curseforge]
-file-id = 3313113
+file-id = 3318143
 project-id = 438496
 release-channel = "beta"

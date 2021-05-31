@@ -26,7 +26,7 @@ hash = "b61672ae966515b641d37272cb5a8dbcaafcf2e8107488beafbe0da6eb19da27"
 
 [[files]]
 file = "config/conjuring.json5"
-hash = "21637f8bed01836913f451f0f5d55f7bb2ae545f31a05fecb254b09068970be8"
+hash = "98d286a009f2c66028199f41b0e5d79952d11e3519836f4ed4ff169394514d1c"
 
 [[files]]
 file = "config/curios.json"
@@ -34,19 +34,27 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "c580b7b2fbf8f45a775b079e8ace7bd96859f3d849fc4c4509d89aea8c5ee144"
+hash = "39c6c9dab01f23bf88a1a4223b1939fc4aff98b1ab3272bd7e78cf1c0bc08b04"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "70f41b54c4f44f1ebf3236ebf949c320444ee18a4cb9eb57add0e1aa4df4a5a4"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/mv.snbt"
+hash = "3de283360ce7a244e501f683b85a9af750220463f4d71ca7435cb3c35c983b64"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/petrochemistry.snbt"
+hash = "d056cb0fb989b6136873d3ec8f97c43a9b7dc670dc869d7f94c7ee26335ee239"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/steam_age.snbt"
-hash = "0a97a445e053618be2e00f18af44aad27fb1b4d261a282bcea05e10584270f78"
+hash = "3ef347a9fd21411f5c04713e47ca85d9e301c39bf1b5cae7f4af6bdbabf06909"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/test.snbt"
-hash = "fe6cf0975369d8eed6572592d8dde8b810eba53f76993e237da1105c0048bfb5"
+hash = "116567fa08ddfb958bac22ac8b1e074c9883c886468729d017410a435d93d8bd"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -70,7 +78,7 @@ hash = "f4801e8a8450acfdf8de3e53d50fadfac257a9f3ba2973b89eeec9f9eccec524"
 
 [[files]]
 file = "config/modern_industrialization.toml"
-hash = "474d1084b1a19c31cc3ed0095d89d5d119fa54f8017b6c06abf54be9d9e5705c"
+hash = "aa018f298dabc8d2ce848d0947fff43ebf585f11cdbe0f160b30cb9f7990dad2"
 
 [[files]]
 file = "config/modmenu.json"
@@ -86,7 +94,7 @@ hash = "29747ebbaf0767f688a1fdf652abc9f0c806f37a7a745cc68740afd21115f046"
 
 [[files]]
 file = "config/pehkui/config.json"
-hash = "f18df4b6c5cbba93a51eeca476bc4c18e83bf0e040774b551dc3c590a4a585b9"
+hash = "212b4538d7ecf3010522e22d3301c213d83a72d55ea401ce72e0de1ea6f8e27a"
 
 [[files]]
 file = "config/randompatches.toml"
@@ -94,7 +102,7 @@ hash = "eb5af2e1a09a7655918e173a3b932c8bfd0c1ff975f8335f7f0e900e009603a8"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "01faab780878df866890c550fa1689515cb1159c87eec0443935b8e5e8891829"
+hash = "7be2bbd1d278309f445ff93d683d05be48eb4a7052b0d926ca43c2944a541043"
 
 [[files]]
 file = "config/rrp.properties"
@@ -103,6 +111,14 @@ hash = "53e541884dec07bdc36ae96a189cdd1b1f3553d568db80fd89d216cfef01d133"
 [[files]]
 file = "config/sidebar_buttons.json"
 hash = "d12bcdd59a36b21e0aafaab84c9ef6749d8aeab3e28e814571625a58a5db3a87"
+
+[[files]]
+file = "config/waila/megane-impl-mixin.json"
+hash = "ac69a4fe1c98712c616e93e45a85fb515ac64c539f1e76665d2d9439bb9f0324"
+
+[[files]]
+file = "config/waila/megane.json"
+hash = "41f7a6749dad24a5069b129873d58c48b0a809015071974912df8b171c3a9611"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -114,7 +130,7 @@ hash = "4650a9ffd6b4f7f43cd054ee883fbbbec83c73a6341893bffef65b30737caa57"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "c066903efcdcaf5ee237404f115923cb932ef9aa8c833373e03fd302edaf377c"
+hash = "fa93a874134b2a16600a3a8bb43ebb31ebd90c87d67c17bc01c6d915bc51dfc6"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -122,7 +138,7 @@ hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "32f401d00c3de3492d01f98eddab1e3614ec5199cd550d530aed776d6d49c938"
+hash = "ba7badc33f2c927e89f7118ae1cadfe21149c4431d6fd53a000a0a828d8bc88a"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -197,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ac9c0dcdc43e09ba61ac8c83ef2b794f20d8fbd22709845498c178a94328b8ce"
+hash = "4b18bb8388d70cbc1ed793610c29d21d8dcb45abbb9d01c387cccf07d01c7034"
 metafile = true
 
 [[files]]
@@ -217,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.toml"
-hash = "96256df75e7a1d4a7e6ca6840609ce9fb14b13e1139a0dea36fc30713d33ea48"
+hash = "8bd32daecbf70d429e620a97871d2c453ce1cd818f636638abb75192009abb9e"
 metafile = true
 
 [[files]]
@@ -242,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/conjuring.toml"
-hash = "fd297a35b95ada1d71a5dc2cae10e4af114732ad6f4bfe3ba70934b9bf5a24f3"
+hash = "ee84777c5047fab9d293167ee1c9b503b5de193b9ba1d6d51bcc7d88429930ac"
 metafile = true
 
 [[files]]
@@ -257,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "63d16f85201080c81461d06bfb547f89e7d77d0698603c750667be2ad6689d9a"
+hash = "640a37ac0fa258eddcc43ac2433a71b99005c0e393a035cd43f3fe6a2aca2069"
 metafile = true
 
 [[files]]
@@ -272,12 +288,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.toml"
-hash = "a585dbc27acf0ba73cc8fd581d1e89242a135f9c7ea8872f76180e6b192efc12"
+hash = "4c6e86f2ce082b39c8ce4828dffdfac9c9e3abb2bbdbf7b21fad6f109c154caa"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.toml"
-hash = "3f18267e17356417955778e9864246723602c5fc624bd77c86dc67e45f2f8817"
+hash = "f4a69721dc85962b79cbad06e8c3d10dc3df2f7c3fea41e5d6579a8eadf8953a"
 metafile = true
 
 [[files]]
@@ -287,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib-fabric.toml"
-hash = "76dc3df91527f4c43e4079db8dca1fd9028a6ede93c0a4c7162be3a4f3bd2821"
+hash = "1cc9e108138e24c1ae26bc0a52a1806b226a16d735598510021762a16275fe8c"
 metafile = true
 
 [[files]]
@@ -302,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-fabric.toml"
-hash = "12aa0aa5169eafba36aefe870caf8037343cead5016513c2042fb15f64383ccd"
+hash = "e0d1c815b4476dec98718d300ba83e4491fdb73e5cb16aea1d4aef829c4323c0"
 metafile = true
 
 [[files]]
@@ -313,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/libblockattributes.toml"
 hash = "eba2e812de3680223b4524b36f2fd90a8488b4117a94d8d901878537d5025b2a"
+metafile = true
+
+[[files]]
+file = "mods/megane.toml"
+hash = "5f5decef125ce337f00b26c14edfc975e61a65f1857364e121d01bc17d9d4ee6"
 metafile = true
 
 [[files]]
@@ -327,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "c4ed9cd6e2ff71d87324643aa19c5810dfc6e0ce556060ed0e7f9fb93fac5bf9"
+hash = "5704da66d33bad0f1ca485203ab6ea696a044b571e9262f72635880fb04fd802"
 metafile = true
 
 [[files]]
@@ -342,12 +363,12 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.toml"
-hash = "20e4cf1c9eaaa6a4a56bab823adf68f85e2c71b3f8c584deffc0cc7425e58809"
+hash = "54886495066de9060ae40c544d87c41288e60fa5686bc55484c6e9047a653c29"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "d992d482e0347edaafa0bb3b54bf1da330b88f2276897d732df22dfdbe628567"
+hash = "1eb36183c10543a9016988581c84965eff26b0b2ec15b203237258093499f2a4"
 metafile = true
 
 [[files]]
@@ -362,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
+hash = "e086f180682beb5fdfc2710cc0ce57e6228b867ba5469769183f4a368daa3f01"
 metafile = true
 
 [[files]]
@@ -392,15 +413,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "7c536f553b593acad87cec1a5c457d89236621b834c241686035f2fceb5a14d7"
+hash = "e268bb7030e5942f536c1abece4fe13281725504061e7f9e41b96cc1b334986b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "90c917f642a8e78894d68317921e49a71ad97287a67c5f7092680cd6ce36fbe8"
+hash = "ef0a055184463b1a934c15caab657b558810e28e13820f3ae474d54a60b74107"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "c790e3aab4ab1884343cad340aef4fe1bfb2b7c9beea4efcdbf0a830e7c59ac7"
+hash = "10db3ad24685507ac5d3cbb37e485a37f65f13453f53d3456612ab2bdf2fe4d9"
 metafile = true

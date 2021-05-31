@@ -1,0 +1,286 @@
+{
+	id: "598873ADD5774E70",
+	group: "0165309127F37C2A",
+	order_index: 2,
+	filename: "mv",
+	title: "MV",
+	icon: "modern_industrialization:electronic_circuit",
+	default_quest_shape: "hexagon",
+	quests: [
+		{
+			title: "Advanced Hatches",
+			x: 4.0d,
+			y: -0.5d,
+			dependencies: ["482B5BE86FB91380"],
+			id: "6828471CF38F7B57",
+			tasks: [
+				{
+					id: "1D6A32A6DBEE45EE",
+					type: "item",
+					item: "modern_industrialization:advanced_fluid_input_hatch"
+				},
+				{
+					id: "63D30DDB54A70666",
+					type: "item",
+					item: "modern_industrialization:advanced_fluid_output_hatch"
+				},
+				{
+					id: "19200BCB1B9D2F7F",
+					type: "item",
+					item: "modern_industrialization:advanced_item_input_hatch"
+				},
+				{
+					id: "7AE58F315B5DA2EF",
+					type: "item",
+					item: "modern_industrialization:advanced_item_output_hatch"
+				}
+			]
+		},
+		{
+			title: "MV Power",
+			x: 3.0d,
+			y: -1.0d,
+			dependencies: ["482B5BE86FB91380"],
+			id: "046260CA86C62357",
+			tasks: [
+				{
+					id: "188C1595C0704E83",
+					type: "item",
+					item: "modern_industrialization:pipe_electricity_electrum"
+				},
+				{
+					id: "02C04877B7B25822",
+					type: "item",
+					item: "modern_industrialization:pipe_electricity_cupronickel"
+				},
+				{
+					id: "4C42178D8B5D01C2",
+					type: "item",
+					item: "modern_industrialization:mv_energy_input_hatch"
+				},
+				{
+					id: "104CF0F5670E5578",
+					type: "item",
+					item: "modern_industrialization:mv_energy_output_hatch"
+				},
+				{
+					id: "48A18DFF31BBEA7F",
+					type: "item",
+					item: "modern_industrialization:mv_storage_unit"
+				},
+				{
+					id: "0709E3877DC1005E",
+					type: "item",
+					item: "modern_industrialization:lv_mv_transformer"
+				},
+				{
+					id: "59B9A84DD4128D56",
+					type: "item",
+					item: "modern_industrialization:mv_lv_transformer"
+				}
+			]
+		},
+		{
+			x: 8.0d,
+			y: -4.0d,
+			dependencies: ["31A6670186C35689"],
+			id: "257F645DC9E3BC77",
+			tasks: [{
+				id: "6E4AF629E6D373EE",
+				type: "item",
+				item: "modern_industrialization:diesel_generator"
+			}]
+		},
+		{
+			x: 7.0d,
+			y: -2.0d,
+			dependencies: ["482B5BE86FB91380"],
+			id: "447D16595498ED5C",
+			tasks: [{
+				id: "0EDF9841F5003624",
+				type: "item",
+				item: "modern_industrialization:large_motor"
+			}]
+		},
+		{
+			x: 6.0d,
+			y: -0.5d,
+			dependencies: [
+				"447D16595498ED5C",
+				"6EC3DB7BE37D14A7"
+			],
+			id: "0A9E765CEDF2611B",
+			tasks: [{
+				id: "6EA8C658D774AE90",
+				type: "item",
+				item: "modern_industrialization:electric_quarry"
+			}]
+		},
+		{
+			x: 11.0d,
+			y: -0.5d,
+			dependencies: ["4AF6D994F12AD2C5"],
+			id: "6CBC6862AE89BBEB",
+			tasks: [{
+				id: "30795A9947842DAF",
+				type: "item",
+				item: "modern_industrialization:lv_distillery"
+			}]
+		},
+		{
+			x: 11.0d,
+			y: -2.0d,
+			dependencies: ["447D16595498ED5C"],
+			id: "78CF84C9174F4F0B",
+			tasks: [{
+				id: "69C270A9C3B8FD91",
+				type: "item",
+				item: "modern_industrialization:lv_chemical_reactor"
+			}]
+		},
+		{
+			x: 9.5d,
+			y: -3.5d,
+			dependencies: ["447D16595498ED5C"],
+			id: "2AE0534A781D619E",
+			tasks: [{
+				id: "220223E74A271293",
+				type: "item",
+				item: "modern_industrialization:lv_electrolyzer"
+			}]
+		},
+		{
+			icon: "modern_industrialization:oil_drilling_rig",
+			x: 9.0d,
+			y: -0.5d,
+			dependencies: ["447D16595498ED5C"],
+			id: "4AF6D994F12AD2C5",
+			tasks: [
+				{
+					id: "5E9A49586961EE03",
+					type: "item",
+					item: "modern_industrialization:oil_drilling_rig"
+				},
+				{
+					id: "3A6193BF48D395E5",
+					type: "item",
+					item: "minecraft:chain",
+					count: 18L
+				},
+				{
+					id: "53ADD478D26BCA1A",
+					type: "item",
+					item: "modern_industrialization:steel_machine_casing",
+					count: 38L
+				},
+				{
+					id: "60BE62C1A7CA0D5D",
+					type: "item",
+					item: "modern_industrialization:steel_machine_casing_pipe",
+					count: 6L
+				}
+			]
+		},
+		{
+			x: 4.0d,
+			y: -2.0d,
+			dependencies: ["447D16595498ED5C"],
+			id: "131BDB3C3EAC027D",
+			tasks: [{
+				id: "4A86BECF43866304",
+				type: "item",
+				item: "modern_industrialization:lv_centrifuge"
+			}]
+		},
+		{
+			icon: "modern_industrialization:advanced_large_steam_boiler",
+			x: 7.0d,
+			y: -0.5d,
+			dependencies: [
+				"447D16595498ED5C",
+				"421B02321A6EC792"
+			],
+			id: "1C540504788F0085",
+			tasks: [
+				{
+					id: "7DC5D098489E9937",
+					type: "item",
+					item: "modern_industrialization:advanced_large_steam_boiler"
+				},
+				{
+					id: "1100B11B853E5F08",
+					type: "item",
+					item: "modern_industrialization:bronze_machine_casing_pipe",
+					count: 3L
+				},
+				{
+					id: "2F72529975ACE0A7",
+					type: "item",
+					item: "modern_industrialization:bronze_plated_bricks",
+					count: 32L
+				},
+				{
+					id: "544FFCCDF41DDB97",
+					type: "item",
+					item: "modern_industrialization:heatproof_machine_casing",
+					count: 9L
+				}
+			]
+		},
+		{
+			x: 5.0d,
+			y: -1.0d,
+			dependencies: ["447D16595498ED5C"],
+			id: "06189D6CE032B17F",
+			tasks: [{
+				id: "36F62FAAFD2901F2",
+				type: "item",
+				item: "modern_industrialization:mv_steam_turbine"
+			}]
+		},
+		{
+			x: 2.5d,
+			y: 0.0d,
+			dependencies: ["189B9C4D4084451E"],
+			id: "2EFFCF434D4A537E",
+			tasks: [{
+				id: "5CD2E5ABAF4EAF21",
+				type: "item",
+				item: "modern_industrialization:tank_aluminum"
+			}]
+		},
+		{
+			x: 6.5d,
+			y: -4.0d,
+			dependencies: ["31A6670186C35689"],
+			id: "326D15A291D0157F",
+			tasks: [{
+				id: "5C07014E8D95E5EC",
+				type: "item",
+				item: "modern_industrialization:jetpack"
+			}]
+		},
+		{
+			x: 5.0d,
+			y: -4.0d,
+			dependencies: ["31A6670186C35689"],
+			id: "1EF049F0452A58BE",
+			tasks: [{
+				id: "75CFEFC43239180C",
+				type: "item",
+				item: "modern_industrialization:diesel_chainsaw"
+			}]
+		},
+		{
+			x: 7.0d,
+			y: -4.5d,
+			dependencies: ["31A6670186C35689"],
+			id: "3CD67DC2E151B9E5",
+			tasks: [{
+				id: "4F728C25024F7C89",
+				type: "item",
+				item: "modern_industrialization:diesel_mining_drill"
+			}]
+		}
+	]
+}

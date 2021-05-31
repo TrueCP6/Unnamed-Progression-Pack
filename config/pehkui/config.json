@@ -12,5 +12,6 @@
 	"scalesKeptOnRespawn": [],
 	"accurateNetherPortals": true,
 	"largeScaleCollisionThreshold": 26.0,
+	"enableDebugCommands": false,
 	"minimumCameraDepth": 0.001
 }

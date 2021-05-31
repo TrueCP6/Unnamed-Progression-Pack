@@ -4,39 +4,7 @@
 			{
 				"type": "roughlyenoughitems:entry_stack",
 				"data": {
-					"id": "minecraft:coal_ore",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
 					"id": "biomemakeover:altar",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:infested_cracked_stone_bricks",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_acacia_wood",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:iron_ore",
 					"Count": 127,
 					"type": "item"
 				}

@@ -1,0 +1,144 @@
+{
+	id: "0233064432322C48",
+	group: "0165309127F37C2A",
+	order_index: 3,
+	filename: "petrochemistry",
+	title: "Petrochemistry",
+	default_quest_shape: "rsquare",
+	quests: [
+		{
+			title: "H2O",
+			x: 2.0d,
+			y: 0.0d,
+			dependencies: ["2AE0534A781D619E"],
+			id: "3E4EB4E3269ED759",
+			tasks: [
+				{
+					id: "7BB4341D0EFA97C3",
+					type: "item",
+					item: "modern_industrialization:bucket_hydrogen"
+				},
+				{
+					id: "65B85809DE40AC89",
+					type: "item",
+					item: "modern_industrialization:bucket_oxygen"
+				}
+			]
+		},
+		{
+			x: 4.0d,
+			y: 0.0d,
+			dependencies: [
+				"3E4EB4E3269ED759",
+				"78CF84C9174F4F0B",
+				"6CBC6862AE89BBEB",
+				"69E670F5812A89E6"
+			],
+			id: "31A6670186C35689",
+			tasks: [{
+				id: "3300CE933457B008",
+				type: "item",
+				item: "modern_industrialization:bucket_diesel"
+			}]
+		},
+		{
+			x: 0.0d,
+			y: 2.0d,
+			dependencies: [
+				"3E4EB4E3269ED759",
+				"78CF84C9174F4F0B",
+				"6CBC6862AE89BBEB"
+			],
+			id: "447282FE7CB81886",
+			tasks: [{
+				id: "3DBBAF97C6FD0EE6",
+				type: "item",
+				item: "modern_industrialization:bucket_steam_cracked_naphtha"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 2.0d,
+			dependencies: ["447282FE7CB81886"],
+			id: "5E7C0D256A1D5AA4",
+			tasks: [{
+				id: "7AA4BD11DE55FF5B",
+				type: "item",
+				item: "modern_industrialization:bucket_acrylic_acid"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 4.0d,
+			dependencies: ["447282FE7CB81886"],
+			id: "2D29EC55EB99067C",
+			tasks: [{
+				id: "51FBE60F8089353C",
+				type: "item",
+				item: "modern_industrialization:bucket_ethylene"
+			}]
+		},
+		{
+			x: 2.0d,
+			y: 6.0d,
+			dependencies: ["2D29EC55EB99067C"],
+			id: "2E3C7A9C087A9043",
+			tasks: [{
+				id: "4479463786D8712C",
+				type: "item",
+				item: "modern_industrialization:bucket_polyethylene"
+			}]
+		},
+		{
+			x: 4.0d,
+			y: 2.0d,
+			dependencies: [
+				"31A6670186C35689",
+				"5E7C0D256A1D5AA4",
+				"2D29EC55EB99067C"
+			],
+			id: "1BF4F44C9932F1EA",
+			tasks: [{
+				id: "1A6386A85B22EE6C",
+				type: "item",
+				item: "modern_industrialization:bucket_boosted_diesel"
+			}]
+		},
+		{
+			x: -2.0d,
+			y: 2.0d,
+			dependencies: ["447282FE7CB81886"],
+			id: "7299E5C7BE215DAF",
+			tasks: [{
+				id: "44D55EB0B35C4B72",
+				type: "item",
+				item: "modern_industrialization:bucket_butadiene"
+			}]
+		},
+		{
+			x: -2.0d,
+			y: 4.0d,
+			dependencies: ["447282FE7CB81886"],
+			id: "2F03943C76DD93BE",
+			tasks: [{
+				id: "1F0DE73D1C6726BD",
+				type: "item",
+				item: "modern_industrialization:bucket_ethylbenzene"
+			}]
+		},
+		{
+			x: -4.0d,
+			y: 2.0d,
+			dependencies: [
+				"2F03943C76DD93BE",
+				"7299E5C7BE215DAF"
+			],
+			id: "47B1C028790BFDBB",
+			tasks: [{
+				id: "24DCC499FD433C27",
+				type: "item",
+				item: "modern_industrialization:bucket_styrene_butadiene_rubber"
+			}]
+		}
+	]
+}

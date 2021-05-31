@@ -3,7 +3,234 @@
 	group: "0165309127F37C2A",
 	order_index: 1,
 	filename: "test",
-	title: "Electric Age",
-	default_quest_shape: "",
-	quests: [ ]
+	title: "LV",
+	icon: "modern_industrialization:lv_circuit",
+	default_quest_shape: "hexagon",
+	quests: [
+		{
+			title: "LV Power",
+			x: -6.0d,
+			y: -1.5d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "25A43BFC7CE0017A",
+			tasks: [
+				{
+					id: "47BFB53DEFF14860",
+					type: "item",
+					item: "modern_industrialization:pipe_electricity_copper"
+				},
+				{
+					id: "7963973C332A0D39",
+					type: "item",
+					item: "modern_industrialization:pipe_electricity_tin"
+				},
+				{
+					id: "0289E3E991D95AED",
+					type: "item",
+					item: "modern_industrialization:lv_energy_input_hatch"
+				},
+				{
+					id: "58BC15FCF5F5CA6E",
+					type: "item",
+					item: "modern_industrialization:lv_energy_output_hatch"
+				},
+				{
+					id: "64197CFFFF941431",
+					type: "item",
+					item: "modern_industrialization:lv_storage_unit"
+				}
+			]
+		},
+		{
+			icon: "modern_industrialization:electric_blast_furnace",
+			x: -1.5d,
+			y: 1.5d,
+			dependencies: ["68FAC581BF008C23"],
+			id: "189B9C4D4084451E",
+			tasks: [
+				{
+					id: "24D983701FD42632",
+					type: "item",
+					item: "modern_industrialization:electric_blast_furnace"
+				},
+				{
+					id: "09C89302CA8253F8",
+					type: "item",
+					item: "modern_industrialization:heatproof_machine_casing",
+					count: 17L
+				},
+				{
+					id: "4C10D5458A3937B9",
+					type: "item",
+					item: "modern_industrialization:cupronickel_coil",
+					count: 16L
+				}
+			]
+		},
+		{
+			x: -5.5d,
+			y: -2.5d,
+			dependencies: ["40B09A286F568E4D"],
+			id: "1CD5E4A89AA89C11",
+			tasks: [{
+				id: "2B18A8C6412ACE91",
+				type: "item",
+				item: "modern_industrialization:lv_motor"
+			}]
+		},
+		{
+			x: -4.0d,
+			y: -1.0d,
+			dependencies: ["1CD5E4A89AA89C11"],
+			id: "32CAC4B413DFE1ED",
+			tasks: [{
+				id: "0C2719A0EE7AC533",
+				type: "item",
+				item: "modern_industrialization:lv_steam_turbine"
+			}]
+		},
+		{
+			x: -2.5d,
+			y: 0.5d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "68FAC581BF008C23",
+			tasks: [{
+				id: "12B9232CD8D2A30B",
+				type: "item",
+				item: "modern_industrialization:lv_polarizer"
+			}]
+		},
+		{
+			x: -6.5d,
+			y: -3.5d,
+			dependencies: ["1CD5E4A89AA89C11"],
+			id: "4D1E59033445F3D4",
+			tasks: [{
+				id: "3DE978CCC4987229",
+				type: "item",
+				item: "modern_industrialization:configurable_chest"
+			}]
+		},
+		{
+			x: -4.5d,
+			y: -3.0d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "35876E2876E24AEC",
+			tasks: [{
+				id: "0CDEE1C5E5268FC2",
+				type: "item",
+				item: "modern_industrialization:lv_assembler"
+			}]
+		},
+		{
+			x: -3.5d,
+			y: -3.0d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "24FBAA9198A67C62",
+			tasks: [{
+				id: "247B3601CC2254EE",
+				type: "item",
+				item: "modern_industrialization:lv_compressor"
+			}]
+		},
+		{
+			x: -2.5d,
+			y: -2.5d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "0206ABB2B5CB2C49",
+			tasks: [{
+				id: "23C83B04B0B725BD",
+				type: "item",
+				item: "modern_industrialization:lv_cutting_machine"
+			}]
+		},
+		{
+			x: -2.0d,
+			y: -0.5d,
+			dependencies: ["68FAC581BF008C23"],
+			id: "56DEFB6CC4902BE0",
+			tasks: [{
+				id: "7123BD98BCAC316B",
+				type: "item",
+				item: "modern_industrialization:lv_furnace"
+			}]
+		},
+		{
+			x: -2.0d,
+			y: -1.5d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "53A349C2A0EACE5E",
+			tasks: [{
+				id: "15E81C89E184A0E5",
+				type: "item",
+				item: "modern_industrialization:lv_macerator"
+			}]
+		},
+		{
+			x: -3.5d,
+			y: 1.0d,
+			dependencies: [
+				"32CAC4B413DFE1ED",
+				"32CAC4B413DFE1ED"
+			],
+			id: "69E670F5812A89E6",
+			tasks: [{
+				id: "55F6BAB4CB00F0B2",
+				type: "item",
+				item: "modern_industrialization:lv_mixer"
+			}]
+		},
+		{
+			x: -4.5d,
+			y: 1.0d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "046CA3C793BC2C17",
+			tasks: [
+				{
+					id: "7D9F36BD8D360DB9",
+					type: "item",
+					item: "modern_industrialization:lv_packer"
+				},
+				{
+					id: "07E3D31DD5D6AFA5",
+					type: "item",
+					item: "modern_industrialization:lv_unpacker"
+				}
+			]
+		},
+		{
+			x: -6.0d,
+			y: -0.5d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "7CC9B1462786AEB3",
+			tasks: [{
+				id: "2E3E2D64C54956A8",
+				type: "item",
+				item: "modern_industrialization:lv_water_pump"
+			}]
+		},
+		{
+			x: -5.5d,
+			y: 0.5d,
+			dependencies: ["32CAC4B413DFE1ED"],
+			id: "79A42F8656F646D3",
+			tasks: [{
+				id: "6C726D46A320E500",
+				type: "item",
+				item: "modern_industrialization:lv_wiremill"
+			}]
+		},
+		{
+			x: -0.5d,
+			y: 2.5d,
+			shape: "gear",
+			dependencies: ["189B9C4D4084451E"],
+			id: "482B5BE86FB91380",
+			tasks: [{
+				id: "7A7B0C65CD687E0F",
+				type: "item",
+				item: "modern_industrialization:electronic_circuit"
+			}]
+		}
+	]
 }

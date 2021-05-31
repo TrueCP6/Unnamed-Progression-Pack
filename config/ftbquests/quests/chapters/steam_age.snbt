@@ -4,12 +4,12 @@
 	order_index: 0,
 	filename: "steam_age",
 	title: "Steam Age",
-	icon: "modern_industrialization:large_steam_boiler",
+	icon: "modern_industrialization:steam_blast_furnace",
 	default_quest_shape: "hexagon",
 	quests: [
 		{
 			title: "Gathering Resources",
-			x: -1.0d,
+			x: -2.5d,
 			y: 0.0d,
 			description: [
 				"Modern Industrialization requires a large amount of resources to get started so it is highly recommended to have a sizable amount of tin, copper, iron and burnable fuel stored up before you get stuck into the mod.",
@@ -62,7 +62,7 @@
 		},
 		{
 			title: "The Guide Book",
-			x: 0.5d,
+			x: -1.0d,
 			y: 0.0d,
 			description: ["While playing without reading the guide book is possible, doing so can cause an enormous amount of unnecessary difficulty and frustration."],
 			dependencies: ["2B1F6DB43F949046"],
@@ -80,7 +80,7 @@
 		},
 		{
 			title: "Is This A Forge Mod?",
-			x: 2.0d,
+			x: 0.5d,
 			y: 0.0d,
 			description: ["Recipes may seem expensive at first, but keep in mind this block alone allows you to double your ores."],
 			dependencies: ["0AB81E8873A55F4F"],
@@ -94,7 +94,7 @@
 		{
 			x: 3.5d,
 			y: 0.0d,
-			dependencies: ["12CCC214920C044D"],
+			dependencies: ["552C99F57672F4C6"],
 			id: "575FEFF20D2D5911",
 			tasks: [{
 				id: "425560A4786591C5",
@@ -149,16 +149,23 @@
 			}]
 		},
 		{
-			x: 5.5d,
-			y: -1.5d,
+			x: 2.0d,
+			y: 0.0d,
 			subtitle: "Cheaper Plates",
-			dependencies: ["575FEFF20D2D5911"],
+			dependencies: ["12CCC214920C044D"],
 			id: "552C99F57672F4C6",
-			tasks: [{
-				id: "13B80447A7FE9A21",
-				type: "item",
-				item: "modern_industrialization:bronze_compressor"
-			}]
+			tasks: [
+				{
+					id: "13B80447A7FE9A21",
+					type: "item",
+					item: "modern_industrialization:bronze_compressor"
+				},
+				{
+					id: "05B666CA922531B5",
+					type: "item",
+					item: "modern_industrialization:bucket_steam"
+				}
+			]
 		},
 		{
 			x: 5.0d,
@@ -185,8 +192,8 @@
 			}]
 		},
 		{
-			x: 5.0d,
-			y: -2.5d,
+			x: 5.5d,
+			y: -1.5d,
 			subtitle: "Cheaper Cutting",
 			dependencies: ["575FEFF20D2D5911"],
 			id: "06F4E0345F342874",
@@ -303,11 +310,18 @@
 			subtitle: "Automate Simple Recipes",
 			dependencies: ["1680E8087013E0A9"],
 			id: "324D2EAC7E5FAB0C",
-			tasks: [{
-				id: "6CFAC786C4604146",
-				type: "item",
-				item: "modern_industrialization:steel_packer"
-			}]
+			tasks: [
+				{
+					id: "6CFAC786C4604146",
+					type: "item",
+					item: "modern_industrialization:steel_packer"
+				},
+				{
+					id: "7D746F3706704C37",
+					type: "item",
+					item: "modern_industrialization:steel_unpacker"
+				}
+			]
 		},
 		{
 			x: 10.5d,
@@ -383,12 +397,9 @@
 			}]
 		},
 		{
-			x: 8.0d,
-			y: -1.5d,
-			dependencies: [
-				"1680E8087013E0A9",
-				"552C99F57672F4C6"
-			],
+			x: 8.5d,
+			y: -2.5d,
+			dependencies: ["1680E8087013E0A9"],
 			id: "0D35C2031217E947",
 			tasks: [{
 				id: "0909C91279CEE98D",
@@ -397,8 +408,8 @@
 			}]
 		},
 		{
-			x: 8.5d,
-			y: -2.5d,
+			x: 8.0d,
+			y: -1.5d,
 			dependencies: [
 				"1680E8087013E0A9",
 				"06F4E0345F342874"
@@ -487,7 +498,7 @@
 			]
 		},
 		{
-			x: -2.5d,
+			x: -4.0d,
 			y: 0.0d,
 			subtitle: "TODO",
 			description: ["TODO"],
@@ -521,71 +532,52 @@
 			}]
 		},
 		{
-			icon: "modern_industrialization:large_steam_boiler",
-			x: 13.0d,
+			x: 13.5d,
 			y: 0.0d,
+			shape: "gear",
+			subtitle: "Into A New Age",
 			dependencies: [
 				"64EE0899EE55ADE5",
 				"65DE1D3EB17889D7"
 			],
-			id: "4E3FD7438A41F3DD",
+			id: "40B09A286F568E4D",
+			tasks: [{
+				id: "23BC95DBC52DA9A8",
+				type: "item",
+				item: "modern_industrialization:lv_circuit"
+			}]
+		},
+		{
+			icon: "modern_industrialization:large_steam_boiler",
+			x: 15.0d,
+			y: 0.0d,
+			dependencies: ["40B09A286F568E4D"],
+			id: "421B02321A6EC792",
 			tasks: [
 				{
-					id: "32E5581CC2CA284B",
+					id: "26E7049AEFAAC025",
 					type: "item",
 					item: "modern_industrialization:large_steam_boiler"
 				},
 				{
-					id: "6F23A1A221C75238",
+					id: "0BCE747D7E90030B",
 					type: "item",
-					item: "modern_industrialization:steel_item_input_hatch"
+					item: "modern_industrialization:bronze_machine_casing_pipe",
+					count: 2L
 				},
 				{
-					id: "7A690B8379C7227B",
-					type: "item",
-					item: "modern_industrialization:steel_fluid_input_hatch"
-				},
-				{
-					id: "5D54388540CCC759",
-					type: "item",
-					item: "modern_industrialization:steel_fluid_output_hatch"
-				},
-				{
-					id: "084D512C80D13C0F",
-					type: "item",
-					item: "modern_industrialization:heatproof_machine_casing",
-					count: 6L
-				},
-				{
-					id: "3DEE5B6C2DFDAA39",
+					id: "17E05B638B9DA03C",
 					type: "item",
 					item: "modern_industrialization:bronze_plated_bricks",
 					count: 24L
 				},
 				{
-					id: "5A90F523DB72A743",
+					id: "35F8A1FB8E000F21",
 					type: "item",
-					item: "modern_industrialization:bronze_machine_casing_pipe",
-					count: 2L
+					item: "modern_industrialization:heatproof_machine_casing",
+					count: 9L
 				}
 			]
-		},
-		{
-			x: 14.5d,
-			y: 0.0d,
-			shape: "gear",
-			subtitle: "Into A New Age",
-			description: [""],
-			dependencies: [
-				"64EE0899EE55ADE5",
-				"65DE1D3EB17889D7"
-			],
-			id: "0427E5AA43815E84",
-			tasks: [{
-				id: "437FF4D3F6DF648A",
-				type: "item",
-				item: "modern_industrialization:lv_steam_turbine"
-			}]
 		}
 	]
 }
